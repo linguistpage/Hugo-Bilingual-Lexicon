@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  //padding: 0;
+  //margin: 0;
+}
+html, body {
+  height: 100%;
+}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: normal;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #ccc;
+  margin: 0;
+}
+
+h1 { font-size: 1.50em; }
+h2 { font-size: 1.40em; }
+h3 { font-size: 1.20em; }
+h4 { font-size: 1.00em; }
+h5 { font-size: 0.85em; }
+h6 { font-size: 0.75em; }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+}
+
+a {
+}
+
+a:hover {
+  text-decoration: underline;
+}
+blockquote {
+  border-left: 0.25em solid #333;
+  padding-left: 0.5em;
+  margin-left: 0;
+}
+
+ul, ol {
+  padding: 0 0 1rem 1rem;
+  list-style-type: square;
+  font-variant-numeric: tabular-nums;
+}
+
+code, pre {
+  font-family: San Francisco Mono,Monaco,consolas,lucida console,dejavu sans mono,bitstream vera sans mono,monospace;
+}
+pre, code {
+  font-size: small;
+}
+code {
+  background-color: #333;
+  color: #fff;
+  padding: 0.2rem 0.4rem;
+}
+
+pre code {
+  display: block;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  max-width: 650px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  min-height: 100%;
+  background-color: white;
+
+}
+
+footer {
+  border-top: 1px solid #333;
+  background-color: #fff;
+  padding: 2rem;
+  max-width: 650px;
+  margin: 0 auto;
+  color: #333;
+}
+
+.content h1 {
+  margin-top: 0;
+}
+.list {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  font-size: inherit;
+  font-weight: inherit;
+}
+.list li a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 20px;
+}
+time {
+  font-variant-numeric: tabular-nums;
+}
+
+header {
+  background-color: #fff;
+  padding: 2rem;
+  border-bottom: 1px solid #333;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: .5rem;
+}
+
+nav li {
+  margin-right: .5em;
+  display: inline;
+}
+
+nav li:last-child {
+  margin-right: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a:hover {
+  color: #505050;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 140%;
+  line-height: 1em;
+  text-decoration: none;
+  color: inherit;
+}
+
+.content {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  word-wrap: break-word;
+}
+
+.content p a {
+  text-decoration: underline;
+}
+
+.breadcrumbs li {
+  display: inline;
+  white-space: nowrap;
+}
+
+.breadcrumbs li + li:before {
+  content: ">" !important;
+  padding: 0.1rem !important;
+}
+
+.post-footer {
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+.post-footer ul li{
+	display: inline;
+	margin-left: 5px;
+}
+
+.post-footer ul li::before{
+	content: "#"
+}
+
+.page-header {
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+.rtl , .toc{
+direction: rtl !important;
+}
+
+.details {
+font-weight: bold ;
+}
+
+.toc ul li {
+list-style: none ;
+padding-right: 5px;
+}
+
+.post-tags{
+padding-bottom: 0px !important;
+margin-bottom: 0px !important;
+}

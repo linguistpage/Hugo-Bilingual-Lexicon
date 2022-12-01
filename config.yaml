@@ -1,0 +1,51 @@
+baseurl: ''
+languageCode: en-us
+title: Linguist | اللُّــغَــوِيّــــ
+googleAnalytics: ""
+//preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+disableHugoGeneratorInject: true
+pluralizeListTitles: false
+pygmentsCodeFences: false
+pygmentsUseClasses: false
+minify: true
+
+
+taxonomies:
+  category: categories
+  tag: tags
+  author: authors
+  
+  
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+#    - identifier: projects
+#      name: Projects
+#      url: /projects/
+#      weight: 5
+
+params:
+  description: "Hop Hopsdfsdfsdfsdfsdf."
+  FooterText: "© LinguistPage | 2022"
+  
+
+frontmatter:
+  author: Tarek Shehata
+  github: 'https://github.com/linguistfm'
+  sitename: ######
+  twitter: '######'
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: atom
+
+

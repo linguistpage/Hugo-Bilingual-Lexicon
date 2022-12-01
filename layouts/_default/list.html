@@ -1,0 +1,17 @@
+{{ define "title" -}}
+{{ partial "breadcrumbs.html" . }}
+<br>
+{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+{{ .Content }}
+<ul>
+{{- range.Pages.ByTitle }}
+	<li>
+
+		<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+		</li>
+{{- end }}
+</ul>
+{{- end }}
