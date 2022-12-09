@@ -6,8 +6,6 @@ googleAnalytics: ""
 footnotereturnlinkcontents: ↩
 disableHugoGeneratorInject: true
 pluralizeListTitles: false
-pygmentsCodeFences: false
-pygmentsUseClasses: false
 minify: true
 
 
@@ -49,3 +47,39 @@ outputFormats:
     baseName: atom
 
 
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: true
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: emacs
+    tabWidth: 4
