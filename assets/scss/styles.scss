@@ -36,9 +36,7 @@ h4 { font-size: 1.00em; }
 h5 { font-size: 0.85em; }
 h6 { font-size: 0.75em; }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  text-decoration: none;
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
@@ -82,15 +80,17 @@ main {
   box-sizing: border-box;
   min-height: 100%;
   background-color: white;
+
 }
 
 footer {
-  border-top: 1px solid #333;
+
+  border-top: 1px solid #f6f6f6;
   background-color: #fff;
-  padding: 2rem;
   max-width: 650px;
   margin: 0 auto;
   color: #333;
+  font-size: small;
 }
 
 .content h1 {
@@ -115,15 +115,21 @@ time {
 
 header {
   background-color: #fff;
-  padding: 2rem;
-  border-bottom: 1px solid #333;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  margin-top: .5rem;
+  margin-top: 1rem;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;  
+  padding: 0.2rem;
 }
 
 nav li {
@@ -145,9 +151,10 @@ nav a:hover {
 }
 
 .title {
+display: none;
+  margin-top: 2rem !important;
+  font-size: large;
   font-weight: bold;
-  font-size: 140%;
-  line-height: 1em;
   text-decoration: none;
   color: inherit;
 }
@@ -167,6 +174,19 @@ nav a:hover {
 .breadcrumbs li {
   display: inline;
   white-space: nowrap;
+  padding-top: 0.5rem;
+  font-size: small;
+
+}
+
+.breadcrumbs a{
+  color: blue;
+
+}
+
+.breadcrumbs a:hover{
+  color: blue;
+
 }
 
 .breadcrumbs li + li:before {
@@ -210,6 +230,7 @@ padding-right: 5px;
 padding-bottom: 0px !important;
 margin-bottom: 0px !important;
 padding-left: 0px;
+font-size: small;
 }
 
 input#search {
@@ -217,9 +238,9 @@ input#search {
   all: unset;
   background: #fff;
   color: black;
-  padding: 0.7rem 1rem;
-  border-radius: 4px;
-  border: 2px solid #222222;
+  padding: 0.6rem 0.2rem;
+  border-radius: 2px;
+  border: 2px solid #222;
   height: 10px;
 }
 

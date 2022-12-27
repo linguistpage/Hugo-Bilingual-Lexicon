@@ -3,6 +3,6 @@ title: "Automatic Speech Recognition"
 tags: ['trignometry']
 categories: ['represntation']
 authors: ['']
-lexicons: ['التعرف الآلي على الكلام']
+lexicons: ['التعرف على الكلام المنطوق']
 layout: single
 ---

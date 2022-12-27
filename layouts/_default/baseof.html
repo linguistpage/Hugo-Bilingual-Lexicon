@@ -90,7 +90,6 @@
 
 <a class="title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 
-
 <nav>
 <ul class="breadcrumbs">
 {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
@@ -107,7 +106,9 @@
 {{ end }}
 
 </nav>
+
 </header>
+
 <div class="content">
 
 {{- block "main" . }}{{ end }}

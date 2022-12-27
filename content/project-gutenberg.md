@@ -8,28 +8,35 @@ lexicons: ['مشروع غوتنبرج']
 layout: single
 ---
 <style>
-p .en {
-direction: ltr !important;
-font-weight: bold;
+li {
+  list-style-type: "- ";
+  list-style-position: inside;
 }
 </style>
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; width: 100%">
-<div style="width:50px; height: 50px; background: #282828;"></div>
-<div style="width:50px; height: 50px; background: #282828;"></div>
-<div style="width:50px; height: 50px; background: #282828;"></div>
-<div style="width:50px; height: 50px; background: #282828;"></div>
-<div style="width:50px; height: 50px; background: #282828;"></div>
-<div style="width:50px; height: 50px; background: #282828;"></div>
-</div>
+<br>
 
-**مشروع غوتنبرغ** (بالإنجليزية: Project Gutenberg) هو مشروع تطوعي يهدف إلى تحويل وتخزين ونشر الأعمال الثقافية في هيئة **رقمية**. أسس المشروع **مايكل هارت** في عام 1971 م وهي أقدم مكتبة إلكترونية موجودة.
-معظم المواد الموجودة في المشروع عبارة عن نصوص كاملة ذات **ملكية عامة (Public Domain)** . ويحاول المشروع أن يجعل المواد الموجودة فيه مجانية بقدر المستطاع وبتنسيقات تمكن جميع الحواسيب تقريباً من تشغيلها. *(~ويكيبيديا بتصرف)*
+### مشروع غوتنبرج (Project Gutenberg)
+
+- **مشروع غوتنبرغ** (بالإنجليزية: Project Gutenberg) هو مشروع تطوعي يهدف إلى تحويل وتخزين ونشر الأعمال الثقافية في هيئة **رقمية**.
+- أسس المشروع **مايكل هارت** في عام 1971 م وهي أقدم مكتبة إلكترونية موجودة.
+- معظم المواد الموجودة في المشروع عبارة عن نصوص كاملة ذات **ملكية عامة (Public Domain)** .
+- ويحاول المشروع أن يجعل المواد الموجودة فيه مجانية بقدر المستطاع وبتنسيقات تمكن جميع الحواسيب تقريباً من تشغيلها.
 
 
-# مدونة غوتنبرغ (Gutenberg Corpus) 
+ *المصدر: ويكيبيديا بتصرف*
 
-تتضمن مكتبة **NLTK** مجموعات نصية صغيرة من الأرشيف النصي الإلكتروني لمشروع غوتنبرغ **(The Project Gutenberg)** ، والذي يحتوي على حوالي **25000** كتاب إلكتروني مجاني ، مستضاف على [Gutenberg]( http://www.gutenberg.org/) . نبدأ بتحميل حزمة NLTK  في محرر Python، ثم نكتب الأمر <span class="en"> nltk.corpus.gutenberg.fileids </span>،  لعرض معرفات الملفات في هذه المجموعة:
+
+### مدونة غوتنبرغ (Gutenberg Corpus) 
+
+- تتضمن مكتبة **NLTK** مجموعات نصية صغيرة من الأرشيف النصي الإلكتروني لمشروع غوتنبرغ **(The Project Gutenberg)**
+- يحتوي على حوالي **25000** كتاب إلكتروني مجاني
+- مستضافة على الموقع [Gutenberg]( http://www.gutenberg.org/)
+
+
+### تمرين عملي:
+
+- من الممكن تحميل حزمة أدوات **NLTK** في محرر **Python** ، ثم كتابة الأمر **nltk.corpus.gutenberg.fileids**،  لعرض ملفات **Gutenberg** النصية عن طريق الأكواد التالية:
 
 ```python
 >>> import nltk
@@ -42,7 +49,7 @@ font-weight: bold;
 'shakespeare-macbeth.txt', 'whitman-leaves.txt']
 ```
 
-دعنا نختار أول هذه النصوص - "إيما" لجين أوستن - ونعين له إسمًا قصيرًا ،مثل  **"إيما"** ، ثم نحاول معرفة عدد الكلمات التي تحتوي عليها المدونة:
+- إذا اخترنا أول هذه النصوص - "إيما" لجين أوستن - ونعين له إسمًا قصيرًا (أي variable)،مثل  **"emma"** فسوف نستطيع معرفة عدد الكلمات التي تحتوي عليها المدونة\القصة:
 
 ```python
 >>> emma = nltk.corpus.gutenberg.words('austen-emma.txt')
@@ -51,7 +58,7 @@ font-weight: bold;
 
 ```
 
-عندما قمنا بتعريف emma ، استدعينا الدالة words() للعنصر gutenberg في الـ corpus الخاص بـ NLTK. ولكن نظرًا لأنه من الصعب كتابة مثل هذه الأسماء الطويلة طوال الوقت ، فإن Python توفر إصدارًا آخر من بيان الإدراج import  ، على النحو التالي:
+- عندما قمنا بتعريف **emma** ، استدعينا الدالة **words()** للعنصر **gutenberg** في الـ **corpus** الخاص بـ **NLTK**. ولكن نظرًا لأنه من الصعب كتابة مثل هذه الأسماء الطويلة طوال الوقت ، فإن **Python** توفر طريقةً أخرى من بيان الإدراج **import**  ، على النحو التالي:
 
 
 ```python
@@ -60,13 +67,6 @@ font-weight: bold;
 ['austen-emma.txt', 'austen-persuasion.txt', 'austen-sense.txt', ...]
 >>> emma = gutenberg.words('austen-emma.txt')
 ```
-
-
-دعنا نكتب برنامجًا قصيرًا لعرض معلومات أخرى حول كل نص ، من خلال تكرار - looping -  جميع قيم - values -  معرف الملف المقابلة لمعرفات ملف جوتنبرج المدرجة سابقًا ثم حساب الإحصائيات لكل نص. ولكي نعرض الناتج في هيئة موجزة ، سنقرب كل رقم إلى أقرب عدد صحيح باستخدام <span class="en">round()</span>.
-
-
-
-
 
 
 

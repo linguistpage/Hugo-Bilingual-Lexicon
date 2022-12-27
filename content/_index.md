@@ -1,6 +1,11 @@
 ---
 title: Home
 ---
+<style>
+header {
+display: none !important;
+}
 
-**Search topics or browse [categories](/categories), [tags](/tags), and [resources](/resources)**
+</style>
+**Quick Links:** [Resources](/resources) | [Categories](/categories) | [Tags](/tags) | [Contact](mailto:linguist.page@gmail.com)
 
