@@ -236,21 +236,25 @@ font-size: small;
 input#search {
   text-align: left !important;
   all: unset;
-  background: #fff;
+  background: #ffffff;
   color: black;
-  padding: 0.6rem 0.2rem;
-  border-radius: 2px;
-  border: 2px solid #222;
-  height: 10px;
+  font-weight: 500;
+  font-size: large;
+  padding: 0.6rem 0.6rem;
+  border-radius: 0px;
+  border: 2px solid #555;
+  height: 1.5rem;
+  width: 100%;
 }
 
+/**
 .search {
   position: relative;
   margin: 0.5rem auto 1.2rem;
   display: flex;
   text-align: right;
 }
-
+**/
 /**
 button#clear-search {
   all: unset;
@@ -304,3 +308,5 @@ button#clear-search:hover {
 	text-decoration: none;
 
 }
+
+
