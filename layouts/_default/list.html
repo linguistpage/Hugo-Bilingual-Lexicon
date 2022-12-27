@@ -7,11 +7,11 @@
 {{ .Content }}
 <ul>
 {{- range.Pages.ByTitle }}
-	<li>
+<li>
 
-		<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 
-		</li>
+</li>
 {{- end }}
 </ul>
 {{- end }}

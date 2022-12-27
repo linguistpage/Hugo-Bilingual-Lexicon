@@ -59,9 +59,13 @@ document.addEventListener("DOMContentLoaded", () => {
 {{- $number = add $number 1 -}}
 <li  id="myarticles" data-tags="{{.Params.Tags}}" {{ if gt $number .Site.Params.indexarticles }}class="older-article"{{ end }}>
 
-<a href="{{.Permalink}}">
-{{.Title}}
-</a>
+<div class="mainlist">
+<a class="mainlink" href="{{.Permalink}}">{{.Title}}</a>
+<hr class="mainhr">
+<small class="mainarabic"> {{.Params.lexicons }} </small>
+</div>
+
+
 </li>
 {{ end -}}
 </ul>

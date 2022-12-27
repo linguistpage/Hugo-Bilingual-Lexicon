@@ -1,7 +1,7 @@
 baseurl: ''
 languageCode: en-us
 title: Linguist | اللُّــغَــوِيّــــ
-googleAnalytics: ""
+googleAnalytics: "G-RLYXZR4QEW"
 //preserveTaxonomyNames: true
 footnotereturnlinkcontents: ↩
 disableHugoGeneratorInject: true
@@ -13,6 +13,7 @@ taxonomies:
   category: categories
   tag: tags
   author: authors
+  lexicon: lexicons
   
   
 menu:

@@ -247,3 +247,36 @@ button#clear-search:hover {
   color: #333;
 }
 **/
+
+.mainlist {
+    display: flex !important;
+    align-items: baseline;
+    }
+    
+    
+.mainlink {
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-decoration: none;
+}
+
+.mainhr {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: .5rem;
+    margin-left: .5rem;
+    height: 1px;
+    border: 0;
+    border-bottom: 1px dotted #ccc;
+    flex: 1 0 1rem;
+    //opacity: .25;
+}
+
+
+mainarabic {
+	white-space: nowrap;
+}

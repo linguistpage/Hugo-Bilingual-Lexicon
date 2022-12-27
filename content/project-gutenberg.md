@@ -4,6 +4,7 @@ tags: ['gutenberg', 'nltk', 'corpus', 'public domain']
 categories: ['preprocessing']
 authors: ['Steven Bird']
 times: ['60+']
+lexicons: ['مشروع غوتنبرج']
 layout: single
 ---
 <style>

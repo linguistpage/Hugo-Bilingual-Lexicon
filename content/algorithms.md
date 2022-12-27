@@ -3,6 +3,7 @@ title: "Algorithms"
 tags: ['trignometry']
 categories: ['represntation']
 authors: ['']
+lexicons: ['الخوارزميات']
 layout: single
 ---
 
