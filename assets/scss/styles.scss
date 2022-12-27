@@ -58,7 +58,7 @@ blockquote {
 
 ul, ol {
   padding: 0 0 1rem 1rem;
-  list-style-type: square;
+  list-style-type: decimal;
   font-variant-numeric: tabular-nums;
 }
 
@@ -277,6 +277,9 @@ button#clear-search:hover {
 }
 
 
-mainarabic {
+.mainarabic {
 	white-space: nowrap;
+	font-size: small !important;
+	text-decoration: none;
+
 }
