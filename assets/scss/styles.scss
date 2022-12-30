@@ -275,6 +275,7 @@ button#clear-search:hover {
 
 .mainlist {
     display: flex !important;
+    justify-content: space-between;
     align-items: baseline;
     }
     

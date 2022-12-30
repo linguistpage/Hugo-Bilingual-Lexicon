@@ -1,40 +1,12 @@
 ---
 title: "Extension"
-tags: ['trignometry']
-categories: ['represntation']
+tags: ['extensions','format']
+categories: ['Python']
+lexicons: ['إمتداد الملف']
 authors: ['']
 layout: single
 ---
 
-<style>
+### شرح فيديو 
 
-h3{
-color: #ebdbb2 !important;
-zoom: 1;
--moz-transform: scale(1);
-margin-bottom: 10px !important;
-padding-bottom: 10px;
-}
-
-.md-content{
-direction: rtl !important; 
-}
-
-strong {
-text-decoration: underline 2px !important;
-color: #d79921 !important;
-}
-
-.md-nav--secondary {
-direction: rtl !important;
-}
-</style>
-
-
-## إمتداد الملفات
-
-#### [**شرح مرئي مختصر :fontawesome-solid-video:** ](https://youtu.be/p4OqbCJVVHI)
-
-
-
-
+- [فيديو | Youtube](https://www.youtube.com/embed/p4OqbCJVVHI)

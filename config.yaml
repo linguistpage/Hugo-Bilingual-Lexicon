@@ -8,6 +8,8 @@ disableHugoGeneratorInject: true
 pluralizeListTitles: false
 minify: true
 
+staticDir:
+- static
 
 taxonomies:
   category: categories
