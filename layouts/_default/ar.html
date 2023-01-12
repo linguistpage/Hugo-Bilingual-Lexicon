@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
 {{ range .Site.RegularPages.ByParam "arwords" }}
 <li  id="myarticles" class="older-article" style="direction: rtl !important;">
 <div class="mainlist">
-<a class="mainlink" href="{{ .RelPermalink }}"> {{.Params.arwords }} </a>
+<a style="direction:rtl !important; text-align:right !important;" class="mainlink" href="{{ .RelPermalink }}"> {{.Params.arwords }} </a>
 <hr class="mainhr">
 <a class="mainlink" href="{{.Permalink}}">{{.Title}}</a>
 
