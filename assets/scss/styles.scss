@@ -25,7 +25,7 @@ body {
   font-family: 'IBM Plex Sans Arabic', sans-serif;
   line-height: 1.5;
   color: #333;
-  background-color: #fff;
+  background-color: #f9f9f9;
   margin: 0;
 }
 
@@ -55,9 +55,8 @@ blockquote {
 }
 
 ul, ol {
-  padding: 0 0 1rem 1rem;
+
   list-style-type: decimal;
-  font-variant-numeric: tabular-nums;
 }
 
 pre code {
@@ -80,6 +79,7 @@ main {
   box-sizing: border-box;
   min-height: 100%;
   background-color: white;
+  border: 2px solid black;
 
 }
 
@@ -115,13 +115,13 @@ time {
 
 header {
   background-color: #fff;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-right: 2rem;
-  padding-left: 2rem;
-
+  padding-bottom: 0px;
+  margin:0;
 }
 
+nav {
+
+}
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -130,11 +130,13 @@ nav ul {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;  
   padding: 0.2rem;
+  border: 1px solid black;
 }
 
 nav li {
   margin-right: .5em;
   display: inline;
+    border: 1px solid black;
 }
 
 nav li:last-child {
@@ -160,22 +162,25 @@ display: none;
 }
 
 .content {
-  padding-right: 2rem;
-  padding-left: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  word-wrap: break-word;
+padding: 0px 0px 0px 0px;
+word-wrap: break-word;
 }
 
 .content p a {
   text-decoration: underline;
 }
 
+.breadcrumbs {
+
+padding-top:  0px;
+padding-bottom: 0px;
+
+}
 .breadcrumbs li {
   display: inline;
   white-space: nowrap;
-  padding-top: 0.5rem;
   font-size: small;
+    margin-top: 0px;
 
 }
 
@@ -221,11 +226,6 @@ direction: rtl !important;
 font-weight: bold ;
 }
 
-.toc ul li {
-list-style: "- " ;
-padding-right: 5px;
-}
-
 .post-tags{
 padding-bottom: 0px !important;
 margin-bottom: 0px !important;
@@ -234,27 +234,41 @@ font-size: small;
 }
 
 input#search {
-  text-align: left !important;
   all: unset;
   background: #ffffff;
-  color: black;
-  font-weight: 500;
-  font-size: large;
-  padding: 0.6rem 0.6rem;
-  border-radius: 0px;
-  border: 2px solid #555;
-  height: 1.5rem;
+  color: black ;
+  border-bottom: 2px solid black;
+    border-top: 2px solid black;
+  height: 3rem;
+  text-align: left;
+  display: block;
   width: 100%;
+  padding-left: 2%;
+  
 }
 
-/**
+input#search:hover {
+  all: unset;
+  background: #f1f1f1;
+  color: black;
+  border-bottom: 2px solid black;
+    border-top: 2px solid black;
+  height: 3rem;
+  text-align: left;
+  display: block;
+  width: 100%;
+  padding-left: 2%;
+  
+}
+
 .search {
   position: relative;
-  margin: 0.5rem auto 1.2rem;
+margin-top: 0px !important;
+margin-bottom: 0px !important;
   display: flex;
-  text-align: right;
+  text-align: left;
 }
-**/
+
 /**
 button#clear-search {
   all: unset;
@@ -281,10 +295,8 @@ button#clear-search:hover {
     
     
 .mainlink {
-
     overflow: hidden;
     text-overflow: ellipsis;
-
     overflow: hidden;
     text-overflow: ellipsis;
     text-decoration: none;
@@ -310,4 +322,70 @@ button#clear-search:hover {
 
 }
 
+.metadata {
+list-style-type: none;
+margin-top: 0px;
+padding: 5px 10px 5px 5px;
+background: #f3f3f3;
+}
 
+.nvs{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0 !important;
+  margin: 0;
+
+}
+
+.nvs li{
+padding: 0 !important;
+text-align: center !important;
+flex-grow: 1; 
+}
+
+.nvs li:hover{
+padding: 0px !important;
+text-align: center !important;
+flex-grow: 1; 
+background: black;
+color: white !important;
+}
+
+.nvs li a{
+color: inherit;
+font-weight: 500;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0px;
+  width: 100%  !important;
+}
+
+@media only screen and (max-width: 800px) {
+ .nvs li a {
+    font-size: smaller;
+  }
+}
+
+sup {
+font-size: 10px;
+color: blue;
+}
+
+.metadata,
+.metadata li,
+.metadata a,
+.metadata small,
+footer,
+footer ul,
+footer li,
+footer p
+{
+  border: 1px solid black !important;
+  
+  }
+.metadata {
+padding-top: 0px;
+padding-bottom: 0px;
+}

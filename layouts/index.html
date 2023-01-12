@@ -1,16 +1,20 @@
+
+
 {{ define "main" }}
   
   {{ .Content }}
   
 
+<style>
+.breadcrumbs {
+display: none;
+}
+</style>
+
+
   
-<div class="search js-only">
-  <input  type="text" id="search" placeholder="Search...">
-
-</div>
-
+<div class="search js-only"><input type="text" id="search" placeholder="Search..."></div>
 <script>
-
 document.addEventListener("DOMContentLoaded", () => {
   for (e of document.getElementsByClassName("js-only")) {
     e.classList.remove("js-only");
@@ -42,6 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   clearSearch.addEventListener("click", () => {
     search.value = "";
+  })
     posts.forEach(recipe => {
       recipe.hidden = false;
       recipe.classList.remove("matched-recipe");
@@ -49,21 +54,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     artlist.classList.remove("list-searched");
     oldheading.classList.remove("hidden");
-  })
 })
 // @license-end
 </script>
 
 <ul id=artlist>
-{{ $number := 0 -}}
-{{- range.Site.RegularPages.ByTitle -}}
-{{- $number = add $number 1 -}}
-<li  id="myarticles" data-tags="{{.Params.Tags}}" {{ if gt $number .Site.Params.indexarticles }}class="older-article"{{ end }}>
+
+{{- range (where .Site.RegularPages.ByTitle ".Params.unlisted" "!=" "true") -}}
+<li  id="myarticles" class="older-article">
 
 <div class="mainlist">
 <a class="mainlink" href="{{.Permalink}}">{{.Title}}</a>
 <hr class="mainhr">
-<small class="mainarabic" href="{{ .RelPermalink }}"> {{.Params.lexicons }} </small>
+<a class="mainlink" href="{{ .RelPermalink }}"> {{.Params.arwords }} </a>
 </div>
 
 
@@ -72,4 +75,6 @@ document.addEventListener("DOMContentLoaded", () => {
 </ul>
 
 
+
 {{ end }}
+

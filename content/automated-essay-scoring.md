@@ -1,10 +1,12 @@
 ---
-title: "Automatic Essay Scoring"
-tags: ['Automatic Essay Scoring']
-categories: ['NLP']
-lexicons: ['التقييم الآلي للمقال']
-layout: single
+title: "التقييم الآلي للمقال"
+الإنجليزية: "Automated Essay Scoring"
+الأقسام: ['تقنيات اللغات الإنسانية']
+الكلمات_الدلالية : ['']
+الشراح : ['']
+الترتيب_الهجائي_العربي : ['ل']
+الترتيب_الهجائي_الإنجليزي : ['A']
+المترجمون : ['محسن رشوان']
+مصادر_الترجمة: ['مقدمة في حوسبة اللغة العربية']
+slug: "AES"
 ---
-
-
-<iframe src="/intro.pdf#Automated-Essay-Scoring" height="300" width="100%"></iframe>

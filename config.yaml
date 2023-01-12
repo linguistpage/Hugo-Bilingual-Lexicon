@@ -2,7 +2,7 @@ baseurl: ''
 languageCode: en-us
 title: Linguist | اللُّــغَــوِيّــــ
 googleAnalytics: "G-RLYXZR4QEW"
-//preserveTaxonomyNames: true
+preserveTaxonomyNames: false
 footnotereturnlinkcontents: ↩
 disableHugoGeneratorInject: true
 pluralizeListTitles: false
@@ -14,23 +14,37 @@ staticDir:
 taxonomies:
   category: categories
   tag: tags
+  arword: arwords
+  arexp: arexps
+  enword: enwords
+  enexp: enexps
+  arlexicon: arlexicons
+  enlexicon: enlexicons
   author: authors
-  lexicon: lexicons
+  translator: translators
+  citation: citations
+  source: sources
   
-  
+ 
+
+
+
+trans:
+- categories : الأقسام
+
 menu:
   main:
     - name: "Home"
       url: "/"
       weight: 1
-#    - identifier: projects
-#      name: Projects
-#      url: /projects/
-#      weight: 5
+#    - identifier: books
+#      name: books
+#      url: /hmm/
+#      weight: 1
 
 params:
-  description: "Hop Hopsdfsdfsdfsdfsdf."
-  FooterText: "© LinguistPage | 2022"
+  description: "موسوعة اللسانيات الحاسوبية التعليمية"
+  FooterText: "  اللُّــغَــوِيّــــ | 2023 ©"
   
 
 frontmatter:
