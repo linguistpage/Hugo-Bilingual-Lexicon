@@ -2,6 +2,12 @@
 {{ define "main" }}
 
 
+<style>
+.nvs {
+}
+
+</style>
+
 <div class="rtl">
 <ul class="metadata">
 <li><small> المعنى الإنجليزي: {{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
@@ -15,7 +21,7 @@
 {{- end }}
 </small>
 {{- $translators := .Language.Params.Taxonomies.translator | default "translators" }}
-<ul class="post-tags">
+<ul>
 ترجمة :  {{- range ($.GetTerms $translators) }} 
 <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
 {{- end }}

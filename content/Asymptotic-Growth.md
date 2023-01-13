@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['asymptotic', 'growth']
 
-arwords: ['نمو مقارب']
+arwords: 'نمو مقارب'
 
 arexps: []
 

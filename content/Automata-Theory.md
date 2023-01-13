@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['automata', 'theory']
 
-arwords: ['نظرية اﻷجهزة اﻵلية']
+arwords: 'نظرية اﻷجهزة اﻵلية'
 
 arexps: []
 

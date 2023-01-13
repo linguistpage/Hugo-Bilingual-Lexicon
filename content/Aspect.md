@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['aspect']
 
-arwords: ['وجهة الحدث']
+arwords: 'وجهة الحدث'
 
 arexps: []
 

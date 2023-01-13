@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['bottom', 'up']
 
-arwords: ['من اﻷسفل إلى اﻷعلى']
+arwords: 'من اﻷسفل إلى اﻷعلى'
 
 arexps: []
 

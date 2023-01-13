@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['attribute', 'value', 'matrices']
 
-arwords: ['مصفوفات القيم الرمزية']
+arwords: 'مصفوفات القيم الرمزية'
 
 arexps: []
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['bit', 'vector']
 
-arwords: ['مصفوفة بتّات']
+arwords: 'مصفوفة بتّات'
 
 arexps: []
 

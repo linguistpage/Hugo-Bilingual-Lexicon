@@ -43,10 +43,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
+color: black;
+text-decoration: underline #333 ;
 }
 
 a:hover {
   text-decoration: underline;
+  color: white;
+  background: black;
 }
 blockquote {
   border-left: 0.25em solid #333;
@@ -87,7 +91,7 @@ main {
 
 footer {
 
-  border-top: 1px solid #f6f6f6;
+  border-top: 2px solid #f6f6f6;
   background-color: #fff;
   max-width: 650px;
   margin: 0 auto;
@@ -146,7 +150,6 @@ nav li:last-child {
 }
 
 nav a {
-  text-decoration: none;
   color: inherit;
 }
 
@@ -176,6 +179,8 @@ word-wrap: break-word;
 
 padding-top:  0px;
 padding-bottom: 0px;
+margin-top: 0px;
+border-top: 2px solid black;
 
 }
 .breadcrumbs li {
@@ -183,16 +188,16 @@ padding-bottom: 0px;
   white-space: nowrap;
   font-size: small;
     margin-top: 0px;
+    border: none;
 
 }
 
 .breadcrumbs a{
-  color: blue;
-
+text-decoration: none;
+border: none !important;
 }
 
 .breadcrumbs a:hover{
-  color: blue;
 
 }
 
@@ -232,7 +237,10 @@ font-weight: bold ;
 padding-bottom: 0px !important;
 margin-bottom: 0px !important;
 padding-left: 0px;
+margin-top: 0px;
 font-size: small;
+border-top: 2px solid black;
+border-bottom: 2px solid black;
 }
 
 input#search {
@@ -303,7 +311,6 @@ button#clear-search:hover {
     text-overflow: ellipsis;
     overflow: hidden;
     text-overflow: ellipsis;
-    text-decoration: none;
     width: 50%;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
@@ -325,7 +332,6 @@ button#clear-search:hover {
 .mainarabic {
 	white-space: nowrap;
 	font-size: small !important;
-	text-decoration: none;
 
 }
 
@@ -333,7 +339,6 @@ button#clear-search:hover {
 list-style-type: none;
 margin-top: 0px;
 padding: 5px 10px 5px 5px;
-background: #f3f3f3;
 }
 
 .nvs{
@@ -366,7 +371,7 @@ color: white !important;
 color: inherit;
 font-weight: 500;
   display: inline-block;
-  text-decoration: none;
+
   width: 100%  !important;
   padding-top: 0.8rem;
 }
@@ -386,9 +391,7 @@ color: blue;
 .metadata li,
 .metadata a,
 .metadata small,
-footer,
-footer ul,
-footer li,
+
 footer p
 {
   border: 1px solid black !important;

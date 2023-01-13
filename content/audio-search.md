@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['english', 'word']
 
-arwords: ['المعنى العربي']
+arwords: 'المعنى العربي'
 
 arexps: []
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['application', 'orientated']
 
-arwords: ['موجّه نحو التطبيقات']
+arwords: 'موجّه نحو التطبيقات'
 
 arexps: []
 
