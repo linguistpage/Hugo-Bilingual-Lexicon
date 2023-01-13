@@ -9,6 +9,11 @@
 .breadcrumbs {
 display: none;
 }
+.en-ar {
+
+color: white !important;
+background: black !important;
+}
 </style>
 
 
@@ -65,8 +70,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 <div class="mainlist">
 <a class="mainlink" href="{{.Permalink}}">{{.Title}}</a>
-<hr class="mainhr">
-<a style="direction:rtl !important; text-align:right !important;" class="mainlink" href="{{ .RelPermalink }}"> {{.Params.arwords }} </a>
+<!--<hr class="mainhr"> -->
+<a style="border-left: 1px solid #e5e5e5; direction:rtl !important; text-align:right !important;" class="mainlink" href="{{ .RelPermalink }}"> {{.Params.arwords }} </a>
 </div>
 
 
