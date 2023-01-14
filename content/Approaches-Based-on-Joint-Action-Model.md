@@ -1,7 +1,7 @@
 ---
 title: "Approaches Based on Joint Action Model"
 
-categories: ['']
+categories: ['قسم مهم جدا']
 
 tags: ['approaches', 'based', 'on', 'joint', 'action', 'model']
 
@@ -9,7 +9,7 @@ arwords: 'طرق قائمة على نموذج العمل المشترك'
 
 arexps: []
 
-enwords: ['Approaches Based on Joint Action Model']
+enwords: 'Approaches Based on Joint Action Model'
 
 enexps: []
 
@@ -27,3 +27,5 @@ sources: ['المنظمة العربية للترجمة']
 
 slug: ""
 ---
+
+

@@ -3,46 +3,80 @@
 
 
 <style>
-.nvs {
+.breadcrumbs {
+display: none;
 }
 
+h3 {
+text-align: center;
+color: #040404;
+border-top: 2px solid #040404;
+border-bottom: 2px solid #040404;
+padding-top: 1rem;
+padding-bottom: 1rem;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.metadata li {
+border-bottom: 1px solid lightgray;
+padding: 2px;
+}
+
+small a {
+font-weight: bold;
+}
 </style>
 
-<div class="soundcloud">
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1286726662&color=%23ff5500&inverse=true&auto_play=false&show_user=true"></iframe>
-</div>
 
-<!-- <ul class="nvs">
 
-<li class="en-ar" style="border-right: 2px solid black;"><a  href="/"><h1>EN-AR</h1></a></li>
-<li class="ar-en" style="border-right: 0px solid black;"><a href="/arabic"><h1>AR-EN</h1></a></li>
 
-</ul> -->
+
+
 
 <div class="rtl">
-<ul class="metadata">
-<li><small> المعنى الإنجليزي: {{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
-<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-{{- end }}
+
+<h3> {{.Params.arwords }}</h3>
+<div class="postmeta">
+<ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
+<li>
+<small> المعنى الإنجليزي: 
+<a href="{{ .Permalink }}">{{ .Params.enwords }}
+</a>
 </small>
 </li>
 
-<li><small>باب: {{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
-<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-{{- end }}
+<li><small>قسم:
+<a href="{{ .Permalink }}">{{ .Params.categories }}</a>
 </small>
-{{- $translators := .Language.Params.Taxonomies.translator | default "translators" }}
-<ul>
-ترجمة :  {{- range ($.GetTerms $translators) }} 
-<li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-{{- end }}
-</ul>
-<li><small>مصدر الترجمة: {{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
-<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-{{- end }}
+
+<li><small>مصدر الترجمة:  
+<a href="{{ .Permalink }}">{{ .Params.citations }}</a>
+
 </small>
 </li>
 </ul>
+
+<ul style="padding: 0px;" class="metadata">
+<li>
+<small> الباب المعجمي الإنجليزي: 
+<a href="{{ .Permalink }}">{{ .Params.enlexicons }}
+</a>
+</small>
+</li>
+
+<li><small>الباب المعجمي العربي: 
+<a href="{{ .Permalink }}">{{ .Params.arlexicons }}</a>
+</small>
+
+</li>
+</ul>
+
+</div>
+<audio class="player" controls>
+  <source src="/audio/{{ .Title }}.mp3">
+</audio>
+
 
 {{ .Content }}
 </div>

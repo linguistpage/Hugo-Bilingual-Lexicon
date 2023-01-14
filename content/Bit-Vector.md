@@ -1,7 +1,7 @@
 ---
 title: "Bit Vector"
 
-categories: ['']
+categories: 'الإحصاء'
 
 tags: ['bit', 'vector']
 
@@ -9,19 +9,19 @@ arwords: 'مصفوفة بتّات'
 
 arexps: []
 
-enwords: ['Bit Vector']
+enwords: 'Bit Vector'
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
-enlexicons: ['B']
+enlexicons: 'B'
 
 authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: 'دليل أكسفورد في السانيات الحاسوبية'
 
 sources: ['المنظمة العربية للترجمة']
 

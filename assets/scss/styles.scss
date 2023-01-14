@@ -43,20 +43,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-color: black;
+color: #040404;
 text-decoration: underline #333 ;
 }
 
 a:hover {
   text-decoration: underline;
-  color: white;
-  background: black;
+  color: #fffefc;
+  background: #040404;
 }
 
 a h1:hover {
   text-decoration: underline;
-  color: white;
-  background: black;
+  color: #fffefc;
+  background: #040404;
 }
 blockquote {
   border-left: 0.25em solid #333;
@@ -91,7 +91,7 @@ main {
   box-sizing: border-box;
   min-height: 100%;
   background-color: #fffefc;
-  border: 2px solid black;
+  border: 2px solid #040404;
 
 }
 
@@ -182,8 +182,8 @@ word-wrap: break-word;
 padding-top:  0px;
 padding-bottom: 0px;
 margin-top: 0px;
-border-top: 2px solid black !important;
-border-bottom: 2px solid black !important;
+border-top: 2px solid #040404 !important;
+border-bottom: 2px solid #040404 !important;
 border-right: 0px;
 border-left: 0px;
 width: 100% !important;
@@ -204,7 +204,7 @@ border: none !important;
 }
 
 .breadcrumbs a:hover{
-color: white;
+color: #fffefc;
 }
 
 .breadcrumbs li + li:before {
@@ -245,38 +245,39 @@ margin-bottom: 0px !important;
 padding-left: 0px;
 margin-top: 0px;
 font-size: small;
-border-top: 2px solid black;
-border-bottom: 2px solid black;
+border-top: 2px solid #040404;
+border-bottom: 2px solid #040404;
 color: white !important;
 padding: 5px;
 }
 
 .post-tags a{
-color: white !important;
+color: #fffefc !important;
 text-decoration: underline;
 
 }
 input#search {
   all: unset;
-  background: #ffffff;
-  color: black ;
-  border-bottom: 2px solid black;
-    border-top: 2px solid black;
+  background: #fffefc;
+  color: #040404 ;
+  border-bottom: 2px solid #040404;
+    border-top: 2px solid #040404;
   height: 3rem;
   text-align: left;
   display: block;
   width: 100%;
   padding-left: 2%;
     font-size: large;
+
   
 }
 
 input#search:hover {
   all: unset;
-  background: #f1f1f1;
-  color: black;
-  border-bottom: 2px solid black;
-    border-top: 2px solid black;
+  background: #fffefc;
+  color: #040404;
+  border-bottom: 2px solid #040404;
+    border-top: 2px solid #040404;
   height: 3rem;
   text-align: left;
   display: block;
@@ -350,11 +351,15 @@ font-size: small !important;
 
 .metadata {
 margin-top: 0px;
-border-bottom: 2px solid black !important;
+margin-bottom: 0px;
+border-bottom: 2px solid #040404 !important;
 border-right: 0px;
 border-left: 0px;
 width: 100% !important;
-background: white;
+
+padding-top: 1rem;
+padding-bottom: 1rem;
+width: 50%;
 }
 
 .nvs{
@@ -365,6 +370,7 @@ list-style-type: none;
 padding: 0 !important;
 margin: 0;
 height: 3rem;
+background: #fffefc;
 
 }
 
@@ -378,8 +384,8 @@ flex-grow: 1;
 padding: 0px !important;
 text-align: center !important;
 flex-grow: 1; 
-background: black;
-color: white !important;
+background: #040404;
+color: #fffefc !important;
 }
 
 .nvs li a{
@@ -401,10 +407,6 @@ font-size: 10px;
 color: blue;
 }
 
-.metadata {
-padding-top: 0px;
-padding-bottom: 0px;
-}
 
 
 .older-article {
@@ -412,7 +414,7 @@ border-bottom: 1px #e5e5e5 solid;
 }
 
 .soundcloud {
-border-bottom: 2px solid black;
+border-bottom: 2px solid #040404;
 background: #040404;
 padding-top: 10px;
 padding-bottom: 5px;
@@ -420,3 +422,15 @@ padding-right: 5px;
 padding-left: 5px;
 }
 
+audio {
+width: 100%;
+margin-top: 10px;
+
+}
+audio::-webkit-media-controls-panel {
+  background-color: #fffefc;
+}
+
+.postmeta {
+display: flex;
+}
