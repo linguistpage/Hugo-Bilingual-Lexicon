@@ -52,6 +52,12 @@ a:hover {
   color: white;
   background: black;
 }
+
+a h1:hover {
+  text-decoration: underline;
+  color: white;
+  background: black;
+}
 blockquote {
   border-left: 0.25em solid #333;
   padding-left: 0.5em;
@@ -198,7 +204,7 @@ border: none !important;
 }
 
 .breadcrumbs a:hover{
-
+color: white;
 }
 
 .breadcrumbs li + li:before {
@@ -300,20 +306,20 @@ button#clear-search:hover {
 **/
 
 .mainlist {
-    display: flex !important;
+/**    display: flex !important;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: baseline;**/
     }
     
     
-.mainlink {
+.mainlink h1 {
     overflow: hidden;
     text-overflow: ellipsis;
     overflow: hidden;
     text-overflow: ellipsis;
-    width: 50%;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
+    margin-bottom: 0;
 }
 
 .mainhr {
@@ -392,7 +398,6 @@ color: blue;
 .metadata a,
 .metadata small,
 
-footer p
 {
   border: 1px solid black !important;
   
