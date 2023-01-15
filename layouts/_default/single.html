@@ -1,101 +1,100 @@
-
 {{ define "main" }}
-
-
 <style>
-.breadcrumbs {
-display: none;
-}
+  .breadcrumbs {
+    display: none;
+  }
 
-h3 {
-text-align: center;
-color: #040404;
-border-top: 2px solid #040404;
-border-bottom: 2px solid #040404;
-padding-top: 1rem;
-padding-bottom: 1rem;
-margin-top: 0px;
-margin-bottom: 0px;
-}
+  h3 {
+    text-align: center;
+    color: #040404;
+    border-top: 2px solid #040404;
+    border-bottom: 2px solid #040404;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
 
-.metadata li {
-border-bottom: 1px solid lightgray;
-padding: 2px;
-}
+  .metadata li {
+    border-bottom: 1px solid lightgray;
+    padding: 2px;
+  }
 
-small a {
-font-weight: bold;
-}
+  small a {
+    font-weight: bold;
+  }
 </style>
-
-
-
-
-
-
-
 <div class="rtl">
-
-<h3> {{.Params.arwords }}</h3>
-<div class="postmeta">
-<ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
-<li>
-<small> المعنى الإنجليزي: 
-<a href="{{ .Permalink }}">{{ .Params.enwords }}
-</a>
-</small>
-</li>
-
-<li><small>قسم:
-<a href="{{ .Permalink }}">{{ .Params.categories }}</a>
-</small>
-
-<li><small>مصدر الترجمة:  
-<a href="{{ .Permalink }}">{{ .Params.citations }}</a>
-
-</small>
-</li>
-</ul>
-
-<ul style="padding: 0px;" class="metadata">
-<li>
-<small> الباب المعجمي الإنجليزي: 
-<a href="{{ .Permalink }}">{{ .Params.enlexicons }}
-</a>
-</small>
-</li>
-
-<li><small>الباب المعجمي العربي: 
-<a href="{{ .Permalink }}">{{ .Params.arlexicons }}</a>
-</small>
-
-</li>
-</ul>
-
+  <h3> {{.Params.arwords }}</h3>
+  <div class="postmeta">
+    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
+      <li>
+        <small> الأصل الإنجليزي: {{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+    <ul style="padding: 0px;" class="metadata">
+      <li>
+        <small> الباب المعجمي الإنجليزي: {{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+  </div>
+  <div class="postmeta">
+    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
+      <li>
+        <small> المعنى العربي: {{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+    <ul style="padding: 0px;" class="metadata">
+      <li>
+        <small> الباب المعجمي العربي: {{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+  </div>
+  <div class="postmeta">
+    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
+      <li>
+        <small> القسم: {{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+    <ul style="padding: 0px;" class="metadata">
+      <li>
+        <small> المصدر: {{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </small>
+      </li>
+    </ul>
+  </div>
+  <audio class="player" controls>
+    <source src="/audio/{{ .Title }}.mp3">
+  </audio>
+  {{ .Content }}
 </div>
-<audio class="player" controls>
-  <source src="/audio/{{ .Title }}.mp3">
-</audio>
-
-
-{{ .Content }}
-</div>
-
-
-
 <footer style="background: #040404; color: white;" class="post-footer">
-{{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-<ul class="post-tags">
-Tags :  {{- range ($.GetTerms $tags) }} 
-<li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-{{- end }}
-</ul>
-
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- if and (gt (len $pages) 1) (in $pages . ) }}
-
-{{- end }}
+  {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+  <ul class="post-tags"> Tags : {{- range ($.GetTerms $tags) }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    </li>
+    {{- end }}
+  </ul>
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- if and (gt (len $pages) 1) (in $pages . ) }}
+  {{- end }}
 </footer>
-
-
 {{ end }}
