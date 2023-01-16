@@ -10,6 +10,13 @@
           {{- end }}
         </td>
       </tr>
+            <tr>
+        <th scope="row">Arabic Meaning</th>
+        <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
       <tr>
         <th scope="row">English Lexicon</th>
         <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
@@ -17,13 +24,7 @@
           {{- end }}
         </td>
       </tr>
-      <tr>
-        <th scope="row">Arabic Meaning</th>
-        <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </td>
-      </tr>
+
       <tr>
         <th scope="row">Arabic Lexicon</th>
         <td>{{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
