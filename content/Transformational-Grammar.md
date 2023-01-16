@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['transformational', 'grammar']
 
-arwords: ['نحو تحويلي']
+arwords: 'نحو تحويلي'
 
 arexps: []
 
@@ -13,15 +13,15 @@ enwords: ['Transformational Grammar']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
-enlexicons: ['T']
+enlexicons: 'T'
 
 authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['oxford guide for computational linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 

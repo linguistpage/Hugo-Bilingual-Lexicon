@@ -422,7 +422,9 @@ audio {
 width: 100%;
 margin-top: 0px;
 border-top: 2px solid #040404;
+border-bottom: 2px solid #040404;
 padding-top: 10px;
+padding-bottom: 10px;
 
 
 }
@@ -488,5 +490,6 @@ text-align: right;
 text-align-last: right;
 padding: 1%; 
 direction: rtl;
+margin-top: 0px;
 }  
 

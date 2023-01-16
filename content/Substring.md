@@ -5,7 +5,9 @@ categories: ['']
 
 tags: ['substring']
 
-arwords: 'عبارة فرعية'
+arwords: 
+ - 'عبارة فرعية'
+ - 'سلسلة جزئية'
 
 arexps: []
 

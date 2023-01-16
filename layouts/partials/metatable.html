@@ -39,13 +39,19 @@
           {{- end }}
         </td>
       </tr>
-      <tr>
+            <tr>
         <th scope="row">Citation</th>
         <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
+      <tr>
+        <th scope="row">Source</th>
+        <td>
+          <a href="{{.Params.sources }}">{{.Params.sources }}</a>
+        </td>
+      </tr>
+
     </tbody>
   </table>
-  <p>تكون الحركة في هذه المفاصل محدودة أو قليلة وتوجد بين سطحي اتصال طبقة غضروفية، وتسمح مرونتها بإحداث حركة بسيطة كما في فقرات <a href="/wiki/%D8%B9%D9%85%D9%88%D8%AF_%D9%81%D9%82%D8%B1%D9%8A" title="عمود فقري">العمود الفقري</a>، وتوجد هذه المفاصل بوجه عام علي نوعين هما: </p>

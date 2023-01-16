@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['two', 'place', 'predicate']
 
-arwords: ['مسند ذو متعلقتين']
+arwords: 'مسند ذو متعلقتين'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Two-Place Predicate']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['T']
 
@@ -21,7 +21,7 @@ authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['oxford guide for computational linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 

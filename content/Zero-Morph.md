@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['zero', 'morph']
 
-arwords: ['مورف صفر']
+arwords: 'مورف صفر'
 
 arexps: []
 
@@ -21,7 +21,7 @@ authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['oxford guide for computational linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 

@@ -9,7 +9,7 @@ arwords: ['مجهور']
 
 arexps: []
 
-enwords: ['Voiced']
+enwords: 'Voiced'
 
 enexps: []
 

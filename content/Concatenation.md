@@ -5,7 +5,9 @@ categories: ['']
 
 tags: ['concatenation']
 
-arwords: 'طريقة الوصل'
+arwords: 
+ - 'تسلسل'
+ - 'طريقة الوصل'
 
 arexps: []
 
@@ -13,7 +15,7 @@ enwords: ['Concatenation']
 
 enexps: []
 
-arlexicons: ['ط']
+arlexicons: ['س', 'ط']
 
 enlexicons: ['C']
 

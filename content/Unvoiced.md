@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['unvoiced']
 
-arwords: ['مهموس']
+arwords: 'مهموس'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Unvoiced']
 
 enexps: []
 
-arlexicons: ['هـ']
+arlexicons: 'هـ'
 
 enlexicons: ['U']
 
@@ -21,7 +21,7 @@ authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['oxford guide for computational linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 

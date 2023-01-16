@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['underflow', 'problem']
 
-arwords: ['مشكلة صغر النتائج']
+arwords: 'مشكلة صغر النتائج'
 
 arexps: []
 
@@ -13,15 +13,15 @@ enwords: ['Underflow Problem']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
-enlexicons: ['U']
+enlexicons: 'U'
 
 authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['oxford guide for computational linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 
