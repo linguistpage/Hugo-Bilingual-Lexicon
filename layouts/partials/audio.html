@@ -1,3 +1,27 @@
+<style>
+.audiojs{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.audiojs .time {
+color: #fffefc;
+}
+</style>
+
+<script src="/js/audio.min.js"></script>
+<script>
+audiojs.events.ready(function() { 
+audiojs.createAll();
+});
+</script>
+
+
+    <audio class="audiojs" src="/audio/{{ .Title }}.mp3" preload="none"></audio>
+
+<!--
   <audio class="player" controls>
     <source src="/audio/{{ .Title }}.mp3">
-  </audio>
+  </audio> -->

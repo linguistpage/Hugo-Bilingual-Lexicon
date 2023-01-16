@@ -4,6 +4,11 @@
 {{ define "main" -}}
 {{ .Content }}
 
+<style>
+
+</style>
+
+{{ partial "breadcrumbs.html" . }}
 <ul>
 
 {{- range.Pages.ByTitle }}
