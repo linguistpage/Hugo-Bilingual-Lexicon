@@ -1,7 +1,7 @@
 ---
 title: "Approaches Based on Joint Action Model"
 
-categories: ['قسم مهم جدا']
+categories: ['Human Language Technologies']
 
 tags: ['approaches', 'based', 'on', 'joint', 'action', 'model']
 
@@ -21,7 +21,7 @@ authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['Oxford Guide in Computational Linguistics']
 
 sources: ['المنظمة العربية للترجمة']
 

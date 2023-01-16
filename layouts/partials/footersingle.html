@@ -1,11 +1,11 @@
 
-<footer style="direction: ltr; text-align: right; background: #040404; color: white;" class="post-footer">
+<footer style="direction: ltr; text-align: left; background: #040404; color: white;" class="post-footer">
   {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-  <ul class="post-tags"> {{- range ($.GetTerms $tags) }}
+  <ul class="post-tags"> Tags: {{- range ($.GetTerms $tags) }}
     <li>
       <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
     </li>
-    {{- end }}&nbsp;: الكلمات الدلالية
+    {{- end }}
   </ul>
   {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- if and (gt (len $pages) 1) (in $pages . ) }}

@@ -431,8 +431,9 @@ display: flex;
 }
 
 .single-title {
-text-align: center;
-padding-right: 1%;
+text-align: left;
+padding: 1%;
+display: none;
 
 }
 
@@ -442,7 +443,7 @@ table {
 }
 
 td, th { 
-   text-align: right; 
+   text-align: left; 
    border: 1px solid #ddd; 
    padding:.5em 5px;
 }

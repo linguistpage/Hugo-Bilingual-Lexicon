@@ -1,44 +1,45 @@
-<div class="rtl">
-  <h3 class="single-title">{{.Params.arwords }}</h3>
+{{ partial "breadcrumbs.html" . }}
+<div class="">
+  <h3 class="single-title">{{.Params.enwords }}</h3>
   <table class="emp-sales">
     <tbody>
       <tr>
-        <th scope="row">الأصل الإنجليزي</th>
+        <th scope="row">English Word</th>
         <td>{{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">الباب المعجمي الإنجليزي:</th>
+        <th scope="row">English Lexicon</th>
         <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">المعنى العربي: </th>
+        <th scope="row">Arabic Meaning</th>
         <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">الباب المعجمي العربي:</th>
+        <th scope="row">Arabic Lexicon</th>
         <td>{{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">القسم:</th>
+        <th scope="row">Category</th>
         <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">مصدر الترجمة: </th>
+        <th scope="row">Citation</th>
         <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
           <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           {{- end }}
