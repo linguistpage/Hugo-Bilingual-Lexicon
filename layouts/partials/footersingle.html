@@ -1,0 +1,13 @@
+
+<footer style="direction: ltr; text-align: right; background: #040404; color: white;" class="post-footer">
+  {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+  <ul class="post-tags"> {{- range ($.GetTerms $tags) }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    </li>
+    {{- end }}&nbsp;: الكلمات الدلالية
+  </ul>
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- if and (gt (len $pages) 1) (in $pages . ) }}
+  {{- end }}
+</footer>

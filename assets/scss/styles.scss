@@ -429,3 +429,57 @@ audio::-webkit-media-controls-panel {
 .postmeta {
 display: flex;
 }
+
+.single-title {
+text-align: center;
+padding-right: 1%;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th { 
+   text-align: right; 
+   border: 1px solid #ddd; 
+   padding:.5em 5px;
+}
+  th { 
+
+    font-weight: normal;
+    max-width: 30%;
+    width: 30%;
+  } 
+
+  
+  /* queries */
+@media screen and (max-width: 300px){
+   
+  html:not(.emp-sales) .emp-sales th, 
+  html:not(.emp-sales) .emp-sales td {
+    font-size: 0;
+    padding: 0;
+    content: "";
+
+  }
+  html:not(.emp-sales) table {
+    position: relative; 
+    overflow: hidden;
+  }
+
+   /* around here we could use the HTML class to hide all other content on the page aside from the table */
+  html.emp-sales p, html.emp-sales h1 {
+    display: none; 
+  }
+ 
+ }
+ 
+ p {
+
+text-align: justify;
+text-align-last: right;
+padding: 1%; 
+}  
+

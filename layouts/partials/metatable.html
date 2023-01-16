@@ -1,0 +1,49 @@
+<div class="rtl">
+  <h3 class="single-title">{{.Params.arwords }}</h3>
+  <table class="emp-sales">
+    <tbody>
+      <tr>
+        <th scope="row">الأصل الإنجليزي</th>
+        <td>{{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">الباب المعجمي الإنجليزي:</th>
+        <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">المعنى العربي: </th>
+        <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">الباب المعجمي العربي:</th>
+        <td>{{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">القسم:</th>
+        <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">مصدر الترجمة: </th>
+        <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{- end }}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p>تكون الحركة في هذه المفاصل محدودة أو قليلة وتوجد بين سطحي اتصال طبقة غضروفية، وتسمح مرونتها بإحداث حركة بسيطة كما في فقرات <a href="/wiki/%D8%B9%D9%85%D9%88%D8%AF_%D9%81%D9%82%D8%B1%D9%8A" title="عمود فقري">العمود الفقري</a>، وتوجد هذه المفاصل بوجه عام علي نوعين هما: </p>

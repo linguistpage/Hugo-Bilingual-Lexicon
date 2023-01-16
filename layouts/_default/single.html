@@ -1,9 +1,9 @@
 {{ define "main" }}
+
 <style>
   .breadcrumbs {
     display: none;
   }
-
   h3 {
     text-align: center;
     color: #040404;
@@ -14,87 +14,22 @@
     margin-top: 0px;
     margin-bottom: 0px;
   }
-
   .metadata li {
     border-bottom: 1px solid lightgray;
     padding: 2px;
   }
-
+  small {
+    font-weight: normal;
+    }
   small a {
-    font-weight: bold;
+    font-weight: normal;
+    color: black;
+
   }
 </style>
-<div class="rtl">
-  <h3> {{.Params.arwords }}</h3>
-  <div class="postmeta">
-    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
-      <li>
-        <small> الأصل الإنجليزي: {{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-    <ul style="padding: 0px;" class="metadata">
-      <li>
-        <small> الباب المعجمي الإنجليزي: {{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-  </div>
-  <div class="postmeta">
-    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
-      <li>
-        <small> المعنى العربي: {{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-    <ul style="padding: 0px;" class="metadata">
-      <li>
-        <small> الباب المعجمي العربي: {{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-  </div>
-  <div class="postmeta">
-    <ul style="padding: 0px; border-left: 1px solid lightgray;" class="metadata">
-      <li>
-        <small> القسم: {{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-    <ul style="padding: 0px;" class="metadata">
-      <li>
-        <small> المصدر: {{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-          {{- end }}
-        </small>
-      </li>
-    </ul>
-  </div>
-  <audio class="player" controls>
-    <source src="/audio/{{ .Title }}.mp3">
-  </audio>
-  {{ .Content }}
-</div>
-<footer style="background: #040404; color: white;" class="post-footer">
-  {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-  <ul class="post-tags"> Tags : {{- range ($.GetTerms $tags) }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-    </li>
-    {{- end }}
-  </ul>
-  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{- if and (gt (len $pages) 1) (in $pages . ) }}
-  {{- end }}
-</footer>
+
+{{ partial "metatable.html" .}}
+{{ partial "audio.html" .}}
+{{ .Content }}
+{{ partial "footersingle.html" .}}
 {{ end }}

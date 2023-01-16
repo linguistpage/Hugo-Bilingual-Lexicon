@@ -1,7 +1,7 @@
 ---
 title: "Automatic Down Step"
 
-categories: ['']
+categories: ''
 
 tags: ['automatic', 'down', 'step']
 
@@ -9,21 +9,21 @@ arwords: 'هبوط آلي'
 
 arexps: []
 
-enwords: ['Automatic Down Step']
+enwords: 'Automatic Down Step'
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
-enlexicons: ['A']
+enlexicons: 'A'
 
-authors: ['Ruqayya Roshdy']
+authors: 'Ruqayya Roshdy'
 
-translators: ['Tarek Ibrahim']
+translators: 'Tarek Ibrahim'
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: 'دليل أكسفورد في السانيات الحاسوبية'
 
-sources: ['المنظمة العربية للترجمة']
+sources: 'المنظمة العربية للترجمة'
 
 slug: ""
 ---

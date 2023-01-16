@@ -1,29 +1,16 @@
 ---
 title: "Auto-Segmental Phonology"
-
 categories: ['']
-
 tags: ['auto', 'segmental', 'phonology']
-
 arwords: 'علم التقطيع الصوتي اﻵلي'
-
-arexps: []
-
-enwords: ['Auto-Segmental Phonology']
-
+arexps: ['']
+enwords: 'Auto-Segmental Phonology'
 enexps: []
-
-arlexicons: ['ع']
-
-enlexicons: ['A']
-
+arlexicons: 'ع'
+enlexicons: 'A'
 authors: ['Ruqayya Roshdy']
-
-translators: ['Tarek Ibrahim']
-
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
-
-sources: ['المنظمة العربية للترجمة']
-
+translators: 'Tarek Ibrahim'
+citations: 'دليل أكسفورد في السانيات الحاسوبية'
+sources: 'المنظمة العربية للترجمة'
 slug: ""
 ---

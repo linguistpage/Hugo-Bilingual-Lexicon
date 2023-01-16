@@ -1,7 +1,7 @@
 ---
 title: "Automata Theory"
 
-categories: ['']
+categories: ''
 
 tags: ['automata', 'theory']
 
@@ -9,21 +9,21 @@ arwords: 'نظرية اﻷجهزة اﻵلية'
 
 arexps: []
 
-enwords: ['Automata Theory']
+enwords: 'Automata Theory'
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
-enlexicons: ['A']
+enlexicons: 'A'
 
-authors: ['Ruqayya Roshdy']
+authors: 'Ruqayya Roshdy'
 
-translators: ['Tarek Ibrahim']
+translators: 'Tarek Ibrahim'
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: 'دليل أكسفورد في السانيات الحاسوبية'
 
-sources: ['المنظمة العربية للترجمة']
+sources: 'المنظمة العربية للترجمة'
 
 slug: ""
 ---
