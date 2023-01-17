@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['call', 'stack']
 
-arwords: ['مكدس طلب']
+arwords: 'مكدس طلب'
 
 arexps: []
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['linear', 'set']
 
-arwords: ['مجموعة خطية']
+arwords: 'مجموعة خطية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Linear Set']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['L']
 

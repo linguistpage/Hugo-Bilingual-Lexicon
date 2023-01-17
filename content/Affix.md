@@ -13,7 +13,7 @@ enwords: ['Affix']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['A']
 

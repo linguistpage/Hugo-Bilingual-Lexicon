@@ -13,7 +13,7 @@ enwords: ['Aspect']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['A']
 

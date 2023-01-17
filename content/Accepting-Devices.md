@@ -1,6 +1,6 @@
 ---
 title: "Accepting Devices"
-
+draft: true 
 categories: ['']
 
 tags: ['accepting', 'devices']

@@ -1,9 +1,9 @@
 ---
-title: "Auto Segmental Structures"
+title: "AutoSegmental Structures"
 
-categories: ['']
+categories: ['Linguistics']
 
-tags: ['auto', 'segmental', 'structures']
+tags: ['linguistics','auto', 'segmental', 'structures']
 
 arwords: 'تركيبات المقاطع الصوتية'
 
@@ -13,7 +13,7 @@ enwords: ['Auto Segmental Structures']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['A']
 

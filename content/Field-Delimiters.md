@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['field', 'delimiters']
 
-arwords: ['محدّدات حقلية']
+arwords: 'محدّدات حقلية'
 
 arexps: []
 

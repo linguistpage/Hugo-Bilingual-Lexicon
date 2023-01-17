@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['hyphenation']
 
-arwords: ['وضع الكشيدة']
+arwords: 'وضع الكشيدة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Hyphenation']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['H']
 

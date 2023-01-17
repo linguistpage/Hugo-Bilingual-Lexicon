@@ -13,7 +13,7 @@ enwords: ['Base Form']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['B']
 

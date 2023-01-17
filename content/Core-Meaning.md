@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['core', 'Meaning']
 
-arwords: ['معنى أساسي']
+arwords: 'معنى أساسي'
 
 arexps: []
 

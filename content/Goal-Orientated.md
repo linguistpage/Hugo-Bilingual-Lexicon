@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['goal', 'orientated']
 
-arwords: ['موجّه نحو هدف معيّن']
+arwords: 'موجّه نحو هدف معيّن'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Goal Orientated']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['G']
 

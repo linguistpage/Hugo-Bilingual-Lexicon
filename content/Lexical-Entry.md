@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['lexical', 'entry']
 
-arwords: ['مدخل معجمي']
+arwords: 'مدخل معجمي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Lexical Entry']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['L']
 

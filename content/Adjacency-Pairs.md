@@ -13,7 +13,7 @@ enwords: ['Adjacency Pairs']
 
 enexps: []
 
-arlexicons: ['ز']
+arlexicons: 'ز'
 
 enlexicons: ['A']
 

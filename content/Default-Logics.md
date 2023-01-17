@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['default', 'logics']
 
-arwords: ['منطق افتراضي']
+arwords: 'منطق افتراضي'
 
 arexps: []
 

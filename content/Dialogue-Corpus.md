@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['dialogue', 'corpus']
 
-arwords: ['مدونة حوارات']
+arwords: 'مدونة حوارات'
 
 arexps: []
 

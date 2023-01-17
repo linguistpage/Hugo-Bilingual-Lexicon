@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['hard', 'coded']
 
-arwords: ['مدخل مباشرة في شفرة البرنامج']
+arwords: 'مدخل مباشرة في شفرة البرنامج'
 
 arexps: []
 

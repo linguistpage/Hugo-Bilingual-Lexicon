@@ -13,7 +13,7 @@ enwords: ['Attribute-Value']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['A']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['finite', 'state', 'compiler']
 
-arwords: ['مُجمِّع المحدود الحالة']
+arwords: 'مُجمِّع المحدود الحالة'
 
 arexps: []
 

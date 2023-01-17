@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['intensional', 'logic']
 
-arwords: ['منطق قصدي']
+arwords: 'منطق قصدي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Intensional Logic']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['I']
 

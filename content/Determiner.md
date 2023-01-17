@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['determiner']
 
-arwords: ['محدّد']
+arwords: 'محدّد'
 
 arexps: []
 

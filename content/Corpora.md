@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['corpora']
 
-arwords: ['مدونات نصوص']
+arwords: 'مدونات نصوص'
 
 arexps: []
 

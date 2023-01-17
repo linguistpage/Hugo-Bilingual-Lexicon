@@ -13,7 +13,7 @@ enwords: ['Argument Structure']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['A']
 

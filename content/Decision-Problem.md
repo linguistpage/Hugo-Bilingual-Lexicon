@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['decision', 'problem']
 
-arwords: ['مشكلة قرار']
+arwords: 'مشكلة قرار'
 
 arexps: []
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['corpus', 'based', 'revision']
 
-arwords: ['مراجعة مستندة على المدونة']
+arwords: 'مراجعة مستندة على المدونة'
 
 arexps: []
 

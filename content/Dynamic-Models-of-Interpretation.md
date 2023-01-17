@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['dynamic', 'models', 'of', 'interpretation']
 
-arwords: ['نماذج دينامية للتفسير']
+arwords: 'نماذج دينامية للتفسير'
 
 arexps: []
 

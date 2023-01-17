@@ -13,7 +13,7 @@ enwords: ['Adverb']
 
 enexps: []
 
-arlexicons: ['ظ']
+arlexicons: 'ظ'
 
 enlexicons: ['A']
 

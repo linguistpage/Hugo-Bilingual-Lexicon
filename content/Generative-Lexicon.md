@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['generative', 'lexicon']
 
-arwords: ['معجم توليدي']
+arwords: 'معجم توليدي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Generative Lexicon']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['G']
 

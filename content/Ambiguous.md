@@ -13,7 +13,7 @@ enwords: ['Ambiguous']
 
 enexps: []
 
-arlexicons: ['غ']
+arlexicons: 'غ'
 
 enlexicons: ['A']
 

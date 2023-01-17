@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['free', 'morph']
 
-arwords: ['مورف حر']
+arwords: 'مورف حر'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Free Morph']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['F']
 

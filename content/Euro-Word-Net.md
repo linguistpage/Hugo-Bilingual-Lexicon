@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['euro', 'word', 'net']
 
-arwords: ['يورو ووردنت']
+arwords: 'يورو ووردنت'
 
 arexps: []
 

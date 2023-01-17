@@ -1,7 +1,7 @@
 ---
 title: "Average Case Complexity"
 
-categories: ['']
+categories: ['Computer Science']
 
 tags: ['average', 'case', 'complexity']
 
@@ -13,7 +13,7 @@ enwords: ['Average Case Complexity']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['A']
 

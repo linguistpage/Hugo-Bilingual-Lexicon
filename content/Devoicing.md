@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['devoicing']
 
-arwords: ['همس']
+arwords: 'همس'
 
 arexps: []
 

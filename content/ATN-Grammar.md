@@ -13,7 +13,7 @@ enwords: ['ATN Grammar']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['A']
 

@@ -1,6 +1,6 @@
 ---
 title: "Alternative Formalism"
-
+draft: true
 categories: ['']
 
 tags: ['Alternative', 'formalism']
@@ -13,7 +13,7 @@ enwords: ['Alternative Formalism']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['A']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['light', 'syllable']
 
-arwords: ['مقطع خفيف']
+arwords: 'مقطع خفيف'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Light Syllable']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['L']
 

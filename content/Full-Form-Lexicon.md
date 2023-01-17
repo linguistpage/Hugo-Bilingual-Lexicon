@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['full', 'form', 'lexicon']
 
-arwords: ['معجم تام']
+arwords: 'معجم تام'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Full-Form Lexicon']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['F']
 

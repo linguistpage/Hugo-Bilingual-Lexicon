@@ -13,7 +13,7 @@ enwords: ['Asymmetric']
 
 enexps: []
 
-arlexicons: ['غ']
+arlexicons: 'غ'
 
 enlexicons: ['A']
 

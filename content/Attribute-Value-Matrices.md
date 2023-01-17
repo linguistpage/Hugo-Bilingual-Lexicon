@@ -1,7 +1,7 @@
 ---
 title: "Attribute-Value Matrices"
 
-categories: ['']
+categories: ['Mathematics']
 
 tags: ['attribute', 'value', 'matrices']
 
@@ -13,7 +13,7 @@ enwords: ['Attribute-Value Matrices']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['A']
 

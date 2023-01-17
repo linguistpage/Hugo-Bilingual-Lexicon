@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['british', 'national', 'corpus']
 
-arwords: ['المدونة الوطنية للغة اﻹنجليزية']
+arwords: 'المدونة الوطنية للغة اﻹنجليزية'
 
 arexps: []
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['conversational', 'system']
 
-arwords: ['نظام محادثة']
+arwords: 'نظام محادثة'
 
 arexps: []
 

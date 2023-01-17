@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['complexity', 'measures']
 
-arwords: ['مقاييس التعقيد']
+arwords: 'مقاييس التعقيد'
 
 arexps: []
 

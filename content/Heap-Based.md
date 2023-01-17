@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['heap', 'based']
 
-arwords: ['مستند على الكومة']
+arwords: 'مستند على الكومة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Heap-Based']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['H']
 

@@ -13,7 +13,7 @@ enwords: ['Asymptotic Bound']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['A']
 

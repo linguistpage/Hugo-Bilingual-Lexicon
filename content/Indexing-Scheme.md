@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['indexing', 'scheme']
 
-arwords: ['نظام الدليل']
+arwords: 'نظام الدليل'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Indexing Scheme']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['I']
 

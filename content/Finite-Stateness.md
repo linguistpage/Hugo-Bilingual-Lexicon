@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['finite', 'stateness']
 
-arwords: ['محدودية الحالات']
+arwords: 'محدودية الحالات'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Finite-Stateness']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['F']
 

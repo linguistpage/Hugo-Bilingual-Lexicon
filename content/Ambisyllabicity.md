@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['ambisyllabicity']
 
-arwords: 'انتماء مزدوج بالاشتراك'
+arwords: 'انتماء مزدوج'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Ambisyllabicity']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['A']
 

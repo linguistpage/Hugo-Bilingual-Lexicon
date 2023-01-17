@@ -1,7 +1,7 @@
 ---
 title: "Asymptotic Growth"
 
-categories: ['']
+categories: ['Computer Science']
 
 tags: ['asymptotic', 'growth']
 
@@ -13,7 +13,7 @@ enwords: ['Asymptotic Growth']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['A']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['dynamic', 'context', 'knowledge']
 
-arwords: ['معرفة سياقية دينامية']
+arwords: 'معرفة سياقية دينامية'
 
 arexps: []
 

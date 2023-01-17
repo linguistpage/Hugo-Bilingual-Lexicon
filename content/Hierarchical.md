@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['hierarchical']
 
-arwords: ['هرمي']
+arwords: 'هرمي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Hierarchical']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['H']
 

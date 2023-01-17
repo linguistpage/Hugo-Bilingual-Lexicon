@@ -13,7 +13,7 @@ enwords: ['Alternation']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['A']
 

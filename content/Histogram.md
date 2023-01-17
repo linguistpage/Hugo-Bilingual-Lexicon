@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['histogram']
 
-arwords: ['مدرج تكراري']
+arwords: 'مدرج تكراري'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Histogram']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['H']
 

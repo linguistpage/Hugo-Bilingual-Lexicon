@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['default', 'pairing']
 
-arwords: ['مزاوجة افتراضية']
+arwords: 'مزاوجة افتراضية'
 
 arexps: []
 

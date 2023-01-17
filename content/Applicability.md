@@ -1,7 +1,7 @@
 ---
 title: "Applicability"
 
-categories: ['']
+categories: ['General']
 
 tags: ['applicability']
 
@@ -13,7 +13,7 @@ enwords: ['Applicability']
 
 enexps: []
 
-arlexicons: ['ط']
+arlexicons: 'ط'
 
 enlexicons: ['A']
 

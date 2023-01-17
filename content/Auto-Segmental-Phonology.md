@@ -1,6 +1,6 @@
 ---
-title: "Auto-Segmental Phonology"
-categories: ['']
+title: "AutoSegmental Phonology"
+categories: ['Linguistics']
 tags: ['auto', 'segmental', 'phonology']
 arwords: 'علم التقطيع الصوتي اﻵلي'
 arexps: ['']

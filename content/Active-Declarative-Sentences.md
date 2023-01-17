@@ -1,6 +1,6 @@
 ---
 title: "Active Declarative Sentences"
-
+draft: true 
 categories: ['']
 
 tags: ['active', 'declarative', 'sentences']

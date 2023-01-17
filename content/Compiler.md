@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['compiler']
 
-arwords: ['مُجمِّع']
+arwords: 'مُجمِّع'
 
 arexps: []
 

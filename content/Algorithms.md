@@ -13,7 +13,7 @@ enwords: ['Algorithms']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['A']
 

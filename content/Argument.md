@@ -1,6 +1,6 @@
 ---
 title: "Argument"
-
+draft: true
 categories: ['']
 
 tags: ['argument']
@@ -13,7 +13,7 @@ enwords: ['Argument']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['A']
 

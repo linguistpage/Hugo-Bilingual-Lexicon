@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['finite', 'state', 'transducers']
 
-arwords: ['محولات محدودة الحالة']
+arwords: 'محولات محدودة الحالة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Finite-State Transducers']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['F']
 

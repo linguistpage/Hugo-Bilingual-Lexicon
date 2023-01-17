@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['left', 'recursive']
 
-arwords: ['مكرّر من اليسار']
+arwords: 'مكرّر من اليسار'
 
 arexps: []
 

@@ -13,7 +13,7 @@ enwords: ['Bare Sluicing']
 
 enexps: []
 
-arlexicons: ['ث']
+arlexicons: 'ث'
 
 enlexicons: ['B']
 

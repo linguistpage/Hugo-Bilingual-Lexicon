@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['first', 'order', 'logic']
 
-arwords: ['منطق من الدرجة اﻷولى']
+arwords: 'منطق من الدرجة اﻷولى'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['First-Order Logic']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['F']
 

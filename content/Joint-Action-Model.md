@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['joint', 'action', 'model']
 
-arwords: ['نموذج الفعل المشترك']
+arwords: 'نموذج الفعل المشترك'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Joint Action Model']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['J']
 

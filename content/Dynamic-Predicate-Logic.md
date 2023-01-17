@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['dynamic', 'predicate', 'logic']
 
-arwords: ['منطق المسند الديناميكي']
+arwords: 'منطق المسند الديناميكي'
 
 arexps: []
 

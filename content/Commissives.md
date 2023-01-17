@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['commissives']
 
-arwords: ['ملزمات']
+arwords: 'ملزمات'
 
 arexps: []
 

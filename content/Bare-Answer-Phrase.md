@@ -1,7 +1,7 @@
 ---
 title: "Bare Answer Phrase"
 
-categories: ['']
+categories: ['Linguistics']
 
 tags: ['bare', 'answer', 'phrase']
 

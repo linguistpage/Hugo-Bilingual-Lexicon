@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['grouping', 'structure']
 
-arwords: ['هيكل التجميع']
+arwords: 'هيكل التجميع'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Grouping Structure']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['G']
 

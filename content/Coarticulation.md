@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['coarticulation']
 
-arwords: ['مجانسة']
+arwords: 'مجانسة'
 
 arexps: []
 

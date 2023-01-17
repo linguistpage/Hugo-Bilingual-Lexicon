@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['constraint', 'based', 'approach']
 
-arwords: ['نهج مستند على القيود']
+arwords: 'نهج مستند على القيود'
 
 arexps: []
 

@@ -1,7 +1,7 @@
 ---
 title: "Article"
 
-categories: ['']
+categories: ['Linguistics']
 
 tags: ['article']
 
@@ -13,7 +13,7 @@ enwords: ['Article']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['A']
 

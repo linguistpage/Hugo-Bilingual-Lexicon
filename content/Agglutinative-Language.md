@@ -13,7 +13,7 @@ enwords: ['Agglutinative Language']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['A']
 

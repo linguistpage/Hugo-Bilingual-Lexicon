@@ -13,7 +13,7 @@ enwords: ['Beam Search']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['B']
 

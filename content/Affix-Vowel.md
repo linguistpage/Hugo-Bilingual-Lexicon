@@ -5,7 +5,9 @@ categories: ['']
 
 tags: ['affix', 'vowel']
 
-arwords: 'الحرف الصائت للاحقة الأمامية'
+arwords: 
+- 'الحرف الصائت للاحقة الأمامية'
+- 'حرف العلة'
 
 arexps: []
 
@@ -13,7 +15,7 @@ enwords: ['Affix Vowel']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['A']
 

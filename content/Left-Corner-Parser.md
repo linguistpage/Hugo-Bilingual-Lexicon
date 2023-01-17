@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['left', 'corner', 'parser']
 
-arwords: ['محلل الزاوية اليسرى']
+arwords: 'محلل الزاوية اليسرى'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Left-Corner Parser']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['L']
 

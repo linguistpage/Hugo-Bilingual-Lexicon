@@ -1,9 +1,9 @@
 ---
 title: "Antisymmetric"
 
-categories: ['']
+categories: ['Linear Algebra']
 
-tags: ['antisymmetric']
+tags: ['antisymmetric', 'Algebra']
 
 arwords: 'تخالفي'
 
@@ -13,7 +13,7 @@ enwords: ['Antisymmetric']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['A']
 

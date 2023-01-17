@@ -13,7 +13,7 @@ enwords: ['Automata']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['A']
 

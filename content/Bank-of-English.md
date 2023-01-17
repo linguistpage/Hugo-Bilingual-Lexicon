@@ -1,7 +1,7 @@
 ---
 title: "Bank of English"
 
-categories: ['']
+categories: ['NLP','Corpus Linguistics']
 
 tags: ['bank', 'of', 'english']
 
@@ -13,7 +13,7 @@ enwords: ['Bank of English']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['B']
 

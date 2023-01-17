@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['feature', 'geometry']
 
-arwords: ['هندسة السمات المميزة']
+arwords: 'هندسة السمات المميزة'
 
 arexps: []
 

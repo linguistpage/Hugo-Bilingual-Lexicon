@@ -13,7 +13,7 @@ enwords: ['Assertives']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['A']
 

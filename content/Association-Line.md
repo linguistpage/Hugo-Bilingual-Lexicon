@@ -13,7 +13,7 @@ enwords: ['Association Line']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['A']
 

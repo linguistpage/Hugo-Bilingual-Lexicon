@@ -13,7 +13,7 @@ enwords: ['Asymptotic Upper Bound']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['A']
 

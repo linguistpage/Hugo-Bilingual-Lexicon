@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['immediate', 'dominance']
 
-arwords: ['هيمنة فورية']
+arwords: 'هيمنة فورية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Immediate Dominance']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['I']
 

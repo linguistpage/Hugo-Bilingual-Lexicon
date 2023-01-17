@@ -1,7 +1,7 @@
 ---
 title: "Application Orientated"
 
-categories: ['']
+categories: ['General','Software']
 
 tags: ['application', 'orientated']
 
@@ -13,7 +13,7 @@ enwords: ['Application Orientated']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['A']
 

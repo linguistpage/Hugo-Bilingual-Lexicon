@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['compositional', 'semantic', 'theories']
 
-arwords: ['نظريات الدلالة التركيبية']
+arwords: 'نظريات الدلالة التركيبية'
 
 arexps: []
 

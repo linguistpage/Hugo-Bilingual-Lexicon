@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['bound', 'from', 'below']
 
-arwords: ['محدّد من اﻷسفل']
+arwords: 'محدّد من اﻷسفل'
 
 arexps: []
 

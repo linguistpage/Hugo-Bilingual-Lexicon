@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['centering', 'theory']
 
-arwords: ['نظرية التوسيط']
+arwords: 'نظرية التوسيط'
 
 arexps: []
 

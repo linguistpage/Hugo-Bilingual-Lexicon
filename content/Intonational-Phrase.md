@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['intonational', 'phrase']
 
-arwords: ['وحدة تنغيمية']
+arwords: 'وحدة تنغيمية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Intonational Phrase']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['I']
 

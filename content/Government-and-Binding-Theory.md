@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['government', 'and', 'binding', 'theory']
 
-arwords: ['نظرية الحكم واﻹلزام']
+arwords: 'نظرية الحكم واﻹلزام'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Government and Binding Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['G']
 

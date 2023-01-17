@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['lemma', 'lexicon']
 
-arwords: ['معجم تصريفات']
+arwords: 'معجم تصريفات'
 
 arexps: []
 

@@ -13,7 +13,7 @@ enwords: ['Anaphoric Reference']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['A']
 

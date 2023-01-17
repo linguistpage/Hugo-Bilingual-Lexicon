@@ -1,6 +1,6 @@
 ---
 title: "Approaches Based on Joint Action Model"
-
+draft: true
 categories: ['Human Language Technologies']
 
 tags: ['approaches', 'based', 'on', 'joint', 'action', 'model']

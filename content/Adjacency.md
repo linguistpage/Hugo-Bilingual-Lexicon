@@ -13,7 +13,7 @@ enwords: ['Adjacency']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['A']
 

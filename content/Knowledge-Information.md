@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['knowledge', 'information']
 
-arwords: ['معلومات معرفية']
+arwords: 'معلومات معرفية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Knowledge Information']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['K']
 

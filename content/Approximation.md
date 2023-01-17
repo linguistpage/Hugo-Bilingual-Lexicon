@@ -1,7 +1,7 @@
 ---
 title: "Approximation"
 
-categories: ['']
+categories: ['Mathematics']
 
 tags: ['approximation']
 
@@ -13,7 +13,7 @@ enwords: ['Approximation']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['A']
 

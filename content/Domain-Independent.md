@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['domain', 'independent']
 
-arwords: ['مستقل عن المجال']
+arwords: 'مستقل عن المجال'
 
 arexps: []
 

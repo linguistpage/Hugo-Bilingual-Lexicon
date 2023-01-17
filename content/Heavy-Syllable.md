@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['heavy', 'syllable']
 
-arwords: ['مقطع ثقيل']
+arwords: 'مقطع ثقيل'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Heavy Syllable']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['H']
 

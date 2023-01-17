@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['conditional', 'down', 'step']
 
-arwords: ['هبوط مشروط']
+arwords: 'هبوط مشروط'
 
 arexps: []
 
