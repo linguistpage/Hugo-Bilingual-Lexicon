@@ -13,7 +13,7 @@ enwords: ['Benchmarking']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['B']
 

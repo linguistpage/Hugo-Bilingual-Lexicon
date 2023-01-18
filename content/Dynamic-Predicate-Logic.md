@@ -13,7 +13,7 @@ enwords: ['Dynamic Predicate Logic']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['D']
 

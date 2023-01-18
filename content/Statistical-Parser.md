@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['statistical', 'parser']
 
-arwords: ['محلل نحوي إحصائي']
+arwords: 'محلل نحوي إحصائي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Statistical Parser']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['S']
 

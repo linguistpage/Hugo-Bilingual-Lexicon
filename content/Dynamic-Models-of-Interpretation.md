@@ -13,7 +13,7 @@ enwords: ['Dynamic Models of Interpretation']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['D']
 

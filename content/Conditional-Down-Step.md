@@ -13,7 +13,7 @@ enwords: ['Conditional Down Step']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['C']
 

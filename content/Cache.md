@@ -13,7 +13,7 @@ enwords: ['Cache']
 
 enexps: []
 
-arlexicons: ['ذ']
+arlexicons: 'ذ'
 
 enlexicons: ['C']
 

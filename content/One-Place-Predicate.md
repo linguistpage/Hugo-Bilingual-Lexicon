@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['one', 'place', 'predicate']
 
-arwords: ['مسند ذو متعلقة واحدة']
+arwords: 'مسند ذو متعلقة واحدة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['One-Place Predicate']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['O']
 

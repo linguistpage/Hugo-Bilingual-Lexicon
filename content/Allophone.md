@@ -13,7 +13,7 @@ enwords: ['Allophone']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['A']
 

@@ -13,7 +13,7 @@ enwords: ['Compounding']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['C']
 

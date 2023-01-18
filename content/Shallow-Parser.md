@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['shallow', 'parser']
 
-arwords: ['محلّل بسيط']
+arwords: 'محلّل بسيط'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Shallow Parser']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['S']
 

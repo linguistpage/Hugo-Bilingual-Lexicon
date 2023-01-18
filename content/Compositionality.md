@@ -13,7 +13,7 @@ enwords: ['Compositionality']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['C']
 

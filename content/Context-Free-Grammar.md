@@ -13,7 +13,7 @@ enwords: ['Context-Free Grammar']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['C']
 

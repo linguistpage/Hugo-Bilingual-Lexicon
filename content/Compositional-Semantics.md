@@ -13,7 +13,7 @@ enwords: ['Compositional Semantics']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

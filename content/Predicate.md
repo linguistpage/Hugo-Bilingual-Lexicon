@@ -5,7 +5,9 @@ categories: ['']
 
 tags: ['predicate']
 
-arwords: ['مسند', 'خبر']
+arwords: 'مسند'
+
+arwords2: 'خبر'
 
 arexps: []
 
@@ -13,7 +15,7 @@ enwords: ['Predicate']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['P']
 

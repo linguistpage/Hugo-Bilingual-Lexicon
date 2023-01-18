@@ -13,7 +13,7 @@ enwords: ['Determiner']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['D']
 

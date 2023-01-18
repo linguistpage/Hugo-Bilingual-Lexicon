@@ -13,7 +13,7 @@ enwords: ['Definite-Clause']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['D']
 

@@ -13,7 +13,7 @@ enwords: ['Domain-Independent']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['D']
 

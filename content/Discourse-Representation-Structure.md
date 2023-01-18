@@ -13,7 +13,7 @@ enwords: ['Discourse Representation Structure']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['D']
 

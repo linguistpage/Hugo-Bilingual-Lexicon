@@ -13,7 +13,7 @@ enwords: ['EuroWordNet']
 
 enexps: []
 
-arlexicons: ['ي']
+arlexicons: 'ي'
 
 enlexicons: ['E']
 

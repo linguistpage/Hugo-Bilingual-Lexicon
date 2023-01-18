@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['voiced']
 
-arwords: ['مجهور']
+arwords: 'مجهور'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: 'Voiced'
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['V']
 

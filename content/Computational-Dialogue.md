@@ -13,7 +13,7 @@ enwords: ['Computational Dialogue']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['C']
 

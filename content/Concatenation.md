@@ -5,17 +5,18 @@ categories: ['']
 
 tags: ['concatenation']
 
-arwords: 
- - 'تسلسل'
- - 'طريقة الوصل'
+arwords: 'تسلسل'
+arwords2: 'طريقة الوصل'
 
-arexps: []
+arexps: ['']
 
 enwords: ['Concatenation']
 
-enexps: []
+enexps: ['']
 
-arlexicons: ['س', 'ط']
+arlexicons:
+- 'س'
+- 'ط'
 
 enlexicons: ['C']
 

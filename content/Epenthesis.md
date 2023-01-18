@@ -13,7 +13,7 @@ enwords: ['Epenthesis']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['E']
 

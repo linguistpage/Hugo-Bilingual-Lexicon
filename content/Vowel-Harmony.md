@@ -13,7 +13,7 @@ enwords: ['Vowel Harmony']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['V']
 

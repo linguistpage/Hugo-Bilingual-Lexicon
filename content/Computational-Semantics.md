@@ -13,7 +13,7 @@ enwords: ['Computational Semantics']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

@@ -13,7 +13,7 @@ enwords: ['Constraint-Based Approach']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['C']
 

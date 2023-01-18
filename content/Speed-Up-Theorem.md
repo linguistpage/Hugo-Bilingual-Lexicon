@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['speed', 'up', 'theorem']
 
-arwords: ['نظرية التسريع']
+arwords: 'نظرية التسريع'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Speed-Up Theorem']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['S']
 

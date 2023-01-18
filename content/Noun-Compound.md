@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['noun', 'compound']
 
-arwords: ['مركب اسمي']
+arwords: 'مركب اسمي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Noun Compound']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['N']
 

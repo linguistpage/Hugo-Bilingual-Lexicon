@@ -13,7 +13,7 @@ enwords: ['Context Restriction Operator']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

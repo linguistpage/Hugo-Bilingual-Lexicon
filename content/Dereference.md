@@ -13,7 +13,7 @@ enwords: ['Dereference']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['D']
 

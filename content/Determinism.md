@@ -13,7 +13,7 @@ enwords: ['Determinism']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['D']
 

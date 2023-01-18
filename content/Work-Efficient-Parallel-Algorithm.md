@@ -13,7 +13,7 @@ enwords: ['Work-Efficient Parallel Algorithm']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['W']
 

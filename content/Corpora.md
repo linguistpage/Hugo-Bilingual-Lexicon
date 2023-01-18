@@ -13,7 +13,7 @@ enwords: ['Corpora']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['C']
 

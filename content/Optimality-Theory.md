@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['optimality', 'theory']
 
-arwords: ['نظرية مثالية']
+arwords: 'نظرية مثالية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Optimality Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['O']
 

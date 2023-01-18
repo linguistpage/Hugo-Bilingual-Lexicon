@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['text', 'display', 'facility']
 
-arwords: ['وسيلة لعرض النصوص']
+arwords: 'وسيلة لعرض النصوص'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Text Display Facility']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['T']
 

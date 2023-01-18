@@ -13,7 +13,7 @@ enwords: ['Ablaut']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['A']
 

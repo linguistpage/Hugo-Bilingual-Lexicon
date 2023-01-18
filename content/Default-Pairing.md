@@ -13,7 +13,7 @@ enwords: ['Default Pairing']
 
 enexps: []
 
-arlexicons: ['ز']
+arlexicons: 'ز'
 
 enlexicons: ['D']
 

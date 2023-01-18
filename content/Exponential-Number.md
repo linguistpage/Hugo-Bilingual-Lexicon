@@ -13,7 +13,7 @@ enwords: ['Exponential Number']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['E']
 

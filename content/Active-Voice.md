@@ -13,7 +13,7 @@ enwords: ['Active Voice']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['A']
 

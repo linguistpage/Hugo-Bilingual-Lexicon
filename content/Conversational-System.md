@@ -13,7 +13,7 @@ enwords: ['Conversational System']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['C']
 

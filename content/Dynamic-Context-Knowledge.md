@@ -13,7 +13,7 @@ enwords: ['Dynamic Context Knowledge']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['D']
 

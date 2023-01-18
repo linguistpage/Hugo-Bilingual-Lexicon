@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['non', 'terminal']
 
-arwords:
- - 'لا نهائي'
- - 'لا طرفي'
+arwords: 'لا نهائي'
+arwords2: 'لا طرفي'
 
 arexps: []
 
@@ -15,7 +14,7 @@ enwords: ['Non-Terminal']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['N']
 

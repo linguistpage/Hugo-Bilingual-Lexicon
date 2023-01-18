@@ -13,7 +13,7 @@ enwords: ['Field Delimiters']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['F']
 

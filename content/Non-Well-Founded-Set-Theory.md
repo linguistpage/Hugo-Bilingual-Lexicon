@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['non', 'well', 'founded', 'set', 'theory']
 
-arwords: ['نظرية المجموعات الناقصة البنية']
+arwords: 'نظرية المجموعات الناقصة البنية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Non-Well-Founded Set Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['N']
 

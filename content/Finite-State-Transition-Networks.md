@@ -13,7 +13,7 @@ enwords: ['Finite-State Transition Networks']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['F']
 

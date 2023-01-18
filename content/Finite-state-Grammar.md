@@ -13,7 +13,7 @@ enwords: ['Finite-state Grammar']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['F']
 

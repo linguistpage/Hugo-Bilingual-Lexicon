@@ -13,7 +13,7 @@ enwords: ['Boolean Algebra']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['B']
 

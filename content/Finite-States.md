@@ -13,7 +13,7 @@ enwords: ['Finite States']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['F']
 

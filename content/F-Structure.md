@@ -13,7 +13,7 @@ enwords: ['C-Structure']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['F']
 

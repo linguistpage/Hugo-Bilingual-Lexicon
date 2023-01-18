@@ -13,7 +13,7 @@ enwords: ['Break Point']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['B']
 

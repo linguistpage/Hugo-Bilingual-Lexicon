@@ -13,7 +13,7 @@ enwords: ['Context-Free Recognition']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['C']
 

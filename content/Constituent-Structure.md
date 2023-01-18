@@ -13,7 +13,7 @@ enwords: ['Constituent Structure']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['C']
 

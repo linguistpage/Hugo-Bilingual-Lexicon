@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['pushdown', 'store']
 
-arwords: ['مخزن تنازلي']
+arwords: 'مخزن تنازلي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Pushdown Store']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['P']
 

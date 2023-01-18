@@ -13,7 +13,7 @@ enwords: ['Discourse Structure']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['D']
 

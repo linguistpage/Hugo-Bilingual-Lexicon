@@ -13,7 +13,7 @@ enwords: ['Event Structure']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['E']
 

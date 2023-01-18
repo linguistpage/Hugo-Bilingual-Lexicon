@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['pruning']
 
-arwords: 
- - 'تقليم'
- - 'تشذيب'
+arwords: 'تقليم'
+
+arwords2: 'تشذيب'
 
 arexps: []
 
@@ -15,7 +15,9 @@ enwords: ['Pruning']
 
 enexps: []
 
-arlexicons: ['ق', 'ش']
+arlexicons: 
+- 'ق'
+- 'ش'
 
 enlexicons: ['P']
 

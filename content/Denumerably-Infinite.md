@@ -13,7 +13,7 @@ enwords: ['Denumerably Infinite']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['D']
 

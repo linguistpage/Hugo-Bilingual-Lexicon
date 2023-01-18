@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['Factual', 'Questions']
 
-arwords: 
- - 'أسئلة محددة اﻹجابة'
- - 'أسئلة واقعية'
+arwords: 'أسئلة محددة اﻹجابة'
+arwords2: 'أسئلة واقعية'
 
 arexps: []
 

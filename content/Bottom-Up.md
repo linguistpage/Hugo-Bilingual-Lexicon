@@ -13,7 +13,7 @@ enwords: ['Bottom Up']
 
 enexps: []
 
-arlexicons: ['']
+arlexicons: ''
 
 enlexicons: ['B']
 

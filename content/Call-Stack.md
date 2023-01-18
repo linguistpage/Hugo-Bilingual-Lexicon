@@ -13,7 +13,7 @@ enwords: ['Call Stack']
 
 enexps: []
 
-arlexicons: ['ك']
+arlexicons: 'ك'
 
 enlexicons: ['C']
 

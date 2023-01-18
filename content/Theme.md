@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['theme']
 
-arwords: ['موضوع']
+arwords: 'موضوع'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Theme']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['T']
 

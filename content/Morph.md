@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['morph']
 
-arwords: ['مورف']
+arwords: 'مورف'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Morph']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['M']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['plan', 'schema']
 
-arwords: ['مخطط الخطة']
+arwords: 'مخطط الخطة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Plan Schema']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['P']
 

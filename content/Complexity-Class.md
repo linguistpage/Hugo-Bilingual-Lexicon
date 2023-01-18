@@ -13,7 +13,7 @@ enwords: ['Complexity Class']
 
 enexps: []
 
-arlexicons: ['ف']
+arlexicons: 'ف'
 
 enlexicons: ['C']
 

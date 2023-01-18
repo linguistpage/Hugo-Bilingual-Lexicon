@@ -13,7 +13,7 @@ enwords: ['Anaphora']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['A']
 

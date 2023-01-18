@@ -13,7 +13,7 @@ enwords: ['Cross-Serial Dependencies']
 
 enexps: []
 
-arlexicons: ['ت']
+arlexicons: 'ت'
 
 enlexicons: ['C']
 

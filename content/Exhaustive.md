@@ -13,7 +13,7 @@ enwords: ['Exhaustive']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['E']
 

@@ -13,7 +13,7 @@ enwords: ['Finno-Ugaric']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['F']
 

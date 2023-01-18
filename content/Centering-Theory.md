@@ -13,7 +13,7 @@ enwords: ['Centering Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['C']
 

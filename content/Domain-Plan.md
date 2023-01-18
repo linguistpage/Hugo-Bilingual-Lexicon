@@ -13,7 +13,7 @@ enwords: ['Domain Plan']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['D']
 

@@ -13,7 +13,7 @@ enwords: ['Corollary']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['C']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['summation']
 
-arwords: ['مجموع']
+arwords: 'مجموع'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Summation']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['S']
 

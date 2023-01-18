@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['terminal']
 
-arwords: ['نهائي أو طرفي']
+arwords: 'نهائي أو طرفي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Terminal']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['T']
 

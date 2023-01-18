@@ -13,7 +13,7 @@ enwords: ['Dialogue Management']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['D']
 

@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['Segmentation']
 
-arwords: 
- - 'التقسيم'
- - 'التقطيع'
+arwords:  'التقسيم'
+
+arwords2: 'التقطيع'
 
 arexps: []
 

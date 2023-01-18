@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['task', 'orientated']
 
-arwords: ['موجّه نحو مهمّة معينّة']
+arwords: 'موجّه نحو مهمّة معينّة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Task Orientated']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['T']
 

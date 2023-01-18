@@ -13,7 +13,7 @@ enwords: ['Continuation Passing']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['C']
 

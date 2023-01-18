@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['semilinear', 'set']
 
-arwords: ['مجموعة شبه خطية']
+arwords: 'مجموعة شبه خطية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Semilinear Set']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['S']
 

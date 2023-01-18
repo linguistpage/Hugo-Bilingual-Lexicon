@@ -13,7 +13,7 @@ enwords: ['Feature Dependencies']
 
 enexps: []
 
-arlexicons: ['ت']
+arlexicons: 'ت'
 
 enlexicons: ['F']
 

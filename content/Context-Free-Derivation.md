@@ -13,7 +13,7 @@ enwords: ['Context-Free Derivation']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['C']
 

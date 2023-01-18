@@ -13,7 +13,7 @@ enwords: ['Decoding']
 
 enexps: []
 
-arlexicons: ['ف']
+arlexicons: 'ف'
 
 enlexicons: ['D']
 

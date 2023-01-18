@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['monitor', 'corpus']
 
-arwords: ['مدونة رقيبة']
+arwords: 'مدونة رقيبة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Monitor Corpus']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['M']
 

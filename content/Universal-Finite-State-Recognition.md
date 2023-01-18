@@ -13,7 +13,7 @@ enwords: ['Universal Finite-State Recognition']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['U']
 

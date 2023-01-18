@@ -13,7 +13,7 @@ enwords: ['Bare Answer Phrase']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['B']
 

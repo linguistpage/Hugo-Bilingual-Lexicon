@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['quantifier', 'storage']
 
-arwords: ['مخزن المحدّد الكمي']
+arwords: 'مخزن المحدّد الكمي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Quantifier Storage']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['Q']
 

@@ -1,36 +1,14 @@
 ---
-title: ""
-الإنجليزية: ""
-الأقسام : ['']
-الكلمات_الدلالية : ['']
-الشراح : ['']
-الترتيب_الهجائي_العربي : ['']
-الترتيب_الهجائي_الإنجليزي : ['']
-المترجمون : ['']
-مصادر_الترجمة: ['']
+title: "Statistical Machine Translation"
+enwords: "Statistical Machine Translation"
+arwords: "الترجمة الآلية الإحصائية"
+categories : ['Translation', 'Machine Translation', 'Statistics']
+tags : ['']
+translators : ['']
+arlexicons : ['ت']
+enlexicons : ['s']
+authors : ['Tarek Oraby']
+citations: ['N/A']
+sources: "N/A"
 slug: ""
 ---
-
-
-### شروحات فيديو
-
-- []()
-- []()
-
-### شروحات صوتية
-
-- []()
-- []()
-
-## شروحات نصية
-
-- [كتاب ]() صفحة **xx**
-
-## روابط ذات صلة:
-
-- []()
-- []()
-
-### للتبرع:
-
-

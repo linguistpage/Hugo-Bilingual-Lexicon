@@ -13,7 +13,7 @@ enwords: ['Distinguished Start Symbol']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['D']
 

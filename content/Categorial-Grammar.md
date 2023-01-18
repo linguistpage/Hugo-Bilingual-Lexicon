@@ -13,7 +13,7 @@ enwords: ['Categorial Grammar']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['C']
 

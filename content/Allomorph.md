@@ -13,7 +13,7 @@ enwords: ['Allomorph']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['A']
 

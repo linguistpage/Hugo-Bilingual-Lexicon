@@ -4,23 +4,32 @@
   <table class="emp-sales">
     <tbody>
       <tr>
-        <th scope="row">English Word</th>
+        <th scope="row">English</th>
         <td>{{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
             <tr>
-        <th scope="row">Arabic Meaning</th>
+        <th scope="row">Arabic</th>
         <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
+        {{ if .Params.arwords2 }}
+            <tr>
+        <th scope="row">Arabic [2]</th>
+        <td>
+          <li class="table-list"><a href="{{.Params.sources }}">{{.Params.arwords2 }}</a><li>
+          
+        </td>
+      </tr>
+      {{ end }}
       <tr>
         <th scope="row">English Lexicon</th>
         <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
@@ -28,28 +37,28 @@
       <tr>
         <th scope="row">Arabic Lexicon</th>
         <td>{{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
       <tr>
         <th scope="row">Category</th>
         <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
             <tr>
         <th scope="row">Citation</th>
         <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
-          <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
       <tr>
         <th scope="row">Source</th>
         <td>
-          <a href="{{.Params.sources }}">{{.Params.sources }}</a>
+          <li class="table-list"><a href="{{.Params.sources }}">{{.Params.sources }}</a><li>
         </td>
       </tr>
 

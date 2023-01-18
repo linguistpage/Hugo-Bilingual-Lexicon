@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['stress', 'pattern']
 
-arwords: ['نمط النبر']
+arwords: 'نمط النبر'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Stress Pattern']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['S']
 

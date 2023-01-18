@@ -6,6 +6,7 @@ categories: ['']
 tags: ['hyphenation']
 
 arwords: 'وضع الكشيدة'
+arwords2: 'التشريط'
 
 arexps: []
 

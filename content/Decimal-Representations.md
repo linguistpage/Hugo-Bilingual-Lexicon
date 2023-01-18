@@ -13,7 +13,7 @@ enwords: ['Decimal Representations']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['D']
 

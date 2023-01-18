@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['morphism']
 
-arwords: ['محافظة على الشكل']
+arwords: 'محافظة على الشكل'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Morphism']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['M']
 

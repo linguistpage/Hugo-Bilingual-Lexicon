@@ -13,7 +13,7 @@ enwords: ['Extra-Metrical']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['E']
 

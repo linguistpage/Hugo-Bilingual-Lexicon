@@ -13,7 +13,7 @@ enwords: ['Zero Morph']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['Z']
 

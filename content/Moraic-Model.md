@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['moraic', 'model']
 
-arwords: ['نموذج موري']
+arwords: 'نموذج موري'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Moraic Model']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

@@ -13,7 +13,7 @@ enwords: ['Compositional']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['C']
 

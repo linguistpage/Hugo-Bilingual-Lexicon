@@ -13,7 +13,7 @@ enwords: ['Core Meaning']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

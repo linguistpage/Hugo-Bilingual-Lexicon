@@ -13,7 +13,7 @@ enwords: ['Finite-State Morphology']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['F']
 

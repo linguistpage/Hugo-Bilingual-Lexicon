@@ -13,7 +13,7 @@ enwords: ['Complete Reduplication']
 
 enexps: []
 
-arlexicons: ['ض']
+arlexicons: 'ض'
 
 enlexicons: ['C']
 

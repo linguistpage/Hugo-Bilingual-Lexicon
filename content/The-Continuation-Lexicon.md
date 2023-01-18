@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['the', 'continuation', 'lexicon']
 
-arwords: ['معجم الاستمرارية']
+arwords: 'معجم الاستمرارية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['The Continuation Lexicon']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['T']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['semantically', 'tagged', 'corpus']
 
-arwords: ['المدونة ذات ترميز دلالي']
+arwords: 'المدونة ذات ترميز دلالي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Semantically Tagged Corpus']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['S']
 

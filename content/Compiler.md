@@ -13,7 +13,7 @@ enwords: ['Compiler']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['C']
 

@@ -13,7 +13,7 @@ enwords: ['Complementary Distribution']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['C']
 

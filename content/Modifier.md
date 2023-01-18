@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['modifier']
 
-arwords: ['مُعَدِّل']
+arwords: 'مُعَدِّل'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Modifier']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['M']
 

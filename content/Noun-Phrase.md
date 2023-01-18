@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['noun', 'phrase']
 
-arwords: 
- - 'عبارة'
- - 'جملة اسمية'
+arwords: 'عبارة'
+
+arwords2: 'جملة اسمية'
 
 arexps: []
 

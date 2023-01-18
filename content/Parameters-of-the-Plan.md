@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['parameters', 'of', 'the', 'plan']
 
-arwords: ['مؤشّرات الخطة']
+arwords: 'مؤشّرات الخطة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Parameters of the Plan']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['P']
 

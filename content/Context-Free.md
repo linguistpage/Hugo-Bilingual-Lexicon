@@ -13,7 +13,7 @@ enwords: ['Context-Free']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['C']
 

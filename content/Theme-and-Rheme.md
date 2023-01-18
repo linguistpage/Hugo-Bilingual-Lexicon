@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['theme', 'and', 'rheme']
 
-arwords: ['موضوع ووصف']
+arwords: 'موضوع ووصف'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Theme and Rheme']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['T']
 

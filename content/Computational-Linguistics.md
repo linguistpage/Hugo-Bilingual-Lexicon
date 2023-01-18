@@ -13,7 +13,7 @@ enwords: ['Computational Linguistics']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

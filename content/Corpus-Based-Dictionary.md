@@ -13,7 +13,7 @@ enwords: ['Corpus-Based Dictionary']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['C']
 

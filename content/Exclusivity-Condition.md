@@ -13,7 +13,7 @@ enwords: ['Exclusivity Condition']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['E']
 

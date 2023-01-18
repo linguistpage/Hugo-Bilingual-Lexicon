@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['top', 'down']
 
-arwords: ['من اﻷعلى إلى اﻷسفل']
+arwords: 'من اﻷعلى إلى اﻷسفل'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Top-Down']
 
 enexps: []
 
-arlexicons: ['']
+arlexicons: 'م'
 
 enlexicons: ['T']
 

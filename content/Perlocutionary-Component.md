@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['perlocutionary', 'component']
 
-arwords: ['مكوّن فعلي']
+arwords: 'مكوّن فعلي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Perlocutionary Component']
 
 enexps: []
 
-arlexicons: ['ك']
+arlexicons: 'ك'
 
 enlexicons: ['P']
 

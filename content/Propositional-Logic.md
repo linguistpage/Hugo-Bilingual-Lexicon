@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['propositional', 'logic']
 
-arwords: ['منطق اقتراحي']
+arwords: 'منطق اقتراحي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Propositional Logic']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['P']
 

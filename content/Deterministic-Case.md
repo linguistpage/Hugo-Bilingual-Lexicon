@@ -13,7 +13,7 @@ enwords: ['Deterministic Case']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['D']
 

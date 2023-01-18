@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['morphotactics']
 
-arwords: ['نظم المورفيمات']
+arwords: 'نظم المورفيمات'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Morphotactics']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

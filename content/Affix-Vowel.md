@@ -1,13 +1,12 @@
 ---
 title: "Affix Vowel"
 
-categories: ['']
+categories: ['Linguistics']
 
 tags: ['affix', 'vowel']
 
-arwords: 
-- 'الحرف الصائت للاحقة الأمامية'
-- 'حرف العلة'
+arwords: 'الحرف الصائت للاحقة الأمامية'
+arwords2: 'حرف العلة'
 
 arexps: []
 

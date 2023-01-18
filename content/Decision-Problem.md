@@ -13,7 +13,7 @@ enwords: ['Decision Problem']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['D']
 

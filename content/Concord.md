@@ -13,7 +13,7 @@ enwords: ['Concord']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['C']
 

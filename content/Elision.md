@@ -13,7 +13,7 @@ enwords: ['Elision']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['E']
 

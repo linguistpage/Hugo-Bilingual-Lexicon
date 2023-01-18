@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['root', 'lexicon']
 
-arwords: ['معجم جذور']
+arwords: 'معجم جذور'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Root Lexicon']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['R']
 

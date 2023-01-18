@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['meaning', 'postulate']
 
-arwords: ['مسلمة معنى']
+arwords: 'مسلمة معنى'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Meaning Postulate']
 
 enexps: []
 
-arlexicons: ['س']
+arlexicons: 'س'
 
 enlexicons: ['M']
 

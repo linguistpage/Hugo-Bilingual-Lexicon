@@ -13,7 +13,7 @@ enwords: ['Consonants']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['C']
 

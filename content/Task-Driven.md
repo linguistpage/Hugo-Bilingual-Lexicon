@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['task', 'driven']
 
-arwords: ['مدفوع بمهمّة']
+arwords: 'مدفوع بمهمّة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Task Driven']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['T']
 

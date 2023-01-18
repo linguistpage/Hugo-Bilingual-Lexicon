@@ -13,7 +13,7 @@ enwords: 'Approaches Based on Joint Action Model'
 
 enexps: []
 
-arlexicons: ['ط']
+arlexicons: 'ط'
 
 enlexicons: ['A']
 

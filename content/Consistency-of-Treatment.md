@@ -13,7 +13,7 @@ enwords: ['Consistency of Treatment']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['C']
 

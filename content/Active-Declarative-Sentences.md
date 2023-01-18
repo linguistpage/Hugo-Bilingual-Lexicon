@@ -13,7 +13,7 @@ enwords: ['Active Declarative Sentences']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['A']
 

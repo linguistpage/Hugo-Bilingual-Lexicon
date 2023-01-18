@@ -13,7 +13,7 @@ enwords: ['Devoicing']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['D']
 

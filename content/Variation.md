@@ -13,7 +13,7 @@ enwords: ['Variation']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['V']
 

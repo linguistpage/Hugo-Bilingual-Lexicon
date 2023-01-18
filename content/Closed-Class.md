@@ -13,7 +13,7 @@ enwords: ['Closed-Class']
 
 enexps: []
 
-arlexicons: ['ف']
+arlexicons: 'ف'
 
 enlexicons: ['C']
 

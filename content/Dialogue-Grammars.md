@@ -13,7 +13,7 @@ enwords: ['Dialogue Grammars']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['D']
 

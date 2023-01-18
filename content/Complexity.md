@@ -13,7 +13,7 @@ enwords: ['Complexity']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

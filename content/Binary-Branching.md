@@ -13,7 +13,7 @@ enwords: ['Binary Branching']
 
 enexps: []
 
-arlexicons: ['ف']
+arlexicons: 'ف'
 
 enlexicons: ['B']
 

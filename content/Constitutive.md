@@ -13,7 +13,7 @@ enwords: ['Constitutive']
 
 enexps: []
 
-arlexicons: ['ك']
+arlexicons: 'ك'
 
 enlexicons: ['C']
 

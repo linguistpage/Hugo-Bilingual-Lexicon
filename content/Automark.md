@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['automark']
 
-arwords: 
- - 'التقييم اﻵلي'
- - 'تسجيل الدرجات آليا'
+arwords: 'التقييم اﻵلي'
+arwords2: 'تسجيل الدرجات آليا'
 
 arexps: []
 

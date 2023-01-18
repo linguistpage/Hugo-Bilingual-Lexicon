@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['parallel', 'processing']
 
-arwords: ['معالجة بالتوازي']
+arwords: 'معالجة بالتوازي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Parallel Processing']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['P']
 

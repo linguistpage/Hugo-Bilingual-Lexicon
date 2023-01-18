@@ -13,7 +13,7 @@ enwords: ['Constraints in Affixes']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['C']
 

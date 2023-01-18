@@ -13,7 +13,7 @@ enwords: ['Compositional Semantic Theories']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['C']
 

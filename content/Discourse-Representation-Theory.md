@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['discourse', 'representation', 'theory']
 
-arwords: 
-- 'نظرية تمثيل الخطاب الكلاسيكية'
-- 'نظرية تمثيل الخطاب'
+arwords: 'نظرية تمثيل الخطاب الكلاسيكية'
+arwords2: 'نظرية تمثيل الخطاب'
 
 arexps: []
 
@@ -15,7 +14,7 @@ enwords: ['Discourse Representation Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['D']
 

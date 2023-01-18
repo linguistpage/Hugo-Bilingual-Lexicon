@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['parameterized']
 
-arwords: ['مؤشّر']
+arwords: 'مؤشّر'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Parameterized']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['P']
 

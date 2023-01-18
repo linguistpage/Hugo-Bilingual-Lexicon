@@ -13,7 +13,7 @@ enwords: ['Domain Knowledge']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['D']
 

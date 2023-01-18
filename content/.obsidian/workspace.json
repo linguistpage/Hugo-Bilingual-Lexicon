@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bigram.md",
+                "file": "spontaneous-specch-recognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bit ve",
+                "query": "\"title: ' ' \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bigram.md",
+                "file": "spontaneous-specch-recognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bigram.md",
+                "file": "spontaneous-specch-recognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bigram.md"
+                "file": "spontaneous-specch-recognition.md"
               }
             }
           }
@@ -146,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa0a873afd967145",
+  "active": "fbcafe2af83e1921",
   "lastOpenFiles": [
-    "Binary.md",
-    "Bigram.md",
-    "Beam-Search.md",
-    "Bayes-Algorithm.md",
-    "Baseline.md",
-    "Base-Form.md",
-    "Bare-Sluicing.md",
-    "Bare-Answer-Phrase.md",
-    "Bag-of-Words-Approach.md",
-    "Bank-of-English.md"
+    "speech-to-speech-translation.md",
+    "speech-synthesizer.md",
+    "syntax-checker.md",
+    "spelling-checker.md",
+    "semantic-checker.md",
+    "raw-text.md",
+    "question-answering.md",
+    "ocr.md",
+    "ocr-handwriting.md",
+    "normalizer.md"
   ]
 }

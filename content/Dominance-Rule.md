@@ -13,7 +13,7 @@ enwords: ['Dominance Rule']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['D']
 

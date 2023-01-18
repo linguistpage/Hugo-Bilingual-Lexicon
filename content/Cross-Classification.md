@@ -13,7 +13,7 @@ enwords: ['Cross-Classification']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['C']
 

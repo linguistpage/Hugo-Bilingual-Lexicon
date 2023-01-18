@@ -13,7 +13,7 @@ enwords: ['Distribution']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['D']
 

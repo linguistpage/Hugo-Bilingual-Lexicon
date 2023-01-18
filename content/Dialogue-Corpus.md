@@ -13,7 +13,7 @@ enwords: ['Dialogue Corpus']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['D']
 

@@ -13,7 +13,7 @@ enwords: ['Differentiating Senses']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['D']
 

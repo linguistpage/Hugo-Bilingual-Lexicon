@@ -13,7 +13,7 @@ enwords: ['Weak Order']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['W']
 

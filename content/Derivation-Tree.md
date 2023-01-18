@@ -13,7 +13,7 @@ enwords: ['Derivation Tree']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['D']
 

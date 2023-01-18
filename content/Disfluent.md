@@ -13,7 +13,7 @@ enwords: ['Disfluent']
 
 enexps: []
 
-arlexicons: ['غ']
+arlexicons: 'غ'
 
 enlexicons: ['D']
 

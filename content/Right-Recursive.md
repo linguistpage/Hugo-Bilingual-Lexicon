@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['right', 'recursive']
 
-arwords: ['مكرّر من اليمين']
+arwords: 'مكرّر من اليمين'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Right Recursive']
 
 enexps: []
 
-arlexicons: ['ك']
+arlexicons: 'ك'
 
 enlexicons: ['R']
 

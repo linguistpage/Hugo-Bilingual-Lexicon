@@ -13,7 +13,7 @@ enwords: ['Accepting Devices']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['A']
 

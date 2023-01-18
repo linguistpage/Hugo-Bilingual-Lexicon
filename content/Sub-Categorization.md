@@ -2,11 +2,11 @@
 title: "Sub Categorization"
 categories: ['']
 tags: ['sub', 'categorization']
-arwords: ['مجموعة فرعية']
+arwords: 'مجموعة فرعية'
 arexps: 
 enwords: ['Sub Categorization']
 enexps: 
-arlexicons: ['ج']
+arlexicons: 'ج'
 enlexicons: ['S']
 authors: ['Ruqayya Roshdy']
 translators: ['Tarek Ibrahim']

@@ -13,7 +13,7 @@ enwords: ['Computational Phonology']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

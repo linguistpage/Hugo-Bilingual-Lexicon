@@ -13,7 +13,7 @@ enwords: ['Declension']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['D']
 

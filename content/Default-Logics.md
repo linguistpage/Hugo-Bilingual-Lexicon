@@ -13,7 +13,7 @@ enwords: ['Default Logics']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['D']
 

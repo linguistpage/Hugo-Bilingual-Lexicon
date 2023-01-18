@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['substring']
 
-arwords: 
- - 'عبارة فرعية'
- - 'سلسلة جزئية'
+arwords: 'عبارة فرعية'
+
+arwords2: 'سلسلة جزئية'
 
 arexps: []
 
@@ -15,7 +15,7 @@ enwords: ['Substring']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['S']
 

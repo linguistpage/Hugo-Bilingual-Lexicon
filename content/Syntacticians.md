@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['syntacticians']
 
-arwords: ['نحويون']
+arwords: 'نحويون'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Syntacticians']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['S']
 

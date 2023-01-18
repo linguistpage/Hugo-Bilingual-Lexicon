@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['norm']
 
-arwords: ['معيار']
+arwords: 'معيار'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Norm']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['N']
 

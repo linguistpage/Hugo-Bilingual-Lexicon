@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['portmanteau', 'morph']
 
-arwords: ['مورف منحوت']
+arwords: 'مورف منحوت'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Portmanteau Morph']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['P']
 

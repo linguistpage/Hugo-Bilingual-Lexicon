@@ -13,7 +13,7 @@ enwords: ['Accepting']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['A']
 

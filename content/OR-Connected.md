@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['or', 'connected']
 
-arwords: ['مربوط بالمعامل المنطقي أو']
+arwords: 'مربوط بالمعامل المنطقي أو'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['OR-Connected']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['O']
 

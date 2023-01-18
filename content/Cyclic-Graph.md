@@ -13,7 +13,7 @@ enwords: ['Cyclic Graph']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['C']
 

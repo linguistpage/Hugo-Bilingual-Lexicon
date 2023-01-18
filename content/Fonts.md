@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['Fonts']
 
-arwords: 
- - 'حروف مطبعية'
- - 'الخطوط'
+arwords: 'حروف مطبعية'
+arwords2: 'الخطوط'
 
 arexps: []
 

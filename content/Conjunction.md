@@ -13,7 +13,7 @@ enwords: ['Conjunction']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['C']
 

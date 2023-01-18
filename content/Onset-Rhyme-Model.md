@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['onset', 'rhyme', 'model']
 
-arwords: ['نموذج البداية - القافية']
+arwords: 'نموذج البداية - القافية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Onset-Rhyme Model']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['O']
 

@@ -13,7 +13,7 @@ enwords: ['Vertix']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['V']
 

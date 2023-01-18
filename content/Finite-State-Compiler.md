@@ -13,7 +13,7 @@ enwords: ['Finite-State Compiler']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['F']
 

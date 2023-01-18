@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['semantics']
 
-arwords: 
- - 'علم الدلالة'
- - 'علم المعاني'
+arwords:  'علم الدلالة'
+
+arwords2: 'علم المعاني'
 
 arexps: []
 
@@ -15,7 +15,7 @@ enwords: ['Semantics']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['S']
 

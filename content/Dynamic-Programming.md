@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['dynamic', 'programming']
 
-arwords: 
- - 'برمجة حركية'
- - 'برمجة ديناميكية'
+arwords: 'برمجة حركية'
+arwords2: 'برمجة ديناميكية'
 
 arexps: []
 
@@ -15,7 +14,7 @@ enwords: ['Dynamic Programming']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'ب'
 
 enlexicons: ['D']
 

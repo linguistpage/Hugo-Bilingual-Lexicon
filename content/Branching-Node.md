@@ -13,7 +13,7 @@ enwords: ['Branching Node']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['B']
 

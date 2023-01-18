@@ -13,7 +13,7 @@ enwords: ['Definite NP']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['D']
 

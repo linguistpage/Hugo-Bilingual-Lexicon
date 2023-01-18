@@ -13,7 +13,7 @@ enwords: ['Collocation']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['C']
 

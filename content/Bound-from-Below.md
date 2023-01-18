@@ -13,7 +13,7 @@ enwords: ['Bound from Below']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['B']
 

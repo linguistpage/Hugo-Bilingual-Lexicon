@@ -13,7 +13,7 @@ enwords: ['Dialogue Typology']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['D']
 

@@ -13,7 +13,7 @@ enwords: ['Encoding']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['E']
 

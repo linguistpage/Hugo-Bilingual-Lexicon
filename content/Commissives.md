@@ -13,7 +13,7 @@ enwords: ['Commissives']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['C']
 

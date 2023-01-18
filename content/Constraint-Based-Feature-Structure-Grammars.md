@@ -13,7 +13,7 @@ enwords: ['Constraint-Based Feature-Structure Grammars']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['C']
 

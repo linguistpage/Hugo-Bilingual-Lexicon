@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['quantificational', 'determiner']
 
-arwords: ['محدّد كمي']
+arwords: 'محدّد كمي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Quantificational Determiner']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['Q']
 

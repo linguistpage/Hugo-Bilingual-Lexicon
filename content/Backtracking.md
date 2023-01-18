@@ -13,7 +13,7 @@ enwords: ['Backtracking']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['B']
 

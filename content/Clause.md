@@ -13,7 +13,7 @@ enwords: ['Clause']
 
 enexps: []
 
-arlexicons: ['ش']
+arlexicons: 'ش'
 
 enlexicons: ['C']
 

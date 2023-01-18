@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['referential', 'aspect', 'marker']
 
-arwords: ['مؤشر وجهة حدث اﻹشارة']
+arwords: 'مؤشر وجهة حدث اﻹشارة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Referential Aspect Marker']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['R']
 

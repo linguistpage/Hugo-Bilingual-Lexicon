@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['situation', 'theory']
 
-arwords: ['نظرية الحالة']
+arwords: 'نظرية الحالة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Situation Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['S']
 

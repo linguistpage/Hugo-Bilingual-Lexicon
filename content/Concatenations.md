@@ -13,7 +13,7 @@ enwords: ['Concatenations']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['C']
 

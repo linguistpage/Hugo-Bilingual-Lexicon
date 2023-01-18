@@ -13,7 +13,7 @@ enwords: ['Computational Morphology']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

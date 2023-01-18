@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['match']
 
-arwords: ['نظير']
+arwords: 'نظير'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Match']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

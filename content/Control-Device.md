@@ -13,7 +13,7 @@ enwords: ['Control Device']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['C']
 

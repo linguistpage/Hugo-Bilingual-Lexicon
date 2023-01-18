@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['recursive', 'descent', 'parser']
 
-arwords: ['محلل نزول تكراري']
+arwords: 'محلل نزول تكراري'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Recursive Descent Parser']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['R']
 

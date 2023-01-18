@@ -13,7 +13,7 @@ enwords: ['Corpus-Based Revision']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['C']
 

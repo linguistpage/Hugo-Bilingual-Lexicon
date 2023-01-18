@@ -6,7 +6,7 @@ arwords: 'محل شفرة المصدر'
 arexps: []
 enwords: ['Code Locality']
 enexps: []
-arlexicons: ['ح']
+arlexicons: 'ح'
 enlexicons: ['C']
 authors: ['Ruqayya Roshdy']
 translators: ['Tarek Ibrahim']

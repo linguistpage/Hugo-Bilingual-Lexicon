@@ -13,7 +13,7 @@ enwords: ['Early Generative Phonology']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['E']
 

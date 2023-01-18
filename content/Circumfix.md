@@ -13,7 +13,7 @@ enwords: ['Circumfix']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'ل'
 
 enlexicons: ['C']
 

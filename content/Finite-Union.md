@@ -13,7 +13,7 @@ enwords: ['Finite Union']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['F']
 

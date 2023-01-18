@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['parser']
 
-arwords: ['محلّل نحوي']
+arwords: 'محلّل نحوي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Parser']
 
 enexps: []
 
-arlexicons: ['ح']
+arlexicons: 'ح'
 
 enlexicons: ['P']
 

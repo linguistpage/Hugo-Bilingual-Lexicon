@@ -13,7 +13,7 @@ enwords: ['Complexity of Regular Language Problems']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

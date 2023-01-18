@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['property', 'theory']
 
-arwords: ['نظرية الخواص']
+arwords: 'نظرية الخواص'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Property Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['P']
 

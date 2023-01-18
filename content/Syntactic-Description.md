@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['syntactic', 'description']
 
-arwords: ['وصف نحوي']
+arwords: 'وصف نحوي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Syntactic Description']
 
 enexps: []
 
-arlexicons: ['و']
+arlexicons: 'و'
 
 enlexicons: ['S']
 

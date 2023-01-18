@@ -13,7 +13,7 @@ enwords: ['Directive']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['D']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['proper', 'subset']
 
-arwords: ['مجموعة فرعية أصيلة']
+arwords: 'مجموعة فرعية أصيلة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Proper Subset']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['P']
 

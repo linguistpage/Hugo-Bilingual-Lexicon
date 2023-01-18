@@ -13,7 +13,7 @@ enwords: ['Finite-State Methods']
 
 enexps: []
 
-arlexicons: ['ط']
+arlexicons: 'ط'
 
 enlexicons: ['F']
 

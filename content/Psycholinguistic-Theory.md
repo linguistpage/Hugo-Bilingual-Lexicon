@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['psycholinguistic', 'theory']
 
-arwords: ['نظرية لغوية نفسية']
+arwords: 'نظرية لغوية نفسية'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Psycholinguistic Theory']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['P']
 

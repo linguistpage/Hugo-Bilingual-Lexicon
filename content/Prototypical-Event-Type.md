@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['prototypical', 'event', 'type']
 
-arwords: ['نوع الحدث النموذجي']
+arwords: 'نوع الحدث النموذجي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Prototypical Event Type']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['P']
 

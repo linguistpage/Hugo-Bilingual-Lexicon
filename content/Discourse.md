@@ -13,7 +13,7 @@ enwords: ['Discourse']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['D']
 

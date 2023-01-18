@@ -13,7 +13,7 @@ enwords: ['Expressive']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['E']
 

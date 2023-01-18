@@ -13,7 +13,7 @@ enwords: ['Cardinality']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['C']
 

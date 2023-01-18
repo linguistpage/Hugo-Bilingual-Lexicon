@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['penn', 'treebank']
 
-arwords: ['مدونة النصوص المحلّلة نحوياً لجامعة بنسلفانيا']
+arwords: 'مدونة النصوص المحلّلة نحوياً لجامعة بنسلفانيا'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Penn Treebank']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['P']
 

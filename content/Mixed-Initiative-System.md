@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['mixed', 'initiative', 'system']
 
-arwords: ['نظام ذو مبادرة مختلطة']
+arwords: 'نظام ذو مبادرة مختلطة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Mixed-Initiative System']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

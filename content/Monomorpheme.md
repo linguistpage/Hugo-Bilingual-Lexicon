@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['monomorpheme']
 
-arwords: ['مورفيم مصغّر']
+arwords: 'مورفيم مصغّر'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Monomorpheme']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['M']
 

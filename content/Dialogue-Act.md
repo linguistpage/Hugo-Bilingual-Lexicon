@@ -13,7 +13,7 @@ enwords: ['Dialogue Act']
 
 enexps: []
 
-arlexicons: ['ف']
+arlexicons: 'ف'
 
 enlexicons: ['D']
 

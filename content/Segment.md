@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['segment']
 
-arwords: ['مقطع']
+arwords: 'مقطع'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Segment']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['S']
 

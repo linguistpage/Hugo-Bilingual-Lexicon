@@ -13,7 +13,7 @@ enwords: ['Vertx Cover']
 
 enexps: []
 
-arlexicons: ['غ']
+arlexicons: 'غ'
 
 enlexicons: ['V']
 

@@ -13,7 +13,7 @@ enwords: ['Coarticulation']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['C']
 

@@ -13,7 +13,7 @@ enwords: ['Feature Geometry']
 
 enexps: []
 
-arlexicons: ['ه']
+arlexicons: 'ه'
 
 enlexicons: ['F']
 

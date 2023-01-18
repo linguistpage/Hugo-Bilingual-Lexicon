@@ -13,7 +13,7 @@ enwords: ['Directed-Graph']
 
 enexps: []
 
-arlexicons: ['ر']
+arlexicons: 'ر'
 
 enlexicons: ['D']
 

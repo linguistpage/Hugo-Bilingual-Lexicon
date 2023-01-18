@@ -13,7 +13,7 @@ enwords: ['Finite-State Devices']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['F']
 

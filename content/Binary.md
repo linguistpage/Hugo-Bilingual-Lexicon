@@ -13,7 +13,7 @@ enwords: ['Binary']
 
 enexps: []
 
-arlexicons: ['ث']
+arlexicons: 'ث'
 
 enlexicons: ['B']
 

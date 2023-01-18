@@ -13,7 +13,7 @@ enwords: ['ALPAC Report']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['A']
 

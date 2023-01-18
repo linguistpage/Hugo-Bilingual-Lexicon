@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['Threshold']
 
-arwords: 
- - 'قيمة محددة'
- - 'عتبة'
+arwords: 'قيمة محددة'
+arwords2: 'عَتَبة'
 
 arexps: []
 

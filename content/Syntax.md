@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['syntax']
 
-arwords: ['نحو']
+arwords: 'نحو'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Syntax']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['S']
 

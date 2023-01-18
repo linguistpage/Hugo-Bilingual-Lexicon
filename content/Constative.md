@@ -13,7 +13,7 @@ enwords: ['Constative']
 
 enexps: []
 
-arlexicons: ['خ']
+arlexicons: 'خ'
 
 enlexicons: ['C']
 

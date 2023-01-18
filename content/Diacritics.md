@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['diacritics']
 
-arwords: 
- - 'علامات'
- - 'حركات'
+arwords: 'علامات'
+arwords2: 'حركات'
 
 arexps: []
 
@@ -15,7 +14,9 @@ enwords: ['Diacritics']
 
 enexps: []
 
-arlexicons: ['ع', 'ح']
+arlexicons: 
+- 'ع'
+- 'ح'
 
 enlexicons: ['D']
 

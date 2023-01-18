@@ -13,7 +13,7 @@ enwords: ['Concession']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['C']
 

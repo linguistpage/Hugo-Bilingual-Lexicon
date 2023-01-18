@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['morph', 'syntax']
 
-arwords: ['نحو صرفي']
+arwords: 'نحو صرفي'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Morph Syntax']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['multiset']
 
-arwords: ['مجموعة متعدّدة']
+arwords: 'مجموعة متعدّدة'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Multiset']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['M']
 

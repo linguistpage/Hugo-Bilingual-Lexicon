@@ -13,7 +13,7 @@ enwords: ['Computational Lexicography']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['C']
 

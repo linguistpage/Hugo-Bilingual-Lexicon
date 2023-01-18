@@ -13,7 +13,7 @@ enwords: ['Best-Scoring']
 
 enexps: []
 
-arlexicons: ['أ']
+arlexicons: 'أ'
 
 enlexicons: ['B']
 

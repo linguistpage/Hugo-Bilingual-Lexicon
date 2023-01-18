@@ -13,7 +13,7 @@ enwords: ['Conceptual Representations']
 
 enexps: []
 
-arlexicons: ['م']
+arlexicons: 'م'
 
 enlexicons: ['C']
 

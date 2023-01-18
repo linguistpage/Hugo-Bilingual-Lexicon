@@ -13,7 +13,7 @@ enwords: ['Dominance Relation']
 
 enexps: []
 
-arlexicons: ['ع']
+arlexicons: 'ع'
 
 enlexicons: ['D']
 

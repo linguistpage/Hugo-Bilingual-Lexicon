@@ -13,7 +13,7 @@ enwords: ['Upbeat']
 
 enexps: []
 
-arlexicons: ['ص']
+arlexicons: 'ص'
 
 enlexicons: ['U']
 

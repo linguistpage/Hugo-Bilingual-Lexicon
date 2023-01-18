@@ -5,9 +5,8 @@ categories: ['']
 
 tags: ['syllable', 'structure']
 
-arwords: 
- - 'تركيب مقطعي'
- - 'تركيب المقاطع الصوتية'
+arwords: 'تركيب مقطعي'
+arwords2: 'تركيب المقاطع الصوتية'
 
 arexps: []
 

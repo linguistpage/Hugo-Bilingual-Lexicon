@@ -13,7 +13,7 @@ enwords: ['Finite Automata']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ج'
 
 enlexicons: ['F']
 

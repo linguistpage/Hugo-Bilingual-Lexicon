@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['modal', 'logic']
 
-arwords: ['منطق طوري']
+arwords: 'منطق طوري'
 
 arexps: []
 
@@ -13,7 +13,7 @@ enwords: ['Modal Logic']
 
 enexps: []
 
-arlexicons: ['ن']
+arlexicons: 'ن'
 
 enlexicons: ['M']
 

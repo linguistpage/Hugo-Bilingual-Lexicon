@@ -13,7 +13,7 @@ enwords: ['British National Corpus']
 
 enexps: []
 
-arlexicons: ['د']
+arlexicons: 'د'
 
 enlexicons: ['B']
 

@@ -5,9 +5,9 @@ categories: ['']
 
 tags: ['phrase', 'structure', 'grammar']
 
-arwords: 
- - 'قواعد نحوية لتركيب العبارات'
- - 'قواعد لغة العبارات المركّبة'
+arwords: 'قواعد نحوية لتركيب العبارات'
+
+arwords2: 'قواعد لغة العبارات المركّبة'
 
 arexps: []
 
@@ -15,7 +15,7 @@ enwords: ['Phrase-Structure Grammar']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
 enlexicons: ['P']
 
