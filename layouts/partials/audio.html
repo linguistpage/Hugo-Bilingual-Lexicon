@@ -1,3 +1,8 @@
+{{ $pgtitle := print "static/audio/" .Title ".mp3" }}
+{{ if fileExists $pgtitle }}
+
 <audio style="margin-bottom: 10px;" class="player" controls>
-    <source id="my_audio" src="/audio/{{ .Title }}.mp3" type="audio/mpeg">
+    <source id="my_audio" src="/audio/{{.Title }}.mp3" type="audio/mpeg">
 </audio>
+
+{{end}}
