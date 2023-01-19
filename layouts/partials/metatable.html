@@ -56,9 +56,11 @@
         </td>
       </tr>
       <tr>
+            <tr>
         <th scope="row">Source</th>
-        <td>
-          <li class="table-list"><a href="{{.Params.sources }}">{{.Params.sources }}</a><li>
+        <td>{{- $sources := .Language.Params.Taxonomies.source | default "sources" }}{{- range ($.GetTerms $sources) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
         </td>
       </tr>
 

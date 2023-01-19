@@ -1,11 +1,12 @@
 ---
 title: "Deep Structure"
 
-categories: ['']
+categories: ['NLP']
 
 tags: ['deep', 'structure']
 
-arwords: 'تركيب معمّق'
+arwords: 'البنية العميقة'
+arwords2: 'تركيب معمّق'
 
 arexps: []
 
@@ -13,17 +14,18 @@ enwords: ['Deep Structure']
 
 enexps: []
 
-arlexicons: 'ر'
+arlexicons: 'ب'
+arlexicons2: 'ر'
 
-enlexicons: ['D']
+enlexicons: 'D'
 
 authors: ['Ruqayya Roshdy']
 
 translators: ['Tarek Ibrahim']
 
-citations: ['دليل أكسفورد في السانيات الحاسوبية']
+citations: ['دليل أكسفورد في السانيات الحاسوبية','مقدمة في حوسبة اللغة العربية']
 
-sources: ['المنظمة العربية للترجمة']
+sources: ['المنظمة العربية للترجمة','مركز الملك عبد الله لخدمة اللغة العربية']
 
 slug: ""
 ---
