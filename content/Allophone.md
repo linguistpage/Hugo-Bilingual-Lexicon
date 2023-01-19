@@ -1,7 +1,7 @@
 ---
 title: "Allophone"
 
-categories: ['']
+categories: ['Linguistics']
 
 tags: ['allophone']
 
