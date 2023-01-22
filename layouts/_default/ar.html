@@ -14,7 +14,16 @@
   ol {
     list-style: none;
   }
+.sticky {  
+  position: -webkit-sticky; /* Safari & IE */
+position: sticky;
+top: 0;
+}
 </style>
+
+
+<div class="sticky">
 {{ partial "search.html" . }}
+</div>
 {{ partial "arlist.html" . }}
 {{ end }}
