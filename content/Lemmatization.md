@@ -3,9 +3,9 @@ title: "Lemmatization"
 
 categories: ['']
 
-tags: ['lemmatization']
+tags: ['Lemmatization']
 
-arwords: 'تجميع التصريفات القاموسية'
+arwords: 'التفريع'
 
 arexps: []
 
@@ -13,7 +13,39 @@ enwords: ['Lemmatization']
 
 enexps: []
 
-arlexicons: ['ج']
+arlexicons: 'ف'
+
+enlexicons: 'L'
+
+authors: ['Ruqayya Roshdy']
+
+translators: ['']
+
+citations: 'مقدمة في حوسبة اللغة العربية'
+
+sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+slug: ""
+------
+title: "Lemmatization"
+
+categories: ['']
+
+tags: ['lemmatization']
+
+arwords: 
+ - 'التفريع'
+ - 'تجميع التصريفات القاموسية'
+
+arexps: []
+
+enwords: ['Lemmatization']
+
+enexps: []
+
+arlexicons: 
+ - 'ف'
+ - 'ج'
 
 enlexicons: ['L']
 

@@ -5,7 +5,8 @@ categories: ['']
 
 tags: ['pragmatics']
 
-arwords: 'براغماتيات'
+arwords: 'المغزى السياقي للكلام'
+arwords2: 'براغماتيات'
 
 arexps: []
 
@@ -13,9 +14,10 @@ enwords: ['Pragmatics']
 
 enexps: []
 
-arlexicons: ['ب']
+arlexicons: 'غ'
+arlexicons2: 'ب'
 
-enlexicons: ['P']
+enlexicons: 'P'
 
 authors: ['Ruqayya Roshdy']
 

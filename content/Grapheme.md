@@ -5,7 +5,9 @@ categories: ['']
 
 tags: ['grapheme']
 
-arwords: 'غرافيم'
+arwords: 'الجرافيم'
+arwords2: 'وحدة التحليل الكتابي'
+arwords3: 'وحدات رسومية'
 
 arexps: []
 
@@ -13,7 +15,7 @@ enwords: ['Grapheme']
 
 enexps: []
 
-arlexicons: ['غ']
+arlexicons: 'و'
 
 enlexicons: ['G']
 

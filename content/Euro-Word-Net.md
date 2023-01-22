@@ -5,7 +5,8 @@ categories: ['']
 
 tags: ['euro', 'word', 'net']
 
-arwords: 'يورو ووردنت'
+arwords: 'شبكة الكلمات الأوروبية'
+arwords2: 'يورو ووردنت'
 
 arexps: []
 
@@ -13,9 +14,10 @@ enwords: ['EuroWordNet']
 
 enexps: []
 
-arlexicons: 'ي'
+arlexicons: 'ش'
+arlexicons2: 'ي'
 
-enlexicons: ['E']
+enlexicons: 'E'
 
 authors: ['Ruqayya Roshdy']
 

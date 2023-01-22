@@ -5,7 +5,8 @@ categories: ['']
 
 tags: ['prefix']
 
-arwords: 'لاحقة أمامية'
+arwords: 'السابقة'
+arwords2: 'لاحقة أمامية'
 
 arexps: []
 
@@ -13,9 +14,10 @@ enwords: ['Prefix']
 
 enexps: []
 
-arlexicons: ['ل']
+arlexicons: 'س'
+arlexicons2: 'ل'
 
-enlexicons: ['P']
+enlexicons: 'P'
 
 authors: ['Ruqayya Roshdy']
 

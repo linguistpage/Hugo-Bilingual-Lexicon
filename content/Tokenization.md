@@ -5,7 +5,7 @@ categories: ['']
 
 tags: ['tokenization']
 
-arwords: 'تقطيع'
+arwords: 'تقطيع النصوص'
 
 arexps: []
 
@@ -13,9 +13,9 @@ enwords: ['Tokenization']
 
 enexps: []
 
-arlexicons: ['ق']
+arlexicons: 'ق'
 
-enlexicons: ['T']
+enlexicons: 'T'
 
 authors: ['Ruqayya Roshdy']
 
