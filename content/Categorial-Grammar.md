@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Categorial Grammar"
 
 categories: ['']
@@ -27,6 +29,8 @@ sources: 'مركز الملك عبدالله بن عبدالعزيز الدول�
 
 slug: ""
 ------
+word: "true"
+
 title: "Categorial Grammar"
 
 categories: ['']

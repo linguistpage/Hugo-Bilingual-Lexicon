@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Arabic Language Technology Center-ALTEC"
 
 categories: ['']

@@ -1,3 +1,5 @@
 ---
+word: "true"
+
 title: Home
 ---

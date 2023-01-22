@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Cross Lingual Plagiarism Detection-CLPD"
 
 categories: ['']

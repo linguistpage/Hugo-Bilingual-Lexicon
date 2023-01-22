@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Document Management Systems-DMS"
 
 categories: ['']

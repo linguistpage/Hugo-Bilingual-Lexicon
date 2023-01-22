@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Theme and Rheme"
 
 categories: ['']

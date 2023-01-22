@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Spontaneous Speech Recognition"
 
 categories: ['']

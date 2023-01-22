@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Chart-Parsing"
 
 categories: ['']

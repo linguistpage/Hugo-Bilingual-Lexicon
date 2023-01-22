@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ .Content }}
+<style>
+  .breadcrumbs {
+    display: none;
+  }
+
+  .ar-en {
+    color: #fffefc !important;
+    background: #040404 !important;
+  }
+
+  ul,
+  ol {
+    list-style: none;
+  }
+.sticky {  
+  position: -webkit-sticky; /* Safari & IE */
+position: sticky;
+top: 0;
+}
+</style>
+
+
+<div class="sticky">
+{{ partial "search.html" . }}
+</div>
+{{ partial "booklist.html" . }}
+{{ end }}

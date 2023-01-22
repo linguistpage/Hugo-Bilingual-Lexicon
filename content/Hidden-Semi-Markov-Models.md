@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Hidden Semi Markov Models"
 
 categories: ['']

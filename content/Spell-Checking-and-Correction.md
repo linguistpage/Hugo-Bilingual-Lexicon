@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Spell Checking and Correction"
 
 categories: ['']

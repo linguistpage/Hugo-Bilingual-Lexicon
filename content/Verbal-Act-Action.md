@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Verbal Act / Action"
 
 categories: ['']

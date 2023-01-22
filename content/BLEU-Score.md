@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "BLEU Score"
 
 categories: ['']

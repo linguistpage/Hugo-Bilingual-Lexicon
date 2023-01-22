@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Joint Action Model"
 
 categories: ['']

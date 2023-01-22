@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Regular Language"
 
 categories: ['']

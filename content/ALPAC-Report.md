@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "ALPAC Report"
 
 categories: ['Machine Translation']

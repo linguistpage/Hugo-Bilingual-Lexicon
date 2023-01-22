@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "High-Front Suffix Vowel"
 
 categories: ['']

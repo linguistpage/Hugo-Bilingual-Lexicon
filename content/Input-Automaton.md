@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Input Automaton"
 
 categories: ['']

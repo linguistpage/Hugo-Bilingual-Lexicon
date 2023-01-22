@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Video Search"
 enwords: "Video Search"
 arwords: "البحث الآلي في المرئيات"

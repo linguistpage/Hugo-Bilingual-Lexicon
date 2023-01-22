@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Sub Categorization"
 categories: ['']
 tags: ['sub', 'categorization']

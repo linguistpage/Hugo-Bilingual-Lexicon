@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Romanization of Arabic"
 
 categories: ['']

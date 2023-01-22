@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "The Arab League Educational Cultural and Scientific Organization-ALECSO"
 
 categories: ['']

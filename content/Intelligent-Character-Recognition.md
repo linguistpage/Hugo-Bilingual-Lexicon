@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Intelligent Character Recognition"
 
 categories: ['']

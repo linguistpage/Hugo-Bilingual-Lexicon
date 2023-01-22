@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Speech-to-Sign-Languge"
 
 categories: ['']

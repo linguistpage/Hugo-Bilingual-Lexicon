@@ -323,9 +323,7 @@ button#clear-search:hover {
 **/
 
 .mainlist {
-/**    display: flex !important;
-    justify-content: space-between;
-    align-items: baseline;**/
+padding-bottom: 3px;
     }
     
     
@@ -505,5 +503,21 @@ padding-right: 1.2rem;
 
 .main-content ul {
 list-style: arabic-indic;
+}
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
 }
 

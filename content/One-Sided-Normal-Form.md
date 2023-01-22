@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "One-Sided Normal Form"
 
 categories: ['']

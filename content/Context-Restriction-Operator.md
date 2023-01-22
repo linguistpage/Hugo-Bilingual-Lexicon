@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Context Restriction Operator"
 
 categories: ['']

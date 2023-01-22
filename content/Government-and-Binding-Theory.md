@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Government and Binding Theory"
 
 categories: ['']

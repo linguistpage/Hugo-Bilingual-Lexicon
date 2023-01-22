@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Speech Assessment Methods Phonetic Alphabet-SAMPA"
 
 categories: ['']

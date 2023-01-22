@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Qatar Computing Research Institute-QCRI"
 
 categories: ['']

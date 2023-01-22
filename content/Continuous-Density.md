@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Continuous Density"
 
 categories: ['']

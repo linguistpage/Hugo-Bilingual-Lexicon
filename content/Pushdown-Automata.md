@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Pushdown Automata"
 
 categories: ['']

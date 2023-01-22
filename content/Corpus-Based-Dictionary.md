@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Corpus-Based Dictionary"
 
 categories: ['']

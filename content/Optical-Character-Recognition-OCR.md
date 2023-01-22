@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Optical Character Recognition-OCR"
 
 categories: ['']

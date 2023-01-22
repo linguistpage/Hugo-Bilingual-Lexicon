@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Modus Ponen Law"
 
 categories: ['']

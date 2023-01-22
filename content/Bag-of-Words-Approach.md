@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Bag of Words Approach"
 
 categories: ['NLP']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Arabic Text to Speech"
 
 categories: ['']

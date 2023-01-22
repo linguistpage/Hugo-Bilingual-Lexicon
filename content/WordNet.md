@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "WordNet"
 
 categories: ['NLP','Corpus Linguistics']

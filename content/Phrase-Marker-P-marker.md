@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Phrase Marker P-marker"
 
 categories: ['']

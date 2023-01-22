@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Clustering Document"
 
 categories: ['']

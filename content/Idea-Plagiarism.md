@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Idea Plagiarism"
 
 categories: ['']

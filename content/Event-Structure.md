@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Event Structure"
 
 categories: ['']

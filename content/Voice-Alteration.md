@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Time Complexity"
 
 categories: ['']

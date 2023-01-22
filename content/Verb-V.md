@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Verb-V"
 
 categories: ['']

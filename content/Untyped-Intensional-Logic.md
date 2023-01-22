@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Untyped Intensional Logic"
 
 categories: ['']

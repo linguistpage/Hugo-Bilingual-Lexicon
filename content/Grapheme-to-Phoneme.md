@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Grapheme to Phoneme"
 
 categories: ['']

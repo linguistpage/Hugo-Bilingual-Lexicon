@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Closed-Form Solutions"
 
 categories: ['']

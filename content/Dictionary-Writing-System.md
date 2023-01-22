@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Dictionary Writing System"
 
 categories: ['']

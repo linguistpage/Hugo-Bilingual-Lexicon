@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Output Distributions"
 
 categories: ['']

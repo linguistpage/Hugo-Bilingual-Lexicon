@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Language Recognition"
 enwords: "Language Recognition"
 arwords: "التعرف الآلي على اللغة"

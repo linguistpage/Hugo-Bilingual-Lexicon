@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Dialogue Corpus"
 
 categories: ['']

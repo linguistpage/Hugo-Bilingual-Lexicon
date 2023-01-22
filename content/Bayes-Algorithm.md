@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Bayes Algorithm"
 
 categories: ['Statistics', 'Machine Learning']

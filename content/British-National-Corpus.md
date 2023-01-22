@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "British National Corpus"
 
 categories: ['']

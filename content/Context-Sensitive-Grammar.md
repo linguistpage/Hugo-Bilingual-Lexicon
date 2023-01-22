@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Context-Sensitive Grammar"
 
 categories: ['']

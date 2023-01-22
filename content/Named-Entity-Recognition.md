@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Named Entity Recognition"
 
 categories: ['']

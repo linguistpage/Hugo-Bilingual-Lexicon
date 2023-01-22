@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Syntactic Parse Tree"
 
 categories: ['']

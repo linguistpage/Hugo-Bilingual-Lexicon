@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Parameterized"
 
 categories: ['']

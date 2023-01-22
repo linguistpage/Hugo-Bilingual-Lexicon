@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Bound from Below"
 
 categories: ['']

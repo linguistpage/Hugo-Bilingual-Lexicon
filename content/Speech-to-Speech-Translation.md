@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Speech-to-Speech Translation"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Universal Finite-State Recognition"
 
 categories: ['']

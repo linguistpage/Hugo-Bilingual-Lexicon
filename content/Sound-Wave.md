@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Sound Wave"
 
 categories: ['']

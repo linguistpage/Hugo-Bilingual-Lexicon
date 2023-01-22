@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Non-Concatenative Phenomena"
 
 categories: ['']

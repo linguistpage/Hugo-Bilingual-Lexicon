@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Worst Case Complexity"
 
 categories: ['']

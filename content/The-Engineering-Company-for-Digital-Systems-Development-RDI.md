@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "The Engineering Company for Digital Systems Development-RDI"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Prototypical Event Type"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Domain Knowledge"
 
 categories: ['']

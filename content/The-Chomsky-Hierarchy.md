@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "The Chomsky Hierarchy"
 
 categories: ['']

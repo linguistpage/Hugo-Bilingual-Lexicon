@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Supervised Machine Learning"
 
 categories: ['']

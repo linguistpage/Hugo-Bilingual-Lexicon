@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Perceptual Linear Prediction-PLP"
 
 categories: ['']

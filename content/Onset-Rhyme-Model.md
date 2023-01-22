@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Onset-Rhyme Model"
 
 categories: ['']

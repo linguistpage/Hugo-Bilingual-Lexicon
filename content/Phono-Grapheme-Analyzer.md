@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Phono-Grapheme Analyzer"
 
 categories: ['']

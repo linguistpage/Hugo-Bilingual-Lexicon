@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Statistical Machine Translation"
 enwords: "Statistical Machine Translation"
 arwords: "الترجمة الآلية الإحصائية"

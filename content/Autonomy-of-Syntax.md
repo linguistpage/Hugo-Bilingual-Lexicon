@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Autonomy of Syntax"
 
 categories: ['']

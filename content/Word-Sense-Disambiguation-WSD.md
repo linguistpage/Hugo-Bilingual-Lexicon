@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Word Sense Disambiguation-WSD"
 
 categories: ['']

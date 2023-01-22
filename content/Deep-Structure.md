@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Deep Structure"
 
 categories: ['NLP']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Discrete Density"
 
 categories: ['']

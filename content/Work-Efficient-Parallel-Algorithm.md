@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Work-Efficient Parallel Algorithm"
 
 categories: ['']

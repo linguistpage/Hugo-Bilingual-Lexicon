@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "The Stanford NLP Group"
 
 categories: ['']

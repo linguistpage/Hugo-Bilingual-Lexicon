@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Normal Phrase Logical Context"
 
 categories: ['']

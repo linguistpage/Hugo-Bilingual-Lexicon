@@ -1,6 +1,8 @@
 ---
+word: "true"
+
 title: "Accepting"
-draft: true 
+
 categories: ['']
 
 tags: ['accepting']

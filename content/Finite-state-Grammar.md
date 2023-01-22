@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Finite-state Grammar"
 
 categories: ['']

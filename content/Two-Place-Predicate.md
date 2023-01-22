@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Two-Place Predicate"
 
 categories: ['']

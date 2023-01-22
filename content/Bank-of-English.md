@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Bank of English"
 
 categories: ['NLP','Corpus Linguistics']

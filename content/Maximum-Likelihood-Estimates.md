@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Maximum Likelihood Estimates"
 
 categories: ['']

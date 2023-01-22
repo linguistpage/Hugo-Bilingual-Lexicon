@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Human Lexical Memory"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "First-Order Logic"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Alternative Formalism"
 draft: true
 categories: ['']

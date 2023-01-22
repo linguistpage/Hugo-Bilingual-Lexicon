@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Heap-Based"
 
 categories: ['']

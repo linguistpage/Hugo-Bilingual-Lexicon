@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Parts-of-Speech Tagging"
 
 categories: ['']

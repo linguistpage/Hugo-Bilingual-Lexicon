@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Document Clustering"
 enwords: "Document Clustering"
 arwords: "تجميع الوثائق آليا"

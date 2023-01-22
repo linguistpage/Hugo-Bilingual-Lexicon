@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Columbia Arabic Dialect Modeling Group-CADIM"
 
 categories: ['']

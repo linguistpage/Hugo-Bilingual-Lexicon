@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Stem Vowels"
 
 categories: ['']

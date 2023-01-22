@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Typed Feature-Structure Grammars"
 
 categories: ['']

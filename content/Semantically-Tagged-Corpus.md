@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Semantically Tagged Corpus"
 
 categories: ['']

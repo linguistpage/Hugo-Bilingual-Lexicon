@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "ICALL"
 enwords: "International Conference on Arabic Language and Literature"
 arwords: "المؤتمر الدولي للغة العربية وآدابها"

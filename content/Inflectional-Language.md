@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Inflectional Language"
 
 categories: ['']

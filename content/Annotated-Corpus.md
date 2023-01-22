@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Annotated Corpus"
 
 categories: ['NLP' ,'Corpus Linguistics']

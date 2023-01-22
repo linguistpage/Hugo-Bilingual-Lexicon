@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Text-Encoding Initiative"
 
 categories: ['']

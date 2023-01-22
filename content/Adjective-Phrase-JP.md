@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Adjective Phrase-JP"
 
 categories: ['']

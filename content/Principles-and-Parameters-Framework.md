@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Principles and Parameters Framework"
 
 categories: ['']

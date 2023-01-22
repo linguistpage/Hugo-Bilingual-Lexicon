@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Present Tense"
 
 categories: ['']

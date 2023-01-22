@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Labelled Derivation Tree"
 
 categories: ['']

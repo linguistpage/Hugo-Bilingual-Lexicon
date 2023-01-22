@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Average Case Complexity"
 
 categories: ['Computer Science']

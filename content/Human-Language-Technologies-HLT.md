@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Human Language Technologies-HLT"
 
 categories: ['']

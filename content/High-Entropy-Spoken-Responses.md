@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "High Entropy Spoken Responses"
 
 categories: ['']

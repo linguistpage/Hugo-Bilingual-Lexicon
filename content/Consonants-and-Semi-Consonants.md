@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Consonants and Semi Consonants"
 
 categories: ['']

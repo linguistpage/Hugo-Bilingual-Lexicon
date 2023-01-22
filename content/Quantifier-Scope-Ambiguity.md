@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Quantifier Scope Ambiguity"
 
 categories: ['']

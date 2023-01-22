@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Typewritter OCR"
 enwords: "TypeWritten Optical Character Recognition"
 arwords: "التعرف الآلي على الكلام المطبوع"

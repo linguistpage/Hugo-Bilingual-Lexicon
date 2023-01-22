@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Approximation"
 
 categories: ['Mathematics']

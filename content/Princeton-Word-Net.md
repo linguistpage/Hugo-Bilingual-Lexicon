@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Princeton Word Net"
 
 categories: ['']

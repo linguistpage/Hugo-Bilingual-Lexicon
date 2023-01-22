@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Phrase-Structure Grammar"
 
 categories: ['']

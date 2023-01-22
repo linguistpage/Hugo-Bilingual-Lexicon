@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Extraction"
 draft: true
 enwords: ""

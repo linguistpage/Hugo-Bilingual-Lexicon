@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Transformational Rule"
 
 categories: ['']

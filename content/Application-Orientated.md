@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Application Orientated"
 
 categories: ['General','Software']

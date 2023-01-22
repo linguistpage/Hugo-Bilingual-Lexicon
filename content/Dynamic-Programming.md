@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Dynamic Programming"
 
 categories: ['']

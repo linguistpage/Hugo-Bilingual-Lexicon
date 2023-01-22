@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "C-Structure"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Attribute-Value Matrices"
 
 categories: ['Mathematics']

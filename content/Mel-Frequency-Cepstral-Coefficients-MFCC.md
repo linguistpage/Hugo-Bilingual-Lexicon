@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Mel Frequency Cepstral Coefficients-MFCC"
 draft: true
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Computer Aided"
 
 categories: ['NLP']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Constraint-Based Feature-Structure Grammars"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Sakhr Software-Arabic Language Technology"
 
 categories: ['']

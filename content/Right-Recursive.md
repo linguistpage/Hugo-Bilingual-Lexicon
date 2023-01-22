@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Right Recursive"
 
 categories: ['']

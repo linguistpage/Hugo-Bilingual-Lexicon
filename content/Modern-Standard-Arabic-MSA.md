@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Modern Standard Arabic-MSA"
 
 categories: ['']

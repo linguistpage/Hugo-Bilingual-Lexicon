@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Phrase-Structure Trees"
 
 categories: ['']

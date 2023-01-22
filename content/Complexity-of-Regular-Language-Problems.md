@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Complexity of Regular Language Problems"
 
 categories: ['']

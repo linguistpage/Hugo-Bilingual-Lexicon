@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Lexical Semantics"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Full-Form Lexicon"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Asymptotic Growth"
 
 categories: ['Computer Science']

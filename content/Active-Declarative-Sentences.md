@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Active Declarative Sentences"
 draft: true 
 categories: ['']

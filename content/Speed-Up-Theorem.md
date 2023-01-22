@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Speed-Up Theorem"
 
 categories: ['']

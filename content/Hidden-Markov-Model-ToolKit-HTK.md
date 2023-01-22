@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Hidden Markov Model ToolKit-HTK"
 
 categories: ['']

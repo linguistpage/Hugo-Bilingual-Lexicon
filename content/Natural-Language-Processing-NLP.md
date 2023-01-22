@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Natural Language Processing-NLP"
 
 categories: ['']

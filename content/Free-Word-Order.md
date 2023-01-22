@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Free Word Order"
 
 categories: ['']

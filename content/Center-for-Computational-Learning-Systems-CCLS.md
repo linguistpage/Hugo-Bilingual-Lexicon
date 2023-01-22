@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Center for Computational Learning Systems-CCLS"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "AutoSegmental Structures"
 
 categories: ['Linguistics']

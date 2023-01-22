@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Categorial Rules"
 
 categories: ['']

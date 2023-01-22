@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Global Word Net"
 
 categories: ['']

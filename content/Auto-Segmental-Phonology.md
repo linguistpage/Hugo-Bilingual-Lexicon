@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "AutoSegmental Phonology"
 categories: ['Linguistics']
 tags: ['auto', 'segmental', 'phonology']

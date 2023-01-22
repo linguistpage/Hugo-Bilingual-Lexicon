@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Support Vector Machine"
 
 categories: ['']

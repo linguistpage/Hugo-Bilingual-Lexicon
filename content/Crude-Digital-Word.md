@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Crude Digital Word"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Adverb Phrase-AP"
 
 categories: ['']

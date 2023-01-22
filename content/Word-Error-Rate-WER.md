@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Word Error Rate-WER"
 
 categories: ['']

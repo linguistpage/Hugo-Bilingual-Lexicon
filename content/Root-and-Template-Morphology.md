@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Root-and-Template Morphology"
 
 categories: ['']

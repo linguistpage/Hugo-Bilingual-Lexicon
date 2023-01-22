@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Giga Word"
 
 categories: ['']

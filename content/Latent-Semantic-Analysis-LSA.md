@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Latent Semantic Analysis-LSA"
 
 categories: ['']

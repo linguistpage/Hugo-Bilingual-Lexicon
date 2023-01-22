@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Maximize the Probability"
 
 categories: ['']

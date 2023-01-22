@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Cross-Serial Dependencies"
 
 categories: ['']

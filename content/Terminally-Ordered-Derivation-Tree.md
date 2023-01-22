@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Terminally Ordered Derivation Tree"
 
 categories: ['']

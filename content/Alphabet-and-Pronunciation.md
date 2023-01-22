@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Alphabet and Pronunciation"
 
 categories: ['']

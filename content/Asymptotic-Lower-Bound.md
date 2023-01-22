@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Asymptotic Lower Bound"
 
 categories: ['']

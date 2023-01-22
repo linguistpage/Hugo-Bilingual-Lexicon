@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Compositional Semantic Theories"
 
 categories: ['']

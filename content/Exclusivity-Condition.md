@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Exclusivity Condition"
 
 categories: ['']

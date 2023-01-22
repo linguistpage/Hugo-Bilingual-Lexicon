@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Dictation Engine"
 enwords: "Dictation Engine"
 arwords: "مصحح إملائي"

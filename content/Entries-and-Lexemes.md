@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Entries and Lexemes"
 
 categories: ['']

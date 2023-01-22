@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Inductive Logic Programming"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Nominal Case Marking"
 
 categories: ['']

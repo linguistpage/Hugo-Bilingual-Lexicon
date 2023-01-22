@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Lexical Insertion Rule"
 
 categories: ['']

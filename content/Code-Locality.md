@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Code Locality"
 categories: ['']
 tags: ['code', 'locality']

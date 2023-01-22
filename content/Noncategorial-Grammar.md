@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Noncategorial Grammar"
 
 categories: ['']

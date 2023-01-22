@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Information Retrieval-IR"
 
 categories: ['']

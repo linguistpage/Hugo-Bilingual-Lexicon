@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Centering Theory"
 
 categories: ['']

@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Word Based Grammar"
 
 categories: ['']

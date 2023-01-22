@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Advanced Information Retrieval Systems"
 
 categories: ['']

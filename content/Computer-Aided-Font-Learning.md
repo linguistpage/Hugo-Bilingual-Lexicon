@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Computer-Aided Font Learning"
 
 categories: ['']

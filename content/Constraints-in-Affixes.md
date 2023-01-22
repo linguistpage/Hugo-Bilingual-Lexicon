@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Constraints in Affixes"
 
 categories: ['']

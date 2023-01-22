@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Artificial Neural Networks"
 
 categories: ['']

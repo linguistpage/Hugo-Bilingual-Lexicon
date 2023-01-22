@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Lexical-Semantic Database"
 
 categories: ['']

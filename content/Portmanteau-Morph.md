@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Portmanteau Morph"
 
 categories: ['']

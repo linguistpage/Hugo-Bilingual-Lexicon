@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Dynamic Models of Interpretation"
 
 categories: ['']

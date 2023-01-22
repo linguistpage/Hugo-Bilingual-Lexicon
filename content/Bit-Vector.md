@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Bit Vector"
 
 categories: 'Computer Science'

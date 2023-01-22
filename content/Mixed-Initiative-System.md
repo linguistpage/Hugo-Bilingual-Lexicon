@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Mixed-Initiative System"
 
 categories: ['']

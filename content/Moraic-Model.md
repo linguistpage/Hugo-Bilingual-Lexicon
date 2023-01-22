@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Moraic Model"
 
 categories: ['']

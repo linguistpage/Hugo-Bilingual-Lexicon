@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "International Business Machines Corporation-IBM"
 
 categories: ['']

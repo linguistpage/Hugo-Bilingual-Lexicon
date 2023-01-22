@@ -1,4 +1,6 @@
 ---
+word: "true"
+
 title: "Goal Orientated"
 
 categories: ['']
