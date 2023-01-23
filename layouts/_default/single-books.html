@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<style>
+  .breadcrumbs {
+	background: #040404;
+	color: #fffefc;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: small !important;
+  }
+  h3 {
+    text-align: left;
+    color: #040404;
+    border-bottom: 2px solid #040404;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .metadata li {
+    border-bottom: 1px solid lightgray;
+    padding: 2px;
+  }
+  small {
+    font-weight: normal;
+    }
+  small a {
+    font-weight: normal;
+    color: black;
+
+  }
+</style>
+
+{{ partial "metatable-books.html" .}}
+{{ partial "audio.html" .}}
+<div class="main-content">
+{{ .Content }}
+</div>
+{{ partial "footersingle.html" .}}
+{{ end }}

@@ -4,10 +4,10 @@
   <li id="myarticles" class="older-article" style="direction: rtl !important;">
     <div class="mainlist">
       <a style="direction:rtl !important; text-align:right !important;" class="mainlink" href="{{ .RelPermalink }}">
-        <h1>{{.Title }} </h1>
+        <h1>{{.Params.artitle }} </h1>
       </a>
       <!-- <hr class="mainhr"> -->
-      <small style="color: black; text-decoration: none; direction:ltr !important; text-align:left !important;" class="mainlink" href="{{.Permalink}}">{{.Params.pubhouse}}</small>
+      <small style="color: black; text-decoration: none; direction:ltr !important; text-align:left !important;" class="mainlink" href="{{.Permalink}}">{{.Params.pubhouses}}</small>
     </div>
   </li>
   {{ end }}

@@ -24,6 +24,9 @@ taxonomies:
   translator: translators
   citation: citations
   source: sources
+  pubhouse: pubhouses
+  pubyear: pubyears
+  language: languages
   
  
 

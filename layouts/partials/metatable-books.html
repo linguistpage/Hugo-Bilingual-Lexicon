@@ -1,0 +1,77 @@
+{{ partial "breadcrumbs.html" . }}
+<div class="metatable">
+  <h3 class="single-title">{{.Title }}</h3>
+  <table class="emp-sales">
+    <tbody>
+      <tr>
+        <th scope="row">Name</th>
+        <td><li class="table-list"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        </td>
+      </tr>
+            <tr>
+        <th scope="row">Publishing House</th>
+        <td>{{- $pubhouses := .Language.Params.Taxonomies.pubhouse | default "pubhouses" }}{{- range ($.GetTerms $pubhouses) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </td>
+      </tr>
+        <tr>
+        <th scope="row">Authors</th>
+        <td>{{- $authors := .Language.Params.Taxonomies.author | default "authors" }}{{- range ($.GetTerms $authors) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </td>
+      </tr>
+              <tr>
+        <th scope="row">Publishing Year</th>
+        <td>{{- $pubyears := .Language.Params.Taxonomies.pubyear | default "pubyears" }}{{- range ($.GetTerms $pubyears) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </td>
+      </tr>
+        {{ if .Params.arwords2 }}
+            <tr>
+        <th scope="row">Arabic [2]</th>
+        <td>
+          <li class="table-list"><a href="{{.Params.sources }}">{{.Params.arwords2 }}</a><li>
+          
+        </td>
+      </tr>
+      {{ end }}
+      
+      
+        <tr>
+        <th scope="row">Category</th>
+        <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </td>
+      </tr>
+            <tr>
+        <th scope="row">Language</th>
+        <td>{{- $languages := .Language.Params.Taxonomies.language | default "languages" }}{{- range ($.GetTerms $languages) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </td>
+      </tr>
+      <tr style="">
+        <th style="" scope="row">Download Link</th>
+        <td>
+          <li class="table-list">{{ $pgtitle := print "static/books/" .Title ".pdf" }}
+{{ if fileExists $pgtitle }}
+
+    <a style="color: blue;" href="/books/{{.Title }}.pdf" >Download/تحميل</a>
+
+{{end}}</li>
+
+        </td>
+      </tr>
+
+
+
+
+
+
+
+    </tbody>
+  </table>
