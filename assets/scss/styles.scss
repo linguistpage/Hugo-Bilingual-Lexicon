@@ -88,6 +88,7 @@ img {
 
 main {
   max-width: 650px;
+
   margin: 0 auto;
   box-sizing: border-box;
   min-height: 100%;
@@ -367,6 +368,14 @@ padding-bottom: 1rem;
 width: 50%;
 }
 
+.nvs#most-top {
+height: auto;
+}
+.nvs#most-top a{
+padding-top: 0rem !important;
+}
+
+
 .nvs{
 width: 100%;
 display: flex;
@@ -374,7 +383,7 @@ justify-content: space-between;
 list-style-type: none;
 padding: 0 !important;
 margin: 0;
-height: 3rem;
+height: 2rem;
 background: #fffefc;
 
 }
@@ -398,7 +407,7 @@ color: inherit;
 font-weight: 500;
 display: inline-block;
 width: 100%  !important;
-padding-top: 0.8rem;
+padding-top: 0.25rem;
 }
 
 @media only screen and (max-width: 800px) {

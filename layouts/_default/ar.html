@@ -19,11 +19,19 @@
 position: sticky;
 top: 0;
 }
+.lexicon {
+background: #040404;
+color: #fffefc
+}
 </style>
 
 
 <div class="sticky">
 {{ partial "search.html" . }}
+
+<ul class="nvs" style="border-bottom: 2px solid black;">
+<li class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">English > Arabic</a></li>
+<li class="ar-en" style="width: 50%; border-right: 0px solid black;"><a href="/arabic">Arabic > English</a></li></ul>
 </div>
 {{ partial "arlist.html" . }}
 {{ end }}

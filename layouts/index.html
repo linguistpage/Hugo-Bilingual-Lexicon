@@ -8,22 +8,30 @@
   .breadcrumbs {
     display: none;
   }
-  .en-ar {
-    color: #fffefc !important;
-    background: #040404 !important;
-  }
 
 .sticky {  
   position: -webkit-sticky;
 position: sticky;
 top: 0;
 }
+
+.nvs li a{
+padding: 0 !important;
+text-decoration: none !important;
+}
+
 </style>
 
-
-<div class="sticky">
 {{ partial "search.html" . }}
-</div>
+<ul class="nvs" style="height: auto; border-bottom: 2px solid black;">
+<li  style="width: 50%; border-right: 2px solid black;"><a  href="/">English > Arabic</a></li>
+<li style="width: 50%; border-right: 0px solid black;"><a href="/arabic">Arabic > English</a></li></ul> 
+
+<!--<div class="sticky">
+
+
+
+</div>-->
 {{ partial "enlist.html" . }}
 {{ end }}
 
