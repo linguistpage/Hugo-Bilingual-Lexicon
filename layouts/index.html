@@ -26,16 +26,13 @@ color: #fffefc;
 }
 </style>
 
-{{ partial "search.html" . }}
+<div class="sticky">
+{{ partial "search-en.html" . }}
 <ul class="nvs" style="height: auto; border-bottom: 2px solid black;">
 <li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ > عربيــ</a></li>
 <li style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ > إنجليزيــ</a></li></ul> 
 
-<!--<div class="sticky">
-
-
-
-</div>-->
+</div>
 {{ partial "enlist.html" . }}
 {{ end }}
 
