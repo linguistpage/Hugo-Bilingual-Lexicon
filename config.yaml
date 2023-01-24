@@ -13,6 +13,7 @@ staticDir:
 
 taxonomies:
   category: categories
+  bcategory: bcategories
   tag: tags
   arword: arwords
 #  arexp: arexps
@@ -21,6 +22,7 @@ taxonomies:
   arlexicon: arlexicons
   enlexicon: enlexicons
   author: authors
+  bauthor: bauthors
 #  translator: translators
 #  citation: citations
   source: sources

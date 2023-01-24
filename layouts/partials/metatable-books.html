@@ -17,8 +17,8 @@
       </tr>
         <tr>
         <th scope="row">المؤلفون</th>
-        <td>{{- $authors := .Language.Params.Taxonomies.author | default "authors" }}{{- range ($.GetTerms $authors) }}
-          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
+        <td>{{- $bauthors := .Language.Params.Taxonomies.bauthor | default "bauthors" }}{{- range ($.GetTerms $bauthors) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
@@ -42,8 +42,8 @@
       
         <tr>
         <th scope="row">قسم</th>
-        <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
-          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
+        <td>{{- $bcategories := .Language.Params.Taxonomies.bcategory | default "bcategories" }}{{- range ($.GetTerms $bcategories) }}
+          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
