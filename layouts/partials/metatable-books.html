@@ -1,29 +1,29 @@
 {{ partial "breadcrumbs.html" . }}
-<div class="metatable">
+<div class="metatable" style="padding-bottom: 0px !important;" >
   <h3 class="single-title">{{.Title }}</h3>
-  <table class="emp-sales">
+  <table class="emp-sales" style="direction: rtl;">
     <tbody>
       <tr>
-        <th scope="row">Name</th>
+        <th scope="row">الإسم</th>
         <td><li class="table-list"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         </td>
       </tr>
             <tr>
-        <th scope="row">Publishing House</th>
+        <th scope="row">دار النشر</th>
         <td>{{- $pubhouses := .Language.Params.Taxonomies.pubhouse | default "pubhouses" }}{{- range ($.GetTerms $pubhouses) }}
-          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
         <tr>
-        <th scope="row">Authors</th>
+        <th scope="row">المؤلفون</th>
         <td>{{- $authors := .Language.Params.Taxonomies.author | default "authors" }}{{- range ($.GetTerms $authors) }}
-          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
               <tr>
-        <th scope="row">Publishing Year</th>
+        <th scope="row">سنة الإصدار</th>
         <td>{{- $pubyears := .Language.Params.Taxonomies.pubyear | default "pubyears" }}{{- range ($.GetTerms $pubyears) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
@@ -41,26 +41,26 @@
       
       
         <tr>
-        <th scope="row">Category</th>
+        <th scope="row">قسم</th>
         <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
-          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
             <tr>
-        <th scope="row">Language</th>
+        <th scope="row">اللغة</th>
         <td>{{- $languages := .Language.Params.Taxonomies.language | default "languages" }}{{- range ($.GetTerms $languages) }}
-          <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
       <tr style="">
-        <th style="" scope="row">Download Link</th>
+        <th style="" scope="row">رابط التحميل</th>
         <td>
           <li class="table-list">{{ $pgtitle := print "static/books/" .Title ".pdf" }}
 {{ if fileExists $pgtitle }}
 
-    <a style="color: blue;" href="/books/{{.Title }}.pdf" >Download/تحميل</a>
+    <button><a style="text-decoration: none;" href="/books/{{.Title }}.pdf" >تحميل</a></button>
 
 {{end}}</li>
 

@@ -21,13 +21,32 @@ html {
   min-height: 100%;
 }
 
-body {
+body, button {
   font-family: 'IBM Plex Sans Arabic', sans-serif;
   line-height: 1.5;
   color: #333;
   background-color: #fffefc;
   margin: 0;
 }
+
+
+button {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fffefc;
+  margin: 0;
+
+}
+
+button a:hover {
+  background-color: #fffefc;
+  color: #040404;
+  margin: 0;
+
+}
+
+
 
 h1 { font-size: 1.50em; }
 h2 { font-size: 1.40em; }
@@ -192,6 +211,7 @@ width: 100% !important;
 color: #fffefc !important;
 background: #040404 !important;
 font-size: 10px;
+direction: rtl ;
 
 }
 .breadcrumbs li {
@@ -200,6 +220,7 @@ font-size: 10px;
   font-size: small;
     margin-top: 0px;
     border: none;
+    direction: rtl ;
 
 }
 
@@ -223,12 +244,14 @@ td li {
 }
 
 .post-footer {
-padding: 5px;
+
+margin-top: 0px !important;
 
 }
 .post-footer ul li{
 	display: inline;
 	margin-left: 5px;
+	
 }
 
 .post-footer ul li::before{
@@ -257,13 +280,19 @@ margin-top: 0px;
 font-size: small;
 border-top: 2px solid #040404;
 border-bottom: 2px solid #040404;
-color: white !important;
+color: #040404 !important;
 padding: 5px;
 }
 
 .post-tags a{
-color: #fffefc !important;
+color: #040404 !important;
 text-decoration: underline;
+
+}
+
+.post-tags a:hover{
+color: #fffefc !important;
+
 
 }
 input#search {
@@ -461,7 +490,7 @@ table {
 }
 
 td, th { 
-   text-align: left; 
+   text-align: right; 
    border: 1px solid #ddd; 
    padding:.5em 5px;
 }

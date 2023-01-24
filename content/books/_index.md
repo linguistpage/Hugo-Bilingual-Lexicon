@@ -1,5 +1,5 @@
 ---
-title: "books"
+title: "الكتب"
 layout: "books"
 slug: "books"
 ---

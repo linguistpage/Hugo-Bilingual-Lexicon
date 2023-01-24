@@ -15,14 +15,14 @@ taxonomies:
   category: categories
   tag: tags
   arword: arwords
-  arexp: arexps
+#  arexp: arexps
   enword: enwords
-  enexp: enexps
+#  enexp: enexps
   arlexicon: arlexicons
   enlexicon: enlexicons
   author: authors
-  translator: translators
-  citation: citations
+#  translator: translators
+#  citation: citations
   source: sources
   pubhouse: pubhouses
   pubyear: pubyears

@@ -19,6 +19,11 @@
 position: sticky;
 top: 0;
 }
+.nvs li a{
+padding: 0 !important;
+text-decoration: none !important;
+}
+
 .lexicon {
 background: #040404;
 color: #fffefc
@@ -29,9 +34,9 @@ color: #fffefc
 <div class="sticky">
 {{ partial "search.html" . }}
 
-<ul class="nvs" style="border-bottom: 2px solid black;">
-<li class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">English > Arabic</a></li>
-<li class="ar-en" style="width: 50%; border-right: 0px solid black;"><a href="/arabic">Arabic > English</a></li></ul>
+<ul class="nvs" style="height: auto; border-bottom: 2px solid black;">
+<li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ > عربيــ</a></li>
+<li class="ar-en" style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ > إنجليزيــ</a></li></ul> 
 </div>
 {{ partial "arlist.html" . }}
 {{ end }}

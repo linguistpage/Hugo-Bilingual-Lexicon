@@ -1,5 +1,3 @@
 ---
-word: "true"
-
-title: Home
+title: الرئيسية
 ---

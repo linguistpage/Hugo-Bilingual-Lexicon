@@ -1,17 +1,17 @@
 {{ partial "breadcrumbs.html" . }}
-<div class="metatable">
+<div class="metatable" style="direction: rtl !important; text-align: right !important;">
   <h3 class="single-title">{{.Params.enwords }}</h3>
   <table class="emp-sales">
-    <tbody>
+    <tbody >
       <tr>
-        <th scope="row">English</th>
+        <th scope="row">الأصل الإنجليزي</th>
         <td>{{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
             <tr>
-        <th scope="row">Arabic</th>
+        <th scope="row">المعنى العربي</th>
         <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
@@ -27,7 +27,7 @@
       </tr>
       {{ end }}
       <tr>
-        <th scope="row">English Lexicon</th>
+        <th scope="row">الباب المعجمي الإنجليزي</th>
         <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
@@ -35,21 +35,21 @@
       </tr>
 
       <tr>
-        <th scope="row">Arabic Lexicon</th>
+        <th scope="row">الباب المعجمي العربي</th>
         <td>{{- $arlexicons := .Language.Params.Taxonomies.arlexicon | default "arlexicons" }}{{- range ($.GetTerms $arlexicons) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
       <tr>
-        <th scope="row">Category</th>
+        <th scope="row">قسم</th>
         <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
       </tr>
             <tr>
-        <th scope="row">Citation</th>
+        <th scope="row">المصدر</th>
         <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
@@ -57,7 +57,7 @@
       </tr>
       <tr>
             <tr>
-        <th scope="row">Source</th>
+        <th scope="row">رابط الكلمة</th>
         <td>{{- $sources := .Language.Params.Taxonomies.source | default "sources" }}{{- range ($.GetTerms $sources) }}
           <li class="table-list"><a href="{{ .LinkTitle }}">Link</a></li>
           {{- end }}
