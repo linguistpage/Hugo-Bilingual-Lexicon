@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Distributed Processing"
 
 categories: ['']
@@ -21,11 +19,13 @@ enlexicons: 'D'
 
 authors: ['Ruqayya Roshdy']
 
-translators: ['X']
+translators: ['']
 
 citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

@@ -1,0 +1,31 @@
+---
+title: "Cognitive Pscychology"
+
+categories: ['']
+
+tags: ['Cognitive', 'Pscychology']
+
+arwords: 'علم النفس الإدراكي'
+
+arexps: []
+
+enwords: ['Cognitive Pscychology']
+
+enexps: []
+
+arlexicons: 'ع'
+
+enlexicons: 'C'
+
+authors: ['Ruqayya Roshdy']
+
+translators: ['']
+
+citations: 'العربية والذكاء الاصطناعي'
+
+sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
+
+slug: ""
+---

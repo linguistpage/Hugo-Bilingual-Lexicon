@@ -1,13 +1,11 @@
 ---
-word: "true"
-
 title: "Pitch"
 
 categories: ['']
 
 tags: ['Pitch']
 
-arwords: 'نغمة'
+arwords: 'النغمة الصوتية'
 
 arexps: []
 
@@ -21,11 +19,13 @@ enlexicons: 'P'
 
 authors: ['Ruqayya Roshdy']
 
-translators: ['X']
+translators: ['']
 
 citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

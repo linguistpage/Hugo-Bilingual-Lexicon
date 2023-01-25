@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Robot"
 
 categories: ['']
@@ -8,6 +6,7 @@ categories: ['']
 tags: ['Robot']
 
 arwords: 'الإنسان الآلي'
+arwords2: 'الخادم الآلي'
 
 arexps: []
 
@@ -16,6 +15,7 @@ enwords: ['Robot']
 enexps: []
 
 arlexicons: 'أ'
+arlexicons2: 'خ'
 
 enlexicons: 'R'
 
@@ -26,6 +26,8 @@ translators: ['']
 citations: 'مقدمة في حوسبة اللغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

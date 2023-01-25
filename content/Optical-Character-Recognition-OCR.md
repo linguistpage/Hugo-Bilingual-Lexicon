@@ -1,13 +1,12 @@
 ---
-word: "true"
-
 title: "Optical Character Recognition-OCR"
 
 categories: ['']
 
-tags: ['english', 'english', 'english', 'english']
+tags: ['Optical', 'Character', 'Recognition', 'OCR']
 
 arwords: 'التعرف الآلي على الكتابة'
+arwords2: 'التعرف الضوئي على المحارف'
 
 arexps: []
 
@@ -26,6 +25,8 @@ translators: ['']
 citations: 'مقدمة في حوسبة اللغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

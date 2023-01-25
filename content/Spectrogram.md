@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Spectrogram"
 
 categories: ['']
@@ -26,6 +24,8 @@ translators: ['']
 citations: 'مقدمة في حوسبة اللغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

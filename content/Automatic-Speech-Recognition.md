@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Automatic Speech Recognition"
 
 categories: ['']
@@ -8,6 +6,7 @@ categories: ['']
 tags: ['Automatic', 'Speech', 'Recognition']
 
 arwords: 'التعرف الآلي على الكلام'
+arwords2: 'التعرف على الكلام المنطوق'
 
 arexps: []
 
@@ -26,6 +25,8 @@ translators: ['']
 citations: 'مقدمة في حوسبة اللغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

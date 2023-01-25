@@ -1,0 +1,31 @@
+---
+title: "Waveform"
+
+categories: ['']
+
+tags: ['Waveform']
+
+arwords: 'شكل الموجة'
+
+arexps: []
+
+enwords: ['Waveform']
+
+enexps: []
+
+arlexicons: 'ش'
+
+enlexicons: 'W'
+
+authors: ['Ruqayya Roshdy']
+
+translators: ['']
+
+citations: 'العربية والذكاء الاصطناعي'
+
+sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
+
+slug: ""
+---

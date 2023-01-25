@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Information Retrieval-IR"
 
 categories: ['']
@@ -8,6 +6,7 @@ categories: ['']
 tags: ['Information', 'Retrieval', 'IR']
 
 arwords: 'استرجاع البيانات'
+arwords2: 'استرجاع المعلومات'
 
 arexps: []
 
@@ -21,11 +20,13 @@ enlexicons: 'I'
 
 authors: ['Ruqayya Roshdy']
 
-translators: ['X']
+translators: ['']
 
 citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

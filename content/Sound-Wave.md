@@ -1,6 +1,4 @@
 ---
-word: "true"
-
 title: "Sound Wave"
 
 categories: ['']
@@ -15,7 +13,7 @@ enwords: ['Sound Wave']
 
 enexps: []
 
-arlexicons: 'م'
+arlexicons: 'و'
 
 enlexicons: 'S'
 
@@ -26,6 +24,8 @@ translators: ['']
 citations: 'مقدمة في حوسبة اللغة العربية'
 
 sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---

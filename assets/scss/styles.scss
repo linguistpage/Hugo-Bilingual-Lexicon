@@ -398,10 +398,10 @@ width: 50%;
 }
 
 .nvs#most-top {
-height: auto;
+height: 2rem;
 }
 .nvs#most-top a{
-padding-top: 0rem !important;
+padding-top: 0.1rem !important;
 }
 
 
@@ -461,6 +461,7 @@ border-bottom: 1px #e5e5e5 solid;
 audio {
 width: 100%;
 margin-top: 0px;
+margin-bottom: 0px !important;
 border-top: 2px solid #040404;
 border-bottom: 2px solid #040404;
 padding-top: 10px;

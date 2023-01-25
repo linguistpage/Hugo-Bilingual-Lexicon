@@ -22,6 +22,10 @@
           {{- end }}
         </td>
       </tr>
+      
+      
+      
+      <!--
               <tr>
         <th scope="row">سنة الإصدار</th>
         <td>{{- $pubyears := .Language.Params.Taxonomies.pubyear | default "pubyears" }}{{- range ($.GetTerms $pubyears) }}
@@ -39,7 +43,7 @@
       </tr>
       {{ end }}
       
-      
+      -->
         <tr>
         <th scope="row">قسم</th>
         <td>{{- $bcategories := .Language.Params.Taxonomies.bcategory | default "bcategories" }}{{- range ($.GetTerms $bcategories) }}

@@ -48,16 +48,16 @@
           {{- end }}
         </td>
       </tr>
-            <tr>
+<!--            <tr>
         <th scope="row">المصدر</th>
         <td>{{- $citations := .Language.Params.Taxonomies.citation | default "citations" }}{{- range ($.GetTerms $citations) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{- end }}
         </td>
-      </tr>
+      </tr> -->
       <tr>
             <tr>
-        <th scope="row">رابط الكلمة</th>
+        <th scope="row">رابط المصدر</th>
         <td>{{- $sources := .Language.Params.Taxonomies.source | default "sources" }}{{- range ($.GetTerms $sources) }}
           <li class="table-list"><a href="{{ .LinkTitle }}">Link</a></li>
           {{- end }}
