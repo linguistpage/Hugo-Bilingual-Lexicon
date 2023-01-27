@@ -5,20 +5,14 @@
     display: none;
   }
 
+ul,ol {
+list-style: arabic-indic;
+}
   .ar-en {
     color: #fffefc !important;
     background: #040404 !important;
   }
 
-  ul,
-  ol {
-    list-style: none;
-  }
-.sticky {  
-  position: -webkit-sticky; /* Safari & IE */
-position: sticky;
-top: 0;
-}
 .nvs li a{
 padding: 0 !important;
 text-decoration: none !important;
@@ -31,12 +25,17 @@ color: #fffefc
 </style>
 
 
-<div class="sticky">
+
 {{ partial "search-ar.html" . }}
 
-<ul class="nvs" style="height: auto; border-bottom: 2px solid black;">
-<li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ > عربيــ</a></li>
-<li class="ar-en" style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ > إنجليزيــ</a></li></ul> 
-</div>
+<ul class="nvs" style="font-size: small !important; height: auto; border-bottom: 2px solid #040404;">
+
+<li  class="en-ar" style="width: 50%; border-right: 2px solid #040404;"><a  href="/">إنجليزيــ - عربيــ</a>
+</li>
+
+<li class="ar-en" style="width: 50%; border-right: 0px solid #040404;"><a href="/arabic">عربيــ - إنجليزيــ</a>
+</li>
+</ul> 
+
 {{ partial "arlist.html" . }}
 {{ end }}

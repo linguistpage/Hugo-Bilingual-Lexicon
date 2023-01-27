@@ -10,5 +10,6 @@ pubyears: ""
 bcategories: ["معالجة اللغات الطبيعية"]
 tags: ["DeepLearning","Projects", "Using" ,"Python"]
 slug: "dlpup"
+dl: "true"
 ---
 

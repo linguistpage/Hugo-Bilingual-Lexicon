@@ -1,18 +1,16 @@
+<ul style="direction:rtl !important;" id=artlist>
   {{- range sort (where .Site.RegularPages ".Params.word" "=" "true") ".Params.arwords"  -}}
   
-<ul id=artlist style="direction: rtl !important;">
-
-
-  <li id="myarticles" class="older-article" style="direction: rtl !important;">
+  <li id="myarticles" class="older-article">
     <div class="mainlist">
-      <a style="direction:rtl !important; text-align:right !important;" class="mainlink" href="{{ .RelPermalink }}">
-        <h1>{{.Params.arwords }} </h1>
+      
+      <a style="" class="mainlink" href="{{.Permalink}}">
+        <h1>{{.Params.arwords }}</h1>
       </a>
-      <!-- <hr class="mainhr"> -->
-      <small style="color: black; text-decoration: none; direction:ltr !important; text-align:left !important;" class="mainlink" href="{{.Permalink}}">{{.Title}}</small>
+
+      <small style="color: #0388a6; text-decoration: none; direction:rtl !important; text-align:right !important;" class="mainlink" id="mini"> {{.Title }} </small>
+      
     </div>
   </li>
-
-</ul>
-
   {{ end -}}
+</ul>

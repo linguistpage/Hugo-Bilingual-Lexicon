@@ -26,13 +26,13 @@ color: #fffefc;
 }
 </style>
 
-<div class="sticky">
-{{ partial "search-en.html" . }}
-<ul class="nvs" style="height: auto; border-bottom: 2px solid black;">
-<li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ > عربيــ</a></li>
-<li style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ > إنجليزيــ</a></li></ul> 
 
-</div>
+{{ partial "search-en.html" . }}
+<ul class="nvs" style="font-size: small !important; height: auto; border-bottom: 2px solid black;">
+<li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ - عربيــ</a></li>
+<li style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ - إنجليزيــ</a></li></ul> 
+
+
 {{ partial "enlist.html" . }}
 {{ end }}
 

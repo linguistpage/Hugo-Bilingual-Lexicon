@@ -10,5 +10,6 @@ pubyears: ""
 bcategories: ["معالجة اللغات الطبيعية"]
 tags: ["‫‪Algorithms‬‬"]
 slug: "alg"
+ml: "true"
 ---
 
