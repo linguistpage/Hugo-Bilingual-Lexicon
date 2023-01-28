@@ -6,6 +6,7 @@ categories: ['']
 tags: ['Architecture']
 
 arwords: 'معمار'
+arwords2: 'بنية'
 
 arexps: []
 
@@ -14,6 +15,7 @@ enwords: ['Architecture']
 enexps: []
 
 arlexicons: 'ع'
+arlexicons2: 'ب'
 
 enlexicons: 'A'
 

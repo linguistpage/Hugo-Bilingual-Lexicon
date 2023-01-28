@@ -6,6 +6,7 @@ categories: ['']
 tags: ['Artificial', 'Neural', 'Networks', 'ANNs']
 
 arwords: 'الشبكات العصبية المحوسبة'
+arwords2: 'الشبكات العصبية الاصطناعية'
 
 arexps: []
 

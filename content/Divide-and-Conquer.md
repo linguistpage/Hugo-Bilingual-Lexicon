@@ -6,6 +6,7 @@ categories: ['']
 tags: ['Divide', 'and', 'Conquer']
 
 arwords: 'المعالجة بالتجزئة'
+arwords2: 'فرّق واغزُ'
 
 arexps: []
 
@@ -14,6 +15,7 @@ enwords: ['Divide and Conquer']
 enexps: []
 
 arlexicons: 'ع'
+arlexicons2: 'ف'
 
 enlexicons: 'D'
 

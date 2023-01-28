@@ -6,6 +6,7 @@ categories: ['']
 tags: ['Computational', 'Linguistics', 'CL']
 
 arwords: 'اللغويات الحاسوبية'
+arwords2: 'لسانيات الحاسب الآلي'
 
 arexps: []
 

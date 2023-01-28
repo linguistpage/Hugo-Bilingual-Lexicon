@@ -6,6 +6,7 @@ categories: ['']
 tags: ['Speech', 'Recognition']
 
 arwords: 'التعرف على مفردات الكلام المنطوق'
+arwords2: 'التعرف الآلي على الكلام'
 
 arexps: []
 
