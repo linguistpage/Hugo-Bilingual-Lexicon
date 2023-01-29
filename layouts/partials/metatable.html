@@ -72,7 +72,7 @@
 {{ $pgtitle := print "static/words/" .Title ".pdf" }}
 {{ if fileExists $pgtitle }}
 
-<object data="/words/{{.Title }}.pdf#view=FitH&toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="500">
-</object>
+<iframe src="/words/{{.Title }}.pdf#view=FitH&toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="500">
+</iframe>
 
 {{end}}
