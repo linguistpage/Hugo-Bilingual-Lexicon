@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Unstructured Problems"
 
 categories: ['']
 
 tags: ['Unstructured', 'Problems']
 
-arwords: 'مسائل غير مهيكلة'
+arabic: 'مسائل غير مهيكلة'
 
 arexps: []
 

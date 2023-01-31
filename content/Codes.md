@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Codes"
 
 categories: ['']
 
 tags: ['Codes']
 
-arwords: 'الأكواد'
+arabic: 'الأكواد'
 
 arexps: []
 

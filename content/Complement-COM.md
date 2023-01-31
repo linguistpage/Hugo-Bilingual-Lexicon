@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Complement-COM"
 
 categories: ['']
 
 tags: ['Complement', 'COM']
 
-arwords: 'المكمل'
+arabic: 'المكمل'
 
 arexps: []
 

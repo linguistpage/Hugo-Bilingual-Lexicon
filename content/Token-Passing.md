@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Token Passing"
 
 categories: ['']
 
 tags: ['Token', 'Passing']
 
-arwords: 'تمرير الرُّموز'
+arabic: 'تمرير الرُّموز'
 
 arexps: []
 

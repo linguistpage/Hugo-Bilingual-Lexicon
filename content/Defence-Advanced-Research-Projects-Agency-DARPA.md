@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Defence Advanced Research Projects Agency-DARPA"
 
 categories: ['']
 
 tags: ['Defence', 'Advanced', 'Research', 'Projects', 'Agency', 'DARPA']
 
-arwords: 'وكالة مشروعات اﻷبحاث الدفاعية المتقدمة'
+arabic: 'وكالة مشروعات اﻷبحاث الدفاعية المتقدمة'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Information Retrieval"
 
 categories: ['']
 
 tags: ['Text', 'Information', 'Retrieval']
 
-arwords: 'استرجاع المعلومات النصية'
+arabic: 'استرجاع المعلومات النصية'
 
 arexps: []
 

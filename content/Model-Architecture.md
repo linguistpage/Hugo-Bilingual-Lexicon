@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Model Architecture"
 
 categories: ['']
 
 tags: ['Model', 'Architecture']
 
-arwords: 'بنية النموذج'
+arabic: 'بنية النموذج'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phonological Analysis"
 
 categories: ['']
 
 tags: ['Phonological', 'Analysis']
 
-arwords: 'التحليل الفونولوجي'
+arabic: 'التحليل الفونولوجي'
 
 arexps: []
 

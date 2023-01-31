@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Applied Statistics"
 
 categories: ['']
 
 tags: ['Applied', 'Statistics']
 
-arwords: 'علم الإحصاء التطبيقي'
+arabic: 'علم الإحصاء التطبيقي'
 
 arexps: []
 

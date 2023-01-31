@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Adverb Phrase-AP"
 
 categories: ['']
 
 tags: ['Adverb', 'Phrase', 'AP']
 
-arwords: 'مركب ظرفي'
+arabic: 'مركب ظرفي'
 
 arexps: []
 

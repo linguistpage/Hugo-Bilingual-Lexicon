@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Emoticons"
 
 categories: ['']
 
 tags: ['Emoticons']
 
-arwords: 'الرموز الانفعالية'
+arabic: 'الرموز الانفعالية'
 
 arexps: []
 

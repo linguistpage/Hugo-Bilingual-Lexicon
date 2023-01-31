@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Energy"
 
 categories: ['']
 
 tags: ['Energy']
 
-arwords: 'الطاقة'
+arabic: 'الطاقة'
 
 arexps: []
 

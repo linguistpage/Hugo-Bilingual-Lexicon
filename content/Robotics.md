@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Robotics"
 
 categories: ['']
 
 tags: ['Robotics']
 
-arwords: 'الروبوتيات'
+arabic: 'الروبوتيات'
 
 arexps: []
 

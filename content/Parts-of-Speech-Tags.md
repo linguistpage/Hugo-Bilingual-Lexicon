@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Parts of Speech Tags"
 
 categories: ['']
 
 tags: ['Parts', 'of', 'Speech', 'Tags']
 
-arwords: 'علامات أجزاء الكلام'
+arabic: 'علامات أجزاء الكلام'
 
 arexps: []
 

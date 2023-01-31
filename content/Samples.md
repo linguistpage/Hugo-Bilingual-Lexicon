@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Samples"
 
 categories: ['']
 
 tags: ['Samples']
 
-arwords: 'عينات'
+arabic: 'عينات'
 
 arexps: []
 

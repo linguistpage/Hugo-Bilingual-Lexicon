@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Commonsense Knowledge"
 
 categories: ['']
 
 tags: ['Commonsense', 'Knowledge']
 
-arwords: 'المعرفة الفطرية'
+arabic: 'المعرفة الفطرية'
 
 arexps: []
 

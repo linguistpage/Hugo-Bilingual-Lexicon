@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phrasal Categories"
 
 categories: ['']
 
 tags: ['Phrasal', 'Categories']
 
-arwords: 'الفئات العبارية'
+arabic: 'الفئات العبارية'
 
 arexps: []
 

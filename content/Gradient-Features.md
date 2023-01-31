@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Gradient Features"
 
 categories: ['']
 
 tags: ['Gradient', 'Features']
 
-arwords: 'ملامح التدرج'
+arabic: 'ملامح التدرج'
 
 arexps: []
 

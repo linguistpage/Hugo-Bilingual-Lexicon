@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Complementizer Phrase-CP"
 
 categories: ['']
 
 tags: ['Complementizer', 'Phrase', 'CP']
 
-arwords: 'مركب تكميلي'
+arabic: 'مركب تكميلي'
 
 arexps: []
 

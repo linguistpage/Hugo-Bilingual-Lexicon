@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Over-Segmentation"
 
 categories: ['']
 
 tags: ['Over', 'Segmentation']
 
-arwords: 'تقطيع الأسطر كلها دون تقطيع سطر ما إلى عدة أسطر'
+arabic: 'تقطيع الأسطر كلها دون تقطيع سطر ما إلى عدة أسطر'
 
 arexps: []
 

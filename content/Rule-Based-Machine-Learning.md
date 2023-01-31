@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Rule-Based Machine Learning"
 
 categories: ['']
 
 tags: ['Rule', 'Based', 'Machine', 'Learning']
 
-arwords: 'التعلم على أساس القواعد'
+arabic: 'التعلم على أساس القواعد'
 
 arexps: []
 

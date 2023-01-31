@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sound Card"
 
 categories: ['']
 
 tags: ['Sound', 'Card']
 
-arwords: 'بطاقة صوتية'
+arabic: 'بطاقة صوتية'
 
 arexps: []
 

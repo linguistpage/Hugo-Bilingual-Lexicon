@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Linguistic Rules"
 
 categories: ['']
 
 tags: ['Linguistic', 'Rules']
 
-arwords: 'قواعد لغوية'
+arabic: 'قواعد لغوية'
 
 arexps: []
 

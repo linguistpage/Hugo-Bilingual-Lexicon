@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Perceptual Linear Prediction-PLP"
 
 categories: ['']
 
 tags: ['Perceptual', 'Linear', 'Prediction', 'PLP']
 
-arwords: 'التنبؤ الخطي اﻹدراكية'
+arabic: 'التنبؤ الخطي اﻹدراكية'
 
 arexps: []
 

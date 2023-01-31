@@ -1,42 +1,98 @@
 {{ define "main" }}
-  {{ .Content }}
+{{ .Content }}
 <style>
   ul,
   ol {
     list-style-type: decimal;
   }
+
   .breadcrumbs {
     display: none;
   }
 
-.sticky {  
-  position: -webkit-sticky;
-position: sticky;
-top: 0;
-}
+  .sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
 
-.nvs li a{
-padding: 0 !important;
-text-decoration: none !important;
-}
-.en-ar {
-background: #040404;
-color: #fffefc;
+  .nvs li a {
+    padding: 0 !important;
+    text-decoration: none !important;
+  }
 
-}
-.lexicon {
-background: #040404;
-color: #fffefc
-}
+  .en-ar {
+    background: #040404;
+    color: #fffefc;
+  }
+
+  .lexicon {
+    background: #040404;
+    color: #fffefc
+  }
 </style>
-
-
-{{ partial "search-en.html" . }}
+<!-- ############################### SEARCH FIELD ################################ -->
+<div class="search js-only">
+  <input type="text" id="search" placeholder="Search...">
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    for (e of document.getElementsByClassName("js-only")) {
+      e.classList.remove("js-only");
+    }
+    const posts = document.querySelectorAll("#artlist li");
+    const search = document.getElementById("search");
+    const oldheading = document.getElementById("myarticles");
+    const clearSearch = document.getElementById("clear-search");
+    const artlist = document.getElementById("artlist");
+    search.addEventListener("input", () => {
+      // grab search input value
+      const searchText = search.value.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, "");
+      const searchTerms = searchText.split(" ");
+      const hasFilter = searchText.length > 0;
+      artlist.classList.toggle("list-searched", hasFilter);
+      oldheading.classList.toggle("hidden", hasFilter);
+      // for each recipe hide all but matched
+      posts.forEach(recipe => {
+        const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
+        const isMatch = searchTerms.every(term => searchString.includes(term));
+        recipe.hidden = !isMatch;
+        recipe.classList.toggle("matched-recipe", hasFilter && isMatch);
+      })
+    })
+    clearSearch.addEventListener("click", () => {
+      search.value = "";
+    })
+    posts.forEach(recipe => {
+      recipe.hidden = false;
+      recipe.classList.remove("matched-recipe");
+    })
+    artlist.classList.remove("list-searched");
+    oldheading.classList.remove("hidden");
+  })
+  // @license-end
+</script>
+<!-- ############################ ARABIC <> ENGLISH ICONS ################################### -->
 <ul class="nvs" style="font-size: small !important; height: auto; border-bottom: 2px solid black;">
-<li  class="en-ar" style="width: 50%; border-right: 2px solid black;"><a  href="/">إنجليزيــ - عربيــ</a></li>
-<li style="width: 50%; border-right: 0px solid black;"><a href="/arabic">عربيــ - إنجليزيــ</a></li></ul> 
-
-
-{{ partial "enlist.html" . }}
+  <li class="en-ar" style="width: 50%; border-right: 2px solid black;">
+    <a href="/">إنجليزيــ - عربيــ</a>
+  </li>
+  <li style="width: 50%; border-right: 0px solid black;">
+    <a href="/arabic">عربيــ - إنجليزيــ</a>
+  </li>
+</ul>
+<!-- ############################## ENGLISH LIST ################################# -->
+<ul id=artlist>
+  {{- range (where .Site.RegularPages.ByTitle ".Params.types" "=" "word") -}}
+  <li id="myarticles" class="older-article">
+    <div class="mainlist">
+      <a class="mainlink" href="{{.Permalink}}">
+        <h1>{{.Title}}</h1>
+      </a>
+      <small style="color: #0388a6; text-decoration: none; direction:rtl !important; text-align:right !important;" class="mainlink" id="mini"> {{.Params.arabic }} </small>
+    </div>
+  </li>
+  {{ end -}}
+</ul>
+<!-- ############################################################### -->
 {{ end }}
-

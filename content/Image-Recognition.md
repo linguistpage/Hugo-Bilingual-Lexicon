@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Image Recognition"
 
 categories: ['']
 
 tags: ['Image', 'Recognition']
 
-arwords: 'التعرف الآلي على الصور'
+arabic: 'التعرف الآلي على الصور'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Exhaustive Search"
 
 categories: ['']
 
 tags: ['Exhaustive', 'Search']
 
-arwords: 'البحث الشامل'
+arabic: 'البحث الشامل'
 
 arexps: []
 

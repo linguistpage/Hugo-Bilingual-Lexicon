@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Data Mining"
 
 categories: ['']
 
 tags: ['Data', 'Mining']
 
-arwords: 'التنقيب في البيانات'
+arabic: 'التنقيب في البيانات'
 
 arexps: []
 

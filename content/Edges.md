@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Edges"
 
 categories: ['']
 
 tags: ['Edges']
 
-arwords: 'الحواف'
+arabic: 'الحواف'
 
 arexps: []
 

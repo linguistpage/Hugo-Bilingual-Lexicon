@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Open Source"
 
 categories: ['']
 
 tags: ['Open', 'Source']
 
-arwords: 'مفتوح المصدر'
+arabic: 'مفتوح المصدر'
 
 arexps: []
 

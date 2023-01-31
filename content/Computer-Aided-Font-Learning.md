@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Computer-Aided Font Learning"
 
 categories: ['']
 
 tags: ['Computer', 'Aided', 'Font', 'Learning']
 
-arwords: 'تعلم الخط بمساعدة الحاسوب'
+arabic: 'تعلم الخط بمساعدة الحاسوب'
 
 arexps: []
 

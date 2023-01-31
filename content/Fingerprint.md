@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Fingerprint"
 
 categories: ['']
 
 tags: ['Fingerprint']
 
-arwords: 'بصمة النص'
+arabic: 'بصمة النص'
 
 arexps: []
 

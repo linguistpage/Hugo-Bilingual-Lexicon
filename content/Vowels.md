@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Vowels"
 
 categories: ['']
 
 tags: ['Vowels']
 
-arwords: 'الصوامت'
+arabic: 'الصوامت'
 
 arexps: []
 

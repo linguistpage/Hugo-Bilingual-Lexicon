@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Optimum Situation"
 
 categories: ['']
 
 tags: ['Optimum', 'Situation']
 
-arwords: 'الحالة الأمثل'
+arabic: 'الحالة الأمثل'
 
 arexps: []
 

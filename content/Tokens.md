@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tokens"
 
 categories: ['']
 
 tags: ['Tokens']
 
-arwords: 'وحدات نصية'
+arabic: 'وحدات نصية'
 
 arexps: []
 

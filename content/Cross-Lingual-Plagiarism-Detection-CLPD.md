@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Cross Lingual Plagiarism Detection-CLPD"
 
 categories: ['']
 
 tags: ['Cross', 'Lingual', 'Plagiarism', 'Detection', 'CLPD']
 
-arwords: 'الكشف عن السرقات الأدبية عن طريق الترجمة'
+arabic: 'الكشف عن السرقات الأدبية عن طريق الترجمة'
 
 arexps: []
 

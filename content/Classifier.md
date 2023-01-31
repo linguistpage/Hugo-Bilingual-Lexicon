@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Classifier"
 
 categories: ['']
 
 tags: ['Classifier']
 
-arwords: 'المصنف'
+arabic: 'المصنف'
 
 arexps: []
 

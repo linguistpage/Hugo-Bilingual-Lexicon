@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Arabic Dictionary"
 
 categories: ['']
 
 tags: ['Arabic', 'Dictionary']
 
-arwords: 'القاموس العربي'
+arabic: 'القاموس العربي'
 
 arexps: []
 

@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Syntactic Analysis"
 
 categories: ['']
 
 tags: ['Syntactic', 'Analysis']
 
-arwords: 'التحليل التركيبي'
-arwords2: 'التحليل النحوي'
+arabic: 'التحليل التركيبي'
+arabic2: 'التحليل النحوي'
 
 arexps: []
 

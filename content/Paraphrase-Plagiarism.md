@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Paraphrase Plagiarism"
 
 categories: ['']
 
 tags: ['Paraphrase', 'Plagiarism']
 
-arwords: 'الاحتيال عن طريق إعادة الصياغة'
+arabic: 'الاحتيال عن طريق إعادة الصياغة'
 
 arexps: []
 

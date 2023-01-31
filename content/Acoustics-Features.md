@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Acoustics Features"
 
 categories: ['']
 
 tags: ['Acoustics', 'Features']
 
-arwords: 'الخواص الصوتية الأكوستية'
+arabic: 'الخواص الصوتية الأكوستية'
 
 arexps: []
 

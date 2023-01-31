@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Observations Sequence"
 
 categories: ['']
 
 tags: ['Observations', 'Sequence']
 
-arwords: 'تسلسل الملاحظات'
+arabic: 'تسلسل الملاحظات'
 
 arexps: []
 

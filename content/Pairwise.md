@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Pairwise"
 
 categories: ['']
 
 tags: ['Pairwise']
 
-arwords: 'احتمال حدوث حدثين'
+arabic: 'احتمال حدوث حدثين'
 
 arexps: []
 

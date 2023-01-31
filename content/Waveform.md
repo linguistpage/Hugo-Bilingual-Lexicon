@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Waveform"
 
 categories: ['']
 
 tags: ['Waveform']
 
-arwords: 'شكل الموجة'
+arabic: 'شكل الموجة'
 
 arexps: []
 

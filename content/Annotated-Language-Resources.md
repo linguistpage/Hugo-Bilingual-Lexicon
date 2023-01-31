@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Annotated Language Resources"
 
 categories: ['']
 
 tags: ['Annotated', 'Language', 'Resources']
 
-arwords: 'الموارد اللغوية الموسمة'
+arabic: 'الموارد اللغوية الموسمة'
 
 arexps: []
 

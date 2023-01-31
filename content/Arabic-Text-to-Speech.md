@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Text to Speech"
 
 categories: ['']
 
 tags: ['Arabic', 'Text', 'to', 'Speech']
 
-arwords: 'نطق النصوص العربية'
+arabic: 'نطق النصوص العربية'
 
 arexps: []
 

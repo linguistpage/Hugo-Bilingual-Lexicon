@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Loss Function"
 
 categories: ['']
 
 tags: ['Loss', 'Function']
 
-arwords: 'دالة خسارة'
+arabic: 'دالة خسارة'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Opinion Mining"
 
 categories: ['']
 
 tags: ['Opinion', 'Mining']
 
-arwords: 'التنقيب عن الآراء'
-arwords2: 'التعرف على الآراء'
+arabic: 'التنقيب عن الآراء'
+arabic2: 'التعرف على الآراء'
 
 arexps: []
 

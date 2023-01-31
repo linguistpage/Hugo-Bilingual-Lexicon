@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Language Technology Center-ALTEC"
 
 categories: ['']
 
 tags: ['Arabic', 'Language', 'Technology', 'Center', 'ALTEC']
 
-arwords: 'مركز تقنيات اللغة العربية'
+arabic: 'مركز تقنيات اللغة العربية'
 
 arexps: []
 

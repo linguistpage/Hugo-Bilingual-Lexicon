@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Spontaneous Speech Recognition"
 
 categories: ['']
 
 tags: ['Spontaneous', 'Speech', 'Recognition']
 
-arwords: 'التعرف الآلي على حوارات الاجتماعات والمحاضرات'
+arabic: 'التعرف الآلي على حوارات الاجتماعات والمحاضرات'
 
 arexps: []
 

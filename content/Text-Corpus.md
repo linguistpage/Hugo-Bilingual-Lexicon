@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Corpus"
 
 categories: ['']
 
 tags: ['Text', 'Corpus']
 
-arwords: 'مدونة نصية'
+arabic: 'مدونة نصية'
 
 arexps: []
 

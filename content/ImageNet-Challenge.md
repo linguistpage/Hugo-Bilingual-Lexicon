@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "ImageNet Challenge"
 
 categories: ['']
 
 tags: ['ImageNet', 'Challenge']
 
-arwords: 'مجال التعرف على الصور'
+arabic: 'مجال التعرف على الصور'
 
 arexps: []
 

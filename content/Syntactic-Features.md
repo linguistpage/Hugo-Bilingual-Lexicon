@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic Features"
 
 categories: ['']
 
 tags: ['Syntactic', 'Features']
 
-arwords: 'خصائص نحوية'
+arabic: 'خصائص نحوية'
 
 arexps: []
 

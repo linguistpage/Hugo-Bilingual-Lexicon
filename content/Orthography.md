@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Orthography"
 
 categories: ['']
 
 tags: ['Orthography']
 
-arwords: 'النسق الكتابي'
+arabic: 'النسق الكتابي'
 
 arexps: []
 

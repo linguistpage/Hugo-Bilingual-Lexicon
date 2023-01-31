@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speech Assessment Methods Phonetic Alphabet-SAMPA"
 
 categories: ['']
 
 tags: ['Speech', 'Assessment', 'Methods', 'Phonetic', 'Alphabet', 'SAMPA']
 
-arwords: 'نظام سامبا اللغوية الصوتية'
+arabic: 'نظام سامبا اللغوية الصوتية'
 
 arexps: []
 

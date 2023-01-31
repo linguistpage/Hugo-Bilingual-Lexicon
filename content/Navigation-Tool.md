@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Navigation Tool"
 
 categories: ['']
 
 tags: ['Navigation', 'Tool']
 
-arwords: 'أداة للإبحار والتجول'
+arabic: 'أداة للإبحار والتجول'
 
 arexps: []
 

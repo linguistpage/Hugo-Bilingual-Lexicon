@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Gated Recurrent Neural Networks"
 
 categories: ['']
 
 tags: ['Gated', 'Recurrent', 'Neural', 'Networks']
 
-arwords: 'الشبكات العصبية المبوبة'
+arabic: 'الشبكات العصبية المبوبة'
 
 arexps: []
 

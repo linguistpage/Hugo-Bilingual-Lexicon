@@ -1,5 +1,5 @@
 ---
-word: "true"
+types: "word"
 
 title: "Morphologically Rich Languages"
 
@@ -7,25 +7,11 @@ categories: ['']
 
 tags: ['Morphologically', 'Rich', 'Languages']
 
-arwords: 'اللغات ذات المفردات الكثيرة'
+arabic: ['اللغات ذات المفردات الكثيرة', 'لغات غنية صرفيا']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Morphologically Rich Languages']
-
-enexps: []
-
-arlexicons: 'ل'
-
-enlexicons: 'M'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

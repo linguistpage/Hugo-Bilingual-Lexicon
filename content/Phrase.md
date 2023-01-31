@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Phrase"
 
 categories: ['']
 
 tags: ['Phrase']
 
-arwords: 'مركب'
-arwords2: 'عبارة'
+arabic: 'مركب'
+arabic2: 'عبارة'
 
 arexps: []
 

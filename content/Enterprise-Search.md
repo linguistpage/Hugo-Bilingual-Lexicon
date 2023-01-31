@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Enterprise Search"
 
 categories: ['']
 
 tags: ['Enterprise', 'Search']
 
-arwords: 'محركات البحث في الوثائق المؤسسية'
+arabic: 'محركات البحث في الوثائق المؤسسية'
 
 arexps: []
 

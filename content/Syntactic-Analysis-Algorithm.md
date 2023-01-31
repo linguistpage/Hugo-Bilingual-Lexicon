@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic Analysis Algorithm"
 
 categories: ['']
 
 tags: ['Syntactic', 'Analysis', 'Algorithm']
 
-arwords: 'خوارزمية التحليل التركيبي'
+arabic: 'خوارزمية التحليل التركيبي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Computer Vision"
 
 categories: ['']
 
 tags: ['Computer', 'Vision']
 
-arwords: 'رؤية الحاسب'
+arabic: 'رؤية الحاسب'
 
 arexps: []
 

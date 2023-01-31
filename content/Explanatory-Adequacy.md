@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Explanatory Adequacy"
 
 categories: ['']
 
 tags: ['Explanatory', 'Adequacy']
 
-arwords: 'معيار كفاءة التفسير'
+arabic: 'معيار كفاءة التفسير'
 
 arexps: []
 

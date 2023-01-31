@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Lambda Calculus"
 
 categories: ['']
 
 tags: ['Lambda', 'Calculus']
 
-arwords: 'حساب لامدا'
+arabic: 'حساب لامدا'
 
 arexps: []
 

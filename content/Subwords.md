@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Subwords"
 
 categories: ['']
 
 tags: ['Subwords']
 
-arwords: 'دون الكلمات'
+arabic: 'دون الكلمات'
 
 arexps: []
 

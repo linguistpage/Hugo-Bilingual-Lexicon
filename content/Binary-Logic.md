@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Binary Logic"
 
 categories: ['']
 
 tags: ['Binary', 'Logic']
 
-arwords: 'المنطقية الثنائية'
+arabic: 'المنطقية الثنائية'
 
 arexps: []
 

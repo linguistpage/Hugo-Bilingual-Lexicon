@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Misrecognition Error"
 
 categories: ['']
 
 tags: ['Misrecognition', 'Error']
 
-arwords: 'أخطاء اﻹخفاق'
+arabic: 'أخطاء اﻹخفاق'
 
 arexps: []
 

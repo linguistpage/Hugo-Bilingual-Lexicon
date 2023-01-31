@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Feed Forward Neural Network"
 
 categories: ['']
 
 tags: ['Feed', 'Forward', 'Neural', 'Network']
 
-arwords: 'الشبكات العصبية بالدخل الأمامي'
+arabic: 'الشبكات العصبية بالدخل الأمامي'
 
 arexps: []
 

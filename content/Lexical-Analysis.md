@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Lexical Analysis"
 
 categories: ['']
 
 tags: ['Lexical', 'Analysis']
 
-arwords: 'التحليل المعجمي'
-arwords2: 'التحليل اللفظي'
+arabic: 'التحليل المعجمي'
+arabic2: 'التحليل اللفظي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Prolog"
 
 categories: ['']
 
 tags: ['Prolog']
 
-arwords: 'لغة برمجة الحواسيب'
+arabic: 'لغة برمجة الحواسيب'
 
 arexps: []
 

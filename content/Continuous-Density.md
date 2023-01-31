@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Continuous Density"
 
 categories: ['']
 
 tags: ['Continuous', 'Density']
 
-arwords: 'كثافة متصلة'
+arabic: 'كثافة متصلة'
 
 arexps: []
 

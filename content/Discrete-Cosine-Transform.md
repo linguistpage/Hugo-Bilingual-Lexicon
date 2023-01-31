@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Discrete Cosine Transform"
 
 categories: ['']
 
 tags: ['Discrete', 'Cosine', 'Transform']
 
-arwords: 'تحويل جيب التَّمام المتَقَطِّع'
+arabic: 'تحويل جيب التَّمام المتَقَطِّع'
 
 arexps: []
 

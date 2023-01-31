@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Binary Class"
 
 categories: ['']
 
 tags: ['Binary', 'Class']
 
-arwords: 'ثنائية الفئات'
+arabic: 'ثنائية الفئات'
 
 arexps: []
 

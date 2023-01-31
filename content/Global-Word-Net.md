@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Global Word Net"
 
 categories: ['']
 
 tags: ['Global', 'Word', 'Net']
 
-arwords: 'شبكة الكلمات العالمية'
+arabic: 'شبكة الكلمات العالمية'
 
 arexps: []
 

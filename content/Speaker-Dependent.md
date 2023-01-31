@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speaker Dependent"
 
 categories: ['']
 
 tags: ['Speaker', 'Dependent']
 
-arwords: 'التابعة للمتحدث'
+arabic: 'التابعة للمتحدث'
 
 arexps: []
 

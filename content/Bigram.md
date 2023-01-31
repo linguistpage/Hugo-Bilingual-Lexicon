@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Bigram"
 
 categories: ['NLP']
 
 tags: ['Bigram']
 
-arwords: 'زوج من وحدات متتالية'
+arabic: 'زوج من وحدات متتالية'
 
 arexps: []
 

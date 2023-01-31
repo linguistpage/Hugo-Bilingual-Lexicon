@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Plagiarism Detection"
 
 categories: ['']
 
 tags: ['Plagiarism', 'Detection']
 
-arwords: 'الكشف عن السرقات اﻷدبية'
+arabic: 'الكشف عن السرقات اﻷدبية'
 
 arexps: []
 

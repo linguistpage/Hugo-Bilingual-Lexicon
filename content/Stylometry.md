@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Stylometry"
 
 categories: ['']
 
 tags: ['Stylometry']
 
-arwords: 
+arabic: 
  - 'القياس الأسلوبي'
  - 'أسلوب الكتابة'
 

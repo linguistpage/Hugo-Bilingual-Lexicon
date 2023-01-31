@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Transactions"
 
 categories: ['']
 
 tags: ['Transactions']
 
-arwords: 'تداولات'
+arabic: 'تداولات'
 
 arexps: []
 

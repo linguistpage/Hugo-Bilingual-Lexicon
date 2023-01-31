@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Undecided"
 
 categories: ['']
 
 tags: ['Undecided']
 
-arwords: 'غير يقينية'
+arabic: 'غير يقينية'
 
 arexps: []
 

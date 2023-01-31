@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "The Advanced Research Projects Agency-ARPA"
 
 categories: ['']
 
 tags: ['The', 'Advanced', 'Research', 'Projects', 'Agency', 'ARPA']
 
-arwords: 'وكالة مشروعات البحوث المتقدمة'
+arabic: 'وكالة مشروعات البحوث المتقدمة'
 
 arexps: []
 

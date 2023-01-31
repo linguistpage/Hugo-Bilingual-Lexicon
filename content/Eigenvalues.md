@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Eigenvalues"
 
 categories: ['']
 
 tags: ['Eigenvalues']
 
-arwords: 'القيمة الذاتية'
+arabic: 'القيمة الذاتية'
 
 arexps: []
 

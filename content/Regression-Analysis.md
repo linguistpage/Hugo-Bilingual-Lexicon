@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Regression Analysis"
 
 categories: ['']
 
 tags: ['Regression', 'Analysis']
 
-arwords: 'تحليل الانحدار'
+arabic: 'تحليل الانحدار'
 
 arexps: []
 

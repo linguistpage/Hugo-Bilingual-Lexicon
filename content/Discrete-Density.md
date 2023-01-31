@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Discrete Density"
 
 categories: ['']
 
 tags: ['Discrete', 'Density']
 
-arwords: 'كثافة متقطعة'
+arabic: 'كثافة متقطعة'
 
 arexps: []
 

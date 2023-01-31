@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Activation Potential"
 
 categories: ['']
 
 tags: ['Activation', 'Potential']
 
-arwords: 'احتمالية التنشيط'
+arabic: 'احتمالية التنشيط'
 
 arexps: []
 

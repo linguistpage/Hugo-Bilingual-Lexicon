@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Patterns"
 
 categories: ['']
 
 tags: ['Patterns']
 
-arwords: 'الأنماط'
+arabic: 'الأنماط'
 
 arexps: []
 

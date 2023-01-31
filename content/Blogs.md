@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Blogs"
 
 categories: ['']
 
 tags: ['Blogs']
 
-arwords: 'تدوينات إلكترونية'
+arabic: 'تدوينات إلكترونية'
 
 arexps: []
 

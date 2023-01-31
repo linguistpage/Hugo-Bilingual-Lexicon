@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Spirometer-Respirometer"
 
 categories: ['']
 
 tags: ['Spirometer', 'Respirometer']
 
-arwords: 'مقياس التنفس'
+arabic: 'مقياس التنفس'
 
 arexps: []
 

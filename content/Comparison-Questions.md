@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Comparison Questions"
 
 categories: ['']
 
 tags: ['Comparison', 'Questions']
 
-arwords: 'أسئلة مقارنة'
+arabic: 'أسئلة مقارنة'
 
 arexps: []
 

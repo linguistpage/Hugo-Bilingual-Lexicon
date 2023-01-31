@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "UNDL"
 
 categories: ['']
 
 tags: ['UNDL']
 
-arwords: 'منظمة لغة التواصل الرقمية العالمية'
+arabic: 'منظمة لغة التواصل الرقمية العالمية'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Axioms"
 
 categories: ['']
 
 tags: ['Axioms']
 
-arwords: 'المسلَّمات الأولى'
+arabic: 'المسلَّمات الأولى'
 
 arexps: []
 

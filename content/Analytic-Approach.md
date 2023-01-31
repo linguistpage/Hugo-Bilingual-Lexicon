@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Analytic Approach"
 
 categories: ['']
 
 tags: ['Analytic', 'Approach']
 
-arwords: 'المقاربة التحليلية'
+arabic: 'المقاربة التحليلية'
 
 arexps: []
 

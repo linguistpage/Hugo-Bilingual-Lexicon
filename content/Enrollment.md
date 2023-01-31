@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Enrollment"
 
 categories: ['']
 
 tags: ['Enrollment']
 
-arwords: 'تدريب النظام'
+arabic: 'تدريب النظام'
 
 arexps: []
 

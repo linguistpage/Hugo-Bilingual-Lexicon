@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Well Defined Languages"
 
 categories: ['']
 
 tags: ['Well', 'Defined', 'Languages']
 
-arwords: 'لغات مهذبة التعريف'
+arabic: 'لغات مهذبة التعريف'
 
 arexps: []
 

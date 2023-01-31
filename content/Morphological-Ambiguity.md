@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Morphological Ambiguity"
 
 categories: ['']
 
 tags: ['Morphological', 'Ambiguity']
 
-arwords: 'الالتباس الصرفي'
+arabic: 'الالتباس الصرفي'
 
 arexps: []
 

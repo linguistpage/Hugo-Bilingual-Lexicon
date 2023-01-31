@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Deletion Errors"
 
 categories: ['']
 
 tags: ['Deletion', 'Errors']
 
-arwords: 'أخطاء إسقاط'
-arwords2: 'أخطاء الحذف'
+arabic: 'أخطاء إسقاط'
+arabic2: 'أخطاء الحذف'
 
 arexps: []
 

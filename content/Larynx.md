@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Larynx"
 
 categories: ['']
 
 tags: ['Larynx']
 
-arwords: 'الحنجرة'
+arabic: 'الحنجرة'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Vocal Fold Vibration"
 
 categories: ['']
 
 tags: ['Vocal', 'Fold', 'Vibration']
 
-arwords: 'توتر الحبلين الصوتيين'
+arabic: 'توتر الحبلين الصوتيين'
 
 arexps: []
 

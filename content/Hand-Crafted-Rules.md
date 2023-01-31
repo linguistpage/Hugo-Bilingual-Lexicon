@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hand-Crafted Rules"
 
 categories: ['']
 
 tags: ['Hand', 'Crafted', 'Rules']
 
-arwords: 'خوارزميات مصاغة بشكل يدوي'
+arabic: 'خوارزميات مصاغة بشكل يدوي'
 
 arexps: []
 

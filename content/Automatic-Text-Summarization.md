@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Automatic Text Summarization"
 
 categories: ['']
 
 tags: ['Automatic', 'Text', 'Summarization']
 
-arwords: 'التلخيص الآلي للنصوص'
+arabic: 'التلخيص الآلي للنصوص'
 
 arexps: []
 

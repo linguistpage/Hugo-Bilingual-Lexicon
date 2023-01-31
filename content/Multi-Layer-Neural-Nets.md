@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multi-Layer Neural Nets"
 
 categories: ['']
 
 tags: ['Multi', 'Layer', 'Neural', 'Nets']
 
-arwords: 'الشبكات العصبية متعددة الطبقات'
+arabic: 'الشبكات العصبية متعددة الطبقات'
 
 arexps: []
 

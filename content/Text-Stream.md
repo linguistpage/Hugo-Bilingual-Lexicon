@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Stream"
 
 categories: ['']
 
 tags: ['Text', 'Stream']
 
-arwords: 'سَيَّال النص'
+arabic: 'سَيَّال النص'
 
 arexps: []
 

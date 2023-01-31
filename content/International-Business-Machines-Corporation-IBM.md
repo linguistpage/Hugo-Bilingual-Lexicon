@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "International Business Machines Corporation-IBM"
 
 categories: ['']
 
 tags: ['International', 'Business', 'Machines', 'Corporation', 'IBM']
 
-arwords: 'شركة (آي بي إم)'
+arabic: 'شركة (آي بي إم)'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Unicode"
 
 categories: ['']
 
 tags: ['Unicode']
 
-arwords: 'النظام الموحّد لشفرات الحروف'
+arabic: 'النظام الموحّد لشفرات الحروف'
 
 arexps: []
 

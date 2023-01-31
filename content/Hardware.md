@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hardware"
 
 categories: ['']
 
 tags: ['Hardware']
 
-arwords: 'العتاد'
+arabic: 'العتاد'
 
 arexps: []
 

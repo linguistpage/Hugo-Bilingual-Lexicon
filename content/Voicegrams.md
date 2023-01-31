@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Voicegrams"
 
 categories: ['']
 
 tags: ['Voicegrams']
 
-arwords: 'المخطط الصوتي'
+arabic: 'المخطط الصوتي'
 
 arexps: []
 

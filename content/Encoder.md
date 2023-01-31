@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Encoder"
 
 categories: ['']
 
 tags: ['Encoder']
 
-arwords: 'التشفير'
+arabic: 'التشفير'
 
 arexps: []
 

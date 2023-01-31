@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Annotated Corpora"
 
 categories: ['']
 
 tags: ['Annotated', 'Corpora']
 
-arwords: 'مدونات لغوية موسمة'
+arabic: 'مدونات لغوية موسمة'
 
 arexps: []
 

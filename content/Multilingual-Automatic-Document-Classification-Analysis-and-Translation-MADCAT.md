@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multilingual Automatic Document Classification Analysis and Translation-MADCAT"
 
 categories: ['']
 
 tags: ['Multilingual', 'Automatic', 'Document', 'Classification', 'Analysis', 'and', 'Translation', 'MADCAT']
 
-arwords: 'تحليل وترجمة وتصنيف المستندات متعددة اللغات آليا'
+arabic: 'تحليل وترجمة وتصنيف المستندات متعددة اللغات آليا'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Structural Balance Theory"
 
 categories: ['']
 
 tags: ['Structural', 'Balance', 'Theory']
 
-arwords: 'نظرية التوازن البنائي'
+arabic: 'نظرية التوازن البنائي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Objective Function"
 
 categories: ['']
 
 tags: ['Objective', 'Function']
 
-arwords: 'دالة الهدف'
+arabic: 'دالة الهدف'
 
 arexps: []
 

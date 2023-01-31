@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Transcription"
 
 categories: ['']
 
 tags: ['Transcription']
 
-arwords: 'الكتابة الصوتية'
+arabic: 'الكتابة الصوتية'
 
 arexps: []
 

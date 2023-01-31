@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Modern Standard Arabic-MSA"
 
 categories: ['']
 
 tags: ['Modern', 'Standard', 'Arabic', 'MSA']
 
-arwords: 'اللغة العربية الفصحى'
+arabic: 'اللغة العربية الفصحى'
 
 arexps: []
 

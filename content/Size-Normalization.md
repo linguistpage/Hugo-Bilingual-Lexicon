@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Size Normalization"
 
 categories: ['']
 
 tags: ['Size', 'Normalization']
 
-arwords: 'ضبط حجم الحروف وتطبيعه'
+arabic: 'ضبط حجم الحروف وتطبيعه'
 
 arexps: []
 

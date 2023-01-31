@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Logic Theorist"
 
 categories: ['']
 
 tags: ['Logic', 'Theorist']
 
-arwords: 'المنَظِّر المنطقي'
+arabic: 'المنَظِّر المنطقي'
 
 arexps: []
 

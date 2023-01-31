@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Runtime"
 
 categories: ['']
 
 tags: ['Runtime']
 
-arwords: 'وقت التشغيل'
+arabic: 'وقت التشغيل'
 
 arexps: []
 

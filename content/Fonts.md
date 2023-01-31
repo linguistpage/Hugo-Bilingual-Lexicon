@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Fonts"
 
 categories: ['']
 
 tags: ['Fonts']
 
-arwords: 'حروف مطبعية'
-arwords2: 'الخطوط'
+arabic: 'حروف مطبعية'
+arabic2: 'الخطوط'
 
 arexps: []
 

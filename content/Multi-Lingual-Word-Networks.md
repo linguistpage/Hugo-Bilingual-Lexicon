@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multi-Lingual Word Networks"
 
 categories: ['']
 
 tags: ['Multi', 'Lingual', 'Word', 'Networks']
 
-arwords: 'شبكات كلمات متعددة اللغات'
+arabic: 'شبكات كلمات متعددة اللغات'
 
 arexps: []
 

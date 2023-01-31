@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "High Entropy Spoken Responses"
 
 categories: ['']
 
 tags: ['High', 'Entropy', 'Spoken', 'Responses']
 
-arwords: 'اﻹجابات المنطوقة بفوضى مرتفعة'
+arabic: 'اﻹجابات المنطوقة بفوضى مرتفعة'
 
 arexps: []
 

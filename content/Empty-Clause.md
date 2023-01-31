@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Empty Clause"
 
 categories: ['']
 
 tags: ['Empty', 'Clause']
 
-arwords: 'العبارة المنطقية الخالية'
+arabic: 'العبارة المنطقية الخالية'
 
 arexps: []
 

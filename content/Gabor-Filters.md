@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Gabor Filters"
 
 categories: ['']
 
 tags: ['Gabor', 'Filters']
 
-arwords: 'مرشحات جابر'
+arabic: 'مرشحات جابر'
 
 arexps: []
 

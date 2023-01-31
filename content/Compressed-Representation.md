@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Compressed Representation"
 
 categories: ['']
 
 tags: ['Compressed', 'Representation']
 
-arwords: 'تمثيل مضغوط'
+arabic: 'تمثيل مضغوط'
 
 arexps: []
 

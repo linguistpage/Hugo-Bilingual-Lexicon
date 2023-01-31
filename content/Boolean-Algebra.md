@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Boolean Algebra"
 
 categories: ['']
 
 tags: ['Boolean', 'Algebra']
 
-arwords: 'المنطق الرياضي الثنائي'
+arabic: 'المنطق الرياضي الثنائي'
 
 arexps: []
 

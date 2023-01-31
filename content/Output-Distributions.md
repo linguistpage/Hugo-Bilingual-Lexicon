@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Output Distributions"
 
 categories: ['']
 
 tags: ['Output', 'Distributions']
 
-arwords: 'نماذج المخرجات'
+arabic: 'نماذج المخرجات'
 
 arexps: []
 

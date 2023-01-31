@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Feature Vectors"
 
 categories: ['']
 
 tags: ['Feature', 'Vectors']
 
-arwords: 'مُتَّجهات السِّمات'
+arabic: 'مُتَّجهات السِّمات'
 
 arexps: []
 

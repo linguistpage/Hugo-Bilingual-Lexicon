@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Real Time"
 
 categories: ['']
 
 tags: ['Real', 'Time']
 
-arwords: 'الوقت الحقيقي'
+arabic: 'الوقت الحقيقي'
 
 arexps: []
 

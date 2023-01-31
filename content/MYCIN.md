@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "MYCIN"
 
 categories: ['']
 
 tags: ['MYCIN']
 
-arwords: 'نظام مايسين'
+arabic: 'نظام مايسين'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Abstraction"
 
 categories: ['']
 
 tags: ['Abstraction']
 
-arwords: 'التلخيص'
+arabic: 'التلخيص'
 
 arexps: []
 

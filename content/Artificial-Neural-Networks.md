@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Artificial Neural Networks"
 
 categories: ['']
 
 tags: ['artificial', 'neural', 'networks']
 
-arwords: 'الشبكات العصبية الاصطناعية'
+arabic: 'الشبكات العصبية الاصطناعية'
 
 arexps: []
 

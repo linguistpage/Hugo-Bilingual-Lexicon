@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Degraded Text"
 
 categories: ['']
 
 tags: ['Degraded', 'Text']
 
-arwords: 'نُصوص متدهورة'
+arabic: 'نُصوص متدهورة'
 
 arexps: []
 

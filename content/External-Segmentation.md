@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "External Segmentation"
 
 categories: ['']
 
 tags: ['External', 'Segmentation']
 
-arwords: 'التقطيع الخارجي'
+arabic: 'التقطيع الخارجي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Semantic Field"
 
 categories: ['']
 
 tags: ['Semantic', 'Field']
 
-arwords: 'الحقل الدِلالي'
+arabic: 'الحقل الدِلالي'
 
 arexps: []
 

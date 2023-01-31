@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Maximum Entropy Principle"
 
 categories: ['']
 
 tags: ['Maximum', 'Entropy', 'Principle']
 
-arwords: 'مبدأ حالة اللا يقين القصوى'
+arabic: 'مبدأ حالة اللا يقين القصوى'
 
 arexps: []
 

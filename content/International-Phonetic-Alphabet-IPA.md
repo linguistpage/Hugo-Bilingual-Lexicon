@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "International Phonetic Alphabet-IPA"
 
 categories: ['']
 
 tags: ['International', 'Phonetic', 'Alphabet', 'IPA']
 
-arwords: 'الألفبائية الصوتية الدولية'
-arwords2: 'الأبجدية الصوتية الدولية'
+arabic: 'الألفبائية الصوتية الدولية'
+arabic2: 'الأبجدية الصوتية الدولية'
 
 arexps: []
 

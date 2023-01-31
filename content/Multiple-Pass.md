@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Multiple Pass"
 
 categories: ['']
 
 tags: ['Multiple', 'Pass']
 
-arwords: 'متكررة المرور'
+arabic: 'متكررة المرور'
 
 arexps: []
 

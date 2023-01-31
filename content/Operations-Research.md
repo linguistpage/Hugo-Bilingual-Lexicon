@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Operations Research"
 
 categories: ['']
 
 tags: ['Operations', 'Research']
 
-arwords: 'بحوث العمليات'
+arabic: 'بحوث العمليات'
 
 arexps: []
 

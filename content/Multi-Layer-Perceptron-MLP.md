@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Multi-Layer Perceptron-MLP"
 
 categories: ['']
 
 tags: ['Multi', 'Layer', 'Perceptron', 'MLP']
 
-arwords: 'مصنف الشبكة العصبية متعدة الطبقات'
+arabic: ['مصنف الشبكة العصبية متعدة الطبقات', 'المستقبِل متعدد الطبقات']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Multi-Layer Perceptron-MLP']
-
-enexps: []
-
-arlexicons: 'ص'
-
-enlexicons: 'M'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

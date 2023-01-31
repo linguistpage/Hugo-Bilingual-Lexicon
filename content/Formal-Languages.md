@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Formal Languages"
 
 categories: ['']
 
 tags: ['Formal', 'Languages']
 
-arwords: 'اللغات المحددة رياضيا'
+arabic: 'اللغات المحددة رياضيا'
 
 arexps: []
 

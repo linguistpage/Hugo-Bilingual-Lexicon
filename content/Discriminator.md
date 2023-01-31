@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Discriminator"
 
 categories: ['']
 
 tags: ['Discriminator']
 
-arwords: 'المميزة'
+arabic: 'المميزة'
 
 arexps: []
 

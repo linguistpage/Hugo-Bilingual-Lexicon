@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Verb Phrase"
 
 categories: ['']
 
 tags: ['Verb', 'Phrase']
 
-arwords: 'عبارة فعلية'
+arabic: 'عبارة فعلية'
 
 arexps: []
 

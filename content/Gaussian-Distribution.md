@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Gaussian Distribution"
 
 categories: ['']
 
 tags: ['Gaussian', 'Distribution']
 
-arwords: 'توزيع جاوس'
+arabic: 'توزيع جاوس'
 
 arexps: []
 

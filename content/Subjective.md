@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Subjective"
 
 categories: ['']
 
 tags: ['Subjective']
 
-arwords: 'أفكار تعبر عن رأي'
+arabic: 'أفكار تعبر عن رأي'
 
 arexps: []
 

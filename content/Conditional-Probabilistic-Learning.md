@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Conditional Probabilistic Learning"
 
 categories: ['']
 
 tags: ['Conditional', 'Probabilistic', 'Learning']
 
-arwords: 'التعلم الاحتمالي الشرطي'
+arabic: 'التعلم الاحتمالي الشرطي'
 
 arexps: []
 

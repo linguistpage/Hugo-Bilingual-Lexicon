@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Full Words"
 
 categories: ['']
 
 tags: ['Full', 'Words']
 
-arwords: 'الكلمات التامة'
+arabic: 'الكلمات التامة'
 
 arexps: []
 

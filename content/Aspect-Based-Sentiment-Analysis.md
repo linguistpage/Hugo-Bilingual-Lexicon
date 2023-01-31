@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Aspect-Based Sentiment Analysis"
 
 categories: ['']
 
 tags: ['Aspect', 'Based', 'Sentiment', 'Analysis']
 
-arwords: 'تحليل الآراء متعدد الجوانب'
+arabic: 'تحليل الآراء متعدد الجوانب'
 
 arexps: []
 

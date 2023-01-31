@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Morphological Disambiguation"
 
 categories: ['']
 
 tags: ['Morphological', 'Disambiguation']
 
-arwords: 'فك الالتباس الصرفي'
+arabic: 'فك الالتباس الصرفي'
 
 arexps: []
 

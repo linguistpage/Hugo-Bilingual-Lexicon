@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Clause"
 
 categories: ['']
 
 tags: ['Clause']
 
-arwords: 'فقرة'
+arabic: 'فقرة'
 
 arexps: []
 

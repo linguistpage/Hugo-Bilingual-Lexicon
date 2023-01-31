@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Social Networking"
 
 categories: ['']
 
 tags: ['Social', 'Networking']
 
-arwords: 'شبكات التواصل الاجتماعي'
+arabic: 'شبكات التواصل الاجتماعي'
 
 arexps: []
 

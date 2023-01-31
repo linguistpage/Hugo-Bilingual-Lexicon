@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Base"
 
 categories: ['']
 
 tags: ['Base']
 
-arwords: 'البنية الأساس'
+arabic: 'البنية الأساس'
 
 arexps: []
 

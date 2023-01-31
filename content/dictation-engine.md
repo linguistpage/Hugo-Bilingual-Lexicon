@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Dictation Engine"
 enwords: "Dictation Engine"
-arwords: "مصحح إملائي"
+arabic: "مصحح إملائي"
 categories : ['Machine Learning', 'Dictation', 'Human Language Technologies']
 tags : ['Dictation', 'Engine']
 translators : ['Tarek Oraby']

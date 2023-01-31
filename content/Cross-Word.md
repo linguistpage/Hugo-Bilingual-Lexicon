@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Cross-Word"
 
 categories: ['']
 
 tags: ['Cross', 'Word']
 
-arwords: 'عبارة للكلمات'
+arabic: 'عبارة للكلمات'
 
 arexps: []
 

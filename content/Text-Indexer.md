@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Indexer"
 
 categories: ['']
 
 tags: ['Text', 'Indexer']
 
-arwords: 'الفهرسة الآلية'
+arabic: 'الفهرسة الآلية'
 
 arexps: []
 

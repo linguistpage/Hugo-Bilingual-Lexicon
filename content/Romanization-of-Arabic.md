@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Romanization of Arabic"
 
 categories: ['']
 
 tags: ['Romanization', 'of', 'Arabic']
 
-arwords: 'رومنة الحروف العربية'
+arabic: 'رومنة الحروف العربية'
 
 arexps: []
 

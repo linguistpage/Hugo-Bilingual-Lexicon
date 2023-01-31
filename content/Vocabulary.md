@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Vocabulary"
 
 categories: ['']
 
 tags: ['Vocabulary']
 
-arwords: 'حصيلة مفردات'
+arabic: 'حصيلة مفردات'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Artificial Intelligence"
 
 categories: ['']
 
 tags: ['Artificial', 'Intelligence']
 
-arwords: 'الذكاء الاصطناعي'
+arabic: 'الذكاء الاصطناعي'
 
 arexps: []
 

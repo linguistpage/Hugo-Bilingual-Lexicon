@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Recall"
 
 categories: ['']
 
 tags: ['Recall']
 
-arwords: 'الاستدعاء'
+arabic: 'الاستدعاء'
 
 arexps: []
 

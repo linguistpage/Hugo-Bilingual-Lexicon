@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sociolinguistics"
 
 categories: ['']
 
 tags: ['Sociolinguistics']
 
-arwords: 'اللغويات الاجتماعية'
+arabic: 'اللغويات الاجتماعية'
 
 arexps: []
 

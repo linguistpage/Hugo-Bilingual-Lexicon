@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Graphics Processing Units"
 
 categories: ['']
 
 tags: ['Graphics', 'Processing', 'Units']
 
-arwords: 'وحدات معاجلة الرسومات'
+arabic: 'وحدات معاجلة الرسومات'
 
 arexps: []
 

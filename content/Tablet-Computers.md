@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Tablet Computers"
 
 categories: ['']
 
 tags: ['Tablet', 'Computers']
 
-arwords: 'الحاسبات اللّوحية'
+arabic: 'الحاسبات اللّوحية'
 
 arexps: []
 

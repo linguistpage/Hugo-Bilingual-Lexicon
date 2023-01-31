@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Independent Component Analysis-ICA"
 
 categories: ['']
 
 tags: ['Independent', 'Component', 'Analysis', 'ICA']
 
-arwords: 'تحليل المكونات المستقلة'
+arabic: 'تحليل المكونات المستقلة'
 
 arexps: []
 

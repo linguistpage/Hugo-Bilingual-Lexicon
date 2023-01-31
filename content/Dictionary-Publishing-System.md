@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Dictionary Publishing System"
 
 categories: ['']
 
 tags: ['Dictionary', 'Publishing', 'System']
 
-arwords: 'نظام نشر المعجم'
+arabic: 'نظام نشر المعجم'
 
 arexps: []
 

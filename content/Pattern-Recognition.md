@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pattern Recognition"
 
 categories: ['']
 
 tags: ['Pattern', 'Recognition']
 
-arwords: 'التعرف الآلي على اﻷنماط'
+arabic: 'التعرف الآلي على اﻷنماط'
 
 arexps: []
 

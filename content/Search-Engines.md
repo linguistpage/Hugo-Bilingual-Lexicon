@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Search Engines"
 
 categories: ['']
 
 tags: ['Search', 'Engines']
 
-arwords: 'محركات البحث'
+arabic: 'محركات البحث'
 
 arexps: []
 

@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Text Summarization"
 
 categories: ['']
 
 tags: ['Text', 'Summarization']
 
-arwords: 'تلخيص النصوص'
+arabic: ['تلخيص النصوص', 'التلخيص اﻵلي']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Text Summarization']
-
-enexps: []
-
-arlexicons: 'ل'
-
-enlexicons: 'T'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

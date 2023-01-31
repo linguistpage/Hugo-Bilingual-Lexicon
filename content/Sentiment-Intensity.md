@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sentiment Intensity"
 
 categories: ['']
 
 tags: ['Sentiment', 'Intensity']
 
-arwords: 'شدة المشاعر'
+arabic: 'شدة المشاعر'
 
 arexps: []
 

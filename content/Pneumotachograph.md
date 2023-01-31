@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pneumotachograph"
 
 categories: ['']
 
 tags: ['Pneumotachograph']
 
-arwords: 'مقياس انسياب الهواء'
-arwords2: 'أنابيب جريان الهواء'
+arabic: 'مقياس انسياب الهواء'
+arabic2: 'أنابيب جريان الهواء'
 
 arexps: []
 

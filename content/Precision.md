@@ -1,5 +1,5 @@
 ---
-word: "true"
+types: "word"
 
 title: "Precision"
 
@@ -7,25 +7,11 @@ categories: ['']
 
 tags: ['Precision']
 
-arwords: 'مؤشر الدقة'
+arabic: ['مؤشر الدقة', 'الإحكام']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Precision']
-
-enexps: []
-
-arlexicons: 'أ'
-
-enlexicons: 'P'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

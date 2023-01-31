@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Computational Linguistics-CL"
 
 categories: ['']
 
 tags: ['Computational', 'Linguistics', 'CL']
 
-arwords: 'اللغويات الحاسوبية'
-arwords2: 'لسانيات الحاسب الآلي'
+arabic: 'اللغويات الحاسوبية'
+arabic2: 'لسانيات الحاسب الآلي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Exponential Growth"
 
 categories: ['']
 
 tags: ['Exponential', 'Growth']
 
-arwords: 'التضخم الأسي'
+arabic: 'التضخم الأسي'
 
 arexps: []
 

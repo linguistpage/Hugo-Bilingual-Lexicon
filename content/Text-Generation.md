@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Generation"
 
 categories: ['']
 
 tags: ['Text', 'Generation']
 
-arwords: 'توليد النصوص'
+arabic: 'توليد النصوص'
 
 arexps: []
 

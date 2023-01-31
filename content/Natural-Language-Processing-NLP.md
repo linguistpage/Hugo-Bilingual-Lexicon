@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Natural Language Processing-NLP"
 
 categories: ['']
 
 tags: ['Natural', 'Language', 'Processing', 'NLP']
 
-arwords: 'معالجة اللغات الطبيعية'
+arabic: 'معالجة اللغات الطبيعية'
 
 arexps: []
 

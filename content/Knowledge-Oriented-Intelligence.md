@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Knowledge-Oriented Intelligence"
 
 categories: ['']
 
 tags: ['Knowledge', 'Oriented', 'Intelligence']
 
-arwords: 'الذكاء القائم على المعرفة'
+arabic: 'الذكاء القائم على المعرفة'
 
 arexps: []
 

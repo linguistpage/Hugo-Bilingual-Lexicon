@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Abstractive Summarization"
 
 categories: ['']
 
 tags: ['Abstractive', 'Summarization']
 
-arwords: 'التلخيص الخلاصي'
+arabic: 'التلخيص الخلاصي'
 
 arexps: []
 

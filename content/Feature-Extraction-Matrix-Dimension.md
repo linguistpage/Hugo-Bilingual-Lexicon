@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Feature Extraction Matrix Dimension"
 
 categories: ['']
 
 tags: ['Feature', 'Extraction', 'Matrix', 'Dimension']
 
-arwords: 'حجم مصفوفة الخصائص المستخرجة'
+arabic: 'حجم مصفوفة الخصائص المستخرجة'
 
 arexps: []
 

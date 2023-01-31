@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Categories"
 
 categories: ['']
 
 tags: ['Lexical', 'Categories']
 
-arwords: 'الفئات المعجمية'
+arabic: 'الفئات المعجمية'
 
 arexps: []
 

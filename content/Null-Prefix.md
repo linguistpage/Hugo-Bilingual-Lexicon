@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Null Prefix"
 
 categories: ['']
 
 tags: ['Null', 'Prefix']
 
-arwords: 'سابقة فارغة'
+arabic: 'سابقة فارغة'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Training Phase"
 
 categories: ['']
 
 tags: ['Training', 'Phase']
 
-arwords: 'طور التدريب'
+arabic: 'طور التدريب'
 
 arexps: []
 

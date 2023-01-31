@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Automatic Speech Recognition-ASR"
 
 categories: ['']
 
 tags: ['Automatic', 'Speech', 'Recognition', 'ASR']
 
-arwords: 'التعرف التلقائي على الكلام'
+arabic: 'التعرف التلقائي على الكلام'
 
 arexps: []
 

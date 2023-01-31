@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Knowledge Engineering"
 
 categories: ['']
 
 tags: ['Knowledge', 'Engineering']
 
-arwords: 'هندسة المعرفة'
+arabic: 'هندسة المعرفة'
 
 arexps: []
 

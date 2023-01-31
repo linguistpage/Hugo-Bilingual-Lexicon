@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Verbal Phrase-VP"
 
 categories: ['']
 
 tags: ['Verbal', 'Phrase', 'VP']
 
-arwords: 'مركب فعلي'
-arwords2: 'العبارة اللفظية'
+arabic: 'مركب فعلي'
+arabic2: 'العبارة اللفظية'
 
 arexps: []
 

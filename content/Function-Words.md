@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Function Words"
 
 categories: ['']
 
 tags: ['Function', 'Words']
 
-arwords: 'الكلمات الوظيفية'
+arabic: 'الكلمات الوظيفية'
 
 arexps: []
 

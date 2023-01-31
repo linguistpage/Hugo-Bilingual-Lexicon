@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Localization"
 
 categories: ['']
 
 tags: ['Text', 'Localization']
 
-arwords: 'تحديد المناطق النصية'
+arabic: 'تحديد المناطق النصية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Selection Constraints"
 
 categories: ['']
 
 tags: ['Selection', 'Constraints']
 
-arwords: 'قيود الانتقاء'
+arabic: 'قيود الانتقاء'
 
 arexps: []
 

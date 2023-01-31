@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Unsupervised Learning"
 
 categories: ['']
 
 tags: ['Unsupervised', 'Learning']
 
-arwords: 'التعلم دون إشراف'
+arabic: 'التعلم دون إشراف'
 
 arexps: []
 

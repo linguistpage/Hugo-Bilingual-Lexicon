@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Concepts"
 
 categories: ['']
 
 tags: ['Concepts']
 
-arwords: 'مفاهيم'
+arabic: 'مفاهيم'
 
 arexps: []
 

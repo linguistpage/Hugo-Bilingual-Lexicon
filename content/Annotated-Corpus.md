@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Annotated Corpus"
 
 categories: ['NLP' ,'Corpus Linguistics']
 
 tags: ['annotated', 'corpus']
 
-arwords: 'مدونة لغوية معنونة'
+arabic: 'مدونة لغوية معنونة'
 
 arexps: []
 

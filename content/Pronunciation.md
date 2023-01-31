@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pronunciation"
 
 categories: ['']
 
 tags: ['Pronunciation']
 
-arwords: 'النطق'
+arabic: 'النطق'
 
 arexps: []
 

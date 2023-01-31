@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Writer Identification"
 
 categories: ['']
 
 tags: ['Writer', 'Identification']
 
-arwords: 'التعرف على كاتب النص'
+arabic: 'التعرف على كاتب النص'
 
 arexps: []
 

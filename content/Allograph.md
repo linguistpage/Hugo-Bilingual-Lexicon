@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Allograph"
 
 categories: ['']
 
 tags: ['Allograph']
 
-arwords: 'ألوجراف'
+arabic: 'ألوجراف'
 
 arexps: []
 

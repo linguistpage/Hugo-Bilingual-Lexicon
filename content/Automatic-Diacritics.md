@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Automatic Diacritics"
 
 categories: ['']
 
 tags: ['Automatic', 'Diacritics']
 
-arwords: 'التشكيل الآلي'
+arabic: 'التشكيل الآلي'
 
 arexps: []
 

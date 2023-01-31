@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Factual Questions"
 
 categories: ['']
 
 tags: ['Factual', 'Questions']
 
-arwords: 'أسئلة محددة اﻹجابة'
-arwords2: 'أسئلة واقعية'
+arabic: 'أسئلة محددة اﻹجابة'
+arabic2: 'أسئلة واقعية'
 
 arexps: []
 

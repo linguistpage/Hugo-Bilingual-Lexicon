@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Language Model"
 
 categories: ['']
 
 tags: ['Language', 'Model']
 
-arwords: 'نموذج لغوي'
+arabic: 'نموذج لغوي'
 
 arexps: []
 

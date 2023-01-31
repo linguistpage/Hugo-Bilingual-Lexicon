@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Proper Names"
 
 categories: ['']
 
 tags: ['Proper', 'Names']
 
-arwords: 'أسماء الأعلام'
+arabic: 'أسماء الأعلام'
 
 arexps: []
 

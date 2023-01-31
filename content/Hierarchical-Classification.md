@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hierarchical Classification"
 
 categories: ['']
 
 tags: ['Hierarchical', 'Classification']
 
-arwords: 'التصنيف الهرمي'
+arabic: 'التصنيف الهرمي'
 
 arexps: []
 

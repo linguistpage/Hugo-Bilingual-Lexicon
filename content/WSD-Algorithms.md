@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "WSD Algorithms"
 
 categories: ['']
 
 tags: ['WSD', 'Algorithms']
 
-arwords: 'خوارزمات فك الالتباس الدلالي'
+arabic: 'خوارزمات فك الالتباس الدلالي'
 
 arexps: []
 

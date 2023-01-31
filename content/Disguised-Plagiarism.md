@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Disguised Plagiarism"
 
 categories: ['']
 
 tags: ['Disguised', 'Plagiarism']
 
-arwords: 'الاحتيال المتنكر'
+arabic: 'الاحتيال المتنكر'
 
 arexps: []
 

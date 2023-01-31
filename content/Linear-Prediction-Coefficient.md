@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Linear Prediction Coefficient"
 
 categories: ['']
 
 tags: ['Linear', 'Prediction', 'Coefficient']
 
-arwords: 'معاملات التنبؤ الخطي'
+arabic: 'معاملات التنبؤ الخطي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Generator"
 
 categories: ['']
 
 tags: ['Generator']
 
-arwords: 'المولدة'
+arabic: 'المولدة'
 
 arexps: []
 

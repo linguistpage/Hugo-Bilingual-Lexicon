@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical-Semantic Database"
 
 categories: ['']
 
 tags: ['Lexical', 'Semantic', 'Database']
 
-arwords: 'قاعدة بيانات معجمية دلالية'
+arabic: 'قاعدة بيانات معجمية دلالية'
 
 arexps: []
 

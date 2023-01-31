@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Grammar"
 
 categories: ['']
 
 tags: ['Grammar']
 
-arwords: 'القواعد النحوية'
+arabic: 'القواعد النحوية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "The Egyptian Society of Language Engineering-ESOLE"
 
 categories: ['']
 
 tags: ['The', 'Egyptian', 'Society', 'of', 'Language', 'Engineering', 'ESOLE']
 
-arwords: 'الجمعية المصرية لهندسة اللغة'
+arabic: 'الجمعية المصرية لهندسة اللغة'
 
 arexps: []
 

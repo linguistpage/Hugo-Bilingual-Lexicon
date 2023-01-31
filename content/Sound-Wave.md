@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sound Wave"
 
 categories: ['']
 
 tags: ['Sound', 'Wave']
 
-arwords: 'الموجة الصوتية'
+arabic: 'الموجة الصوتية'
 
 arexps: []
 

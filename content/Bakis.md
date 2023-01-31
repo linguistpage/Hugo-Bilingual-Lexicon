@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Bakis"
 
 categories: ['']
 
 tags: ['Bakis']
 
-arwords: 'باكيس'
+arabic: 'باكيس'
 
 arexps: []
 

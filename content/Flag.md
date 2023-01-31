@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Flag"
 
 categories: ['']
 
 tags: ['Flag']
 
-arwords: 'راية'
+arabic: 'راية'
 
 arexps: []
 

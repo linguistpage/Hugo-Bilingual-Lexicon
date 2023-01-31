@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hidden Layers"
 
 categories: ['']
 
 tags: ['Hidden', 'Layers']
 
-arwords: 'الطبقات المخفية'
+arabic: 'الطبقات المخفية'
 
 arexps: []
 

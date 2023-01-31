@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Laryngoscope"
 
 categories: ['']
 
 tags: ['Laryngoscope']
 
-arwords: 'المجهر الحنجري'
-arwords2: 'منظار الحنجرة'
+arabic: 'المجهر الحنجري'
+arabic2: 'منظار الحنجرة'
 
 arexps: []
 

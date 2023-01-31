@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Emojis"
 
 categories: ['']
 
 tags: ['Emojis']
 
-arwords: 'الرموز التعبيرية'
+arabic: 'الرموز التعبيرية'
 
 arexps: []
 

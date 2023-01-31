@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Intelligent Essay Assessor-IEA"
 
 categories: ['']
 
 tags: ['Intelligent', 'Essay', 'Assessor', 'IEA']
 
-arwords: 'مقيم المقالة الذَّكيّ'
+arabic: 'مقيم المقالة الذَّكيّ'
 
 arexps: []
 

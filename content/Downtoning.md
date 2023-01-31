@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Downtoning"
 
 categories: ['']
 
 tags: ['Downtoning']
 
-arwords: 'التضعيف'
+arabic: 'التضعيف'
 
 arexps: []
 

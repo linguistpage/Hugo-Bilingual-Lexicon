@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Automatic Text Scoring"
 
 categories: ['']
 
 tags: ['Automatic', 'Text', 'Scoring']
 
-arwords: 'التقييم الآلي'
+arabic: 'التقييم الآلي'
 
 arexps: []
 

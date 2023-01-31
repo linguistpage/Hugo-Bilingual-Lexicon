@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Downtoners"
 
 categories: ['']
 
 tags: ['Downtoners']
 
-arwords: 'كلمات تضعيف'
+arabic: 'كلمات تضعيف'
 
 arexps: []
 

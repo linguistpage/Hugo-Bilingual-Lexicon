@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Discrete Wavelet Transform-DWT"
 
 categories: ['']
 
 tags: ['Discrete', 'Wavelet', 'Transform', 'DWT']
 
-arwords: 'المويجات المنفصلة'
+arabic: 'المويجات المنفصلة'
 
 arexps: []
 

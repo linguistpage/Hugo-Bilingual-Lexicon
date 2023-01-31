@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Question Answering Systems"
 
 categories: ['']
 
 tags: ['Question', 'Answering', 'Systems']
 
-arwords: 'أنظمة إجابة الأسئلة'
+arabic: 'أنظمة إجابة الأسئلة'
 
 arexps: []
 

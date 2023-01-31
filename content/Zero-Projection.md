@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Zero Projection"
 
 categories: ['']
 
 tags: ['Zero', 'Projection']
 
-arwords: 'الإسقاط الصفري'
+arabic: 'الإسقاط الصفري'
 
 arexps: []
 

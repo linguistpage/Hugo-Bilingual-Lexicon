@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Chaining"
 
 categories: ['']
 
 tags: ['Lexical', 'Chaining']
 
-arwords: 'ارتباط تسلسل الفقرات في النص'
+arabic: 'ارتباط تسلسل الفقرات في النص'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Optical Character Recognition-OCR"
 
 categories: ['']
 
 tags: ['Optical', 'Character', 'Recognition', 'OCR']
 
-arwords: 'التعرف الآلي على الكتابة'
-arwords2: 'التعرف الضوئي على المحارف'
+arabic: 'التعرف الآلي على الكتابة'
+arabic2: 'التعرف الضوئي على المحارف'
 
 arexps: []
 

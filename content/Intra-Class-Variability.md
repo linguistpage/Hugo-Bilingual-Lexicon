@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Intra-Class Variability"
 
 categories: ['']
 
 tags: ['Intra', 'Class', 'Variability']
 
-arwords: 'الفروق في كتابة الحرف الواحد'
+arabic: 'الفروق في كتابة الحرف الواحد'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hough Transformation"
 
 categories: ['']
 
 tags: ['Hough', 'Transformation']
 
-arwords: 'تحويل هف'
+arabic: 'تحويل هف'
 
 arexps: []
 

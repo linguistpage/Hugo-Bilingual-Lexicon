@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Compilers"
 
 categories: ['']
 
 tags: ['Compilers']
 
-arwords: 'مترجِمات'
+arabic: 'مترجِمات'
 
 arexps: []
 

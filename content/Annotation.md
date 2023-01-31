@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Annotation"
 
 categories: ['']
 
 tags: ['Annotation']
 
-arwords: 'العنونة'
-arwords2: 'التوسيم'
+arabic: 'العنونة'
+arabic2: 'التوسيم'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Performance"
 
 categories: ['']
 
 tags: ['Performance']
 
-arwords: 'درجة الأداء'
+arabic: 'درجة الأداء'
 
 arexps: []
 

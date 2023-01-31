@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Majority Voting Scheme"
 
 categories: ['']
 
 tags: ['Majority', 'Voting', 'Scheme']
 
-arwords: 'نظام التصويت للأغلبية'
+arabic: 'نظام التصويت للأغلبية'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Control Theory"
 
 categories: ['']
 
 tags: ['Control', 'Theory']
 
-arwords: 'نظرية التحكم'
+arabic: 'نظرية التحكم'
 
 arexps: []
 

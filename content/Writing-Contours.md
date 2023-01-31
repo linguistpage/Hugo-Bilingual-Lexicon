@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Writing Contours"
 
 categories: ['']
 
 tags: ['Writing', 'Contours']
 
-arwords: 'المنحنيات المناظرة لمسار الكتابة'
+arabic: 'المنحنيات المناظرة لمسار الكتابة'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Clustering"
 
 categories: ['']
 
 tags: ['Clustering']
 
-arwords: 'التجميع'
+arabic: 'التجميع'
 
 arexps: []
 

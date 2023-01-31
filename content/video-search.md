@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Video Search"
 enwords: "Video Search"
-arwords: "البحث الآلي في المرئيات"
+arabic: "البحث الآلي في المرئيات"
 categories : ['Search', 'Information Retrieval', 'Human Language Technologies']
 tags : ['video','search']
 translators : ['Tarek Oraby']

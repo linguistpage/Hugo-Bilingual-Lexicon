@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Voiceprints"
 
 categories: ['']
 
 tags: ['Voiceprints']
 
-arwords: 'المطبوعات الصوتية'
+arabic: 'المطبوعات الصوتية'
 
 arexps: []
 

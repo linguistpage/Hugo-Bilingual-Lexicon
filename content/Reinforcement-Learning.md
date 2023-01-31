@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Reinforcement Learning"
 
 categories: ['']
 
 tags: ['Reinforcement', 'Learning']
 
-arwords: 'التعلم المعزز'
+arabic: 'التعلم المعزز'
 
 arexps: []
 

@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Syntactic Parsing"
 
 categories: ['']
 
 tags: ['Syntactic', 'Parsing']
 
-arwords: 'تحليل البناء النحوي'
+arabic: ['تحليل البناء النحوي', 'إعراب الكلمات']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Syntactic Parsing']
-
-enexps: []
-
-arlexicons: 'ح'
-
-enlexicons: 'S'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

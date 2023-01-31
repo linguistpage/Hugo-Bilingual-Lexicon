@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Acoustic Intensity"
 
 categories: ['']
 
 tags: ['Acoustic', 'Intensity']
 
-arwords: 'شدة الصوت'
+arabic: 'شدة الصوت'
 
 arexps: []
 

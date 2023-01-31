@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Compound Noun"
 
 categories: ['']
 
 tags: ['Compound', 'Noun']
 
-arwords: 'اسم مركب'
+arabic: 'اسم مركب'
 
 arexps: []
 

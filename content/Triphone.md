@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Triphone"
 
 categories: ['']
 
 tags: ['Triphone']
 
-arwords: 'تراي فون'
+arabic: 'تراي فون'
 
 arexps: []
 

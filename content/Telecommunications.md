@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Telecommunications"
 
 categories: ['']
 
 tags: ['Telecommunications']
 
-arwords: 'علم الاتصالات'
+arabic: 'علم الاتصالات'
 
 arexps: []
 

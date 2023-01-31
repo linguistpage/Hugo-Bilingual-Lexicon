@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Search Engine"
 
 categories: ['']
 
 tags: ['Text', 'Search', 'Engine']
 
-arwords: 'محركات البحث النصي'
+arabic: 'محركات البحث النصي'
 
 arexps: []
 

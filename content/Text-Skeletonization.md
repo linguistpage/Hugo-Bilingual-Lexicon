@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Skeletonization"
 
 categories: ['']
 
 tags: ['Text', 'Skeletonization']
 
-arwords: 'هيكلة النصوص'
+arabic: 'هيكلة النصوص'
 
 arexps: []
 

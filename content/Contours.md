@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Contours"
 
 categories: ['']
 
 tags: ['Contours']
 
-arwords: 'ملامح'
+arabic: 'ملامح'
 
 arexps: []
 

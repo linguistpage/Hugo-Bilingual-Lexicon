@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Incompleteness Theorems"
 
 categories: ['']
 
 tags: ['Incompleteness', 'Theorems']
 
-arwords: 'مبرهنتي عدم اكتمال الرياضيات'
+arabic: 'مبرهنتي عدم اكتمال الرياضيات'
 
 arexps: []
 

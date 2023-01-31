@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Structural Features"
 
 categories: ['']
 
 tags: ['Structural', 'Features']
 
-arwords: 'خصائص بنائية'
+arabic: 'خصائص بنائية'
 
 arexps: []
 

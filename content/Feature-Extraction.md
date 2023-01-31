@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Feature Extraction"
 
 categories: ['']
 
 tags: ['Feature', 'Extraction']
 
-arwords: 'استنباط السِّمات'
-arwords2: 'استخراج الخصائص'
+arabic: 'استنباط السِّمات'
+arabic2: 'استخراج الخصائص'
 
 arexps: []
 

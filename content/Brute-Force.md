@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Brute-Force"
 
 categories: ['']
 
 tags: ['Brute', 'force']
 
-arwords: 'القوة الحاسوبية المحضة'
+arabic: 'القوة الحاسوبية المحضة'
 
 arexps: []
 

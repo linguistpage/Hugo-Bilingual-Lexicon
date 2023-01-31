@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Refutation"
 
 categories: ['']
 
 tags: ['Refutation']
 
-arwords: 'التفنيد'
+arabic: 'التفنيد'
 
 arexps: []
 

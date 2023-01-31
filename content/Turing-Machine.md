@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Turing Machine"
 
 categories: ['']
 
 tags: ['Turing', 'Machine']
 
-arwords: 'آلة تيورنغ'
+arabic: 'آلة تيورنغ'
 
 arexps: []
 

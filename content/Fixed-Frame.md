@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Fixed Frame"
 
 categories: ['']
 
 tags: ['Fixed', 'Frame']
 
-arwords: 'إطار ثابت'
+arabic: 'إطار ثابت'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Semantic Analyzer"
 
 categories: ['']
 
 tags: ['Semantic', 'Analyzer']
 
-arwords: 'المحلل الدلالي'
+arabic: 'المحلل الدلالي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Eigenvectors"
 
 categories: ['']
 
 tags: ['Eigenvectors']
 
-arwords: 'المتجهات الذاتية'
+arabic: 'المتجهات الذاتية'
 
 arexps: []
 

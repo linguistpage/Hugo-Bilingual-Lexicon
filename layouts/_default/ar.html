@@ -25,8 +25,60 @@ color: #fffefc
 </style>
 
 
+<!-- ############################ SEARCH ################################### -->
 
-{{ partial "search-ar.html" . }}
+
+  
+<div class="search js-only">
+<input style="padding-right: 5px; text-align: right !important;" type="text" id="search" placeholder="...البحث"></div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  for (e of document.getElementsByClassName("js-only")) {
+    e.classList.remove("js-only");
+  }
+  const posts = document.querySelectorAll("#artlist li");
+  const search = document.getElementById("search");
+  const oldheading = document.getElementById("myarticles");
+  const clearSearch = document.getElementById("clear-search");
+  const artlist = document.getElementById("artlist");
+
+  search.addEventListener("input", () => {
+    // grab search input value
+    const searchText = search.value.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, "");
+    const searchTerms = searchText.split(" ");
+    const hasFilter = searchText.length > 0;
+
+    artlist.classList.toggle("list-searched", hasFilter);
+    oldheading.classList.toggle("hidden", hasFilter);
+
+    // for each recipe hide all but matched
+    posts.forEach(recipe => {
+      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
+      const isMatch = searchTerms.every(term => searchString.includes(term));
+
+      recipe.hidden = !isMatch;
+      recipe.classList.toggle("matched-recipe", hasFilter && isMatch);
+    })
+  })
+
+  clearSearch.addEventListener("click", () => {
+    search.value = "";
+  })
+    posts.forEach(recipe => {
+      recipe.hidden = false;
+      recipe.classList.remove("matched-recipe");
+    })
+
+    artlist.classList.remove("list-searched");
+    oldheading.classList.remove("hidden");
+})
+// @license-end
+</script>
+
+
+
+<!-- ############################ ARABIC <> ENGLISH ################################### -->
+
 
 <ul class="nvs" style="font-size: small !important; height: auto; border-bottom: 2px solid #040404;">
 
@@ -37,5 +89,28 @@ color: #fffefc
 </li>
 </ul> 
 
-{{ partial "arlist.html" . }}
+
+<!-- ############################ ARABIC LIST ################################### -->
+
+
+<ul style="direction:rtl !important;" id=artlist>
+  {{- range sort (where .Site.RegularPages ".Params.types" "=" "word") ".Params.arabic"  -}}
+  
+  <li id="myarticles" class="older-article">
+    <div class="mainlist">
+      
+      <a style="" class="mainlink" href="{{.Permalink}}">
+        <h1>{{.Params.arabic }}</h1>
+      </a>
+
+      <small style="color: #0388a6; text-decoration: none; direction:rtl !important; text-align:right !important;" class="mainlink" id="mini"> {{.Title }} </small>
+      
+    </div>
+  </li>
+  {{ end -}}
+</ul>
+
+
+<!-- ############################################################### -->
+
 {{ end }}

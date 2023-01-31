@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Corpus of Contemporary Arabic"
 
 categories: ['']
 
 tags: ['Corpus', 'of', 'Contemporary', 'Arabic']
 
-arwords: 'مدونة لغوية للعربية المعاصرة'
+arabic: 'مدونة لغوية للعربية المعاصرة'
 
 arexps: []
 

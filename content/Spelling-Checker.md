@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Spelling Checker"
 
 categories: ['']
 
 tags: ['Spelling', 'Checker']
 
-arwords: 'المدقق الإملائي'
+arabic: 'المدقق الإملائي'
 
 arexps: []
 

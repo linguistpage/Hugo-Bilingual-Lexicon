@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Analog Signals"
 
 categories: ['']
 
 tags: ['analog', 'signals']
 
-arwords: 'إشارات تناظرية'
+arabic: 'إشارات تناظرية'
 
 arexps: []
 

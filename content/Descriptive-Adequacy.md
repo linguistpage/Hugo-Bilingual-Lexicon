@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Descriptive Adequacy"
 
 categories: ['']
 
 tags: ['Descriptive', 'Adequacy']
 
-arwords: 'معيار كفاءة الوصف'
+arabic: 'معيار كفاءة الوصف'
 
 arexps: []
 

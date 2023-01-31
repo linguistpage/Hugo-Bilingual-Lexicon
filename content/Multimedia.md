@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Multimedia"
 
 categories: ['']
 
 tags: ['Multimedia']
 
-arwords: 'الوسائط المتعددة'
+arabic: 'الوسائط المتعددة'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Probability Theory"
 
 categories: ['']
 
 tags: ['Probability', 'Theory']
 
-arwords: 'نظرية الاحتمالات'
+arabic: 'نظرية الاحتمالات'
 
 arexps: []
 

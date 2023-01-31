@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Latent Semantic Analysis-LSA"
 
 categories: ['']
 
 tags: ['Latent', 'Semantic', 'Analysis', 'LSA']
 
-arwords: 'تحليل الدلالات الكامنة'
+arabic: 'تحليل الدلالات الكامنة'
 
 arexps: []
 

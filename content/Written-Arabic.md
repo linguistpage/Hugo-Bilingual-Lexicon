@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Written Arabic"
 
 categories: ['']
 
 tags: ['Written', 'Arabic']
 
-arwords: 'اللغة العربية المكتوبة'
+arabic: 'اللغة العربية المكتوبة'
 
 arexps: []
 

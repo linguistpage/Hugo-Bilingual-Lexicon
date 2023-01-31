@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Raw Text"
 
 categories: ['']
 
 tags: ['Arabic', 'Raw', 'Text']
 
-arwords: 'النص العربي الخام'
+arabic: 'النص العربي الخام'
 
 arexps: []
 

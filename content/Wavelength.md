@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Wavelength"
 
 categories: ['']
 
 tags: ['Wavelength']
 
-arwords: 'طول الموجة'
+arabic: 'طول الموجة'
 
 arexps: []
 

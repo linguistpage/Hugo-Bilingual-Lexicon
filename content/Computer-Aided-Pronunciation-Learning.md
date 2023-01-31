@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Computer-Aided Pronunciation Learning"
 
 categories: ['']
 
 tags: ['Computer', 'Aided', 'Pronunciation', 'Learning']
 
-arwords: 'تعلم النطق بمساعدة الحاسوب'
+arabic: 'تعلم النطق بمساعدة الحاسوب'
 
 arexps: []
 

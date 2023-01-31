@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Database for Handwritten Arabic-ADBase"
 
 categories: ['']
 
 tags: ['Database', 'for', 'Handwritten', 'Arabic', 'ADBase']
 
-arwords: 'قاعدة بيانات الأعداد العربية المكتوبة بخط اليد'
+arabic: 'قاعدة بيانات الأعداد العربية المكتوبة بخط اليد'
 
 arexps: []
 

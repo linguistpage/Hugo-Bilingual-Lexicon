@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Threshold"
 
 categories: ['']
 
 tags: ['Threshold']
 
-arwords: 'قيمة محددة'
-arwords2: 'عَتَبة'
+arabic: 'قيمة محددة'
+arabic2: 'عَتَبة'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Digitization"
 
 categories: ['']
 
 tags: ['Digitization']
 
-arwords: 'رقمنة'
+arabic: 'رقمنة'
 
 arexps: []
 

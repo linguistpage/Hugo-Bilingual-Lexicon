@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Suffix"
 
 categories: ['']
 
 tags: ['Suffix']
 
-arwords: 'اللاحقة'
+arabic: 'اللاحقة'
 
 arexps: []
 

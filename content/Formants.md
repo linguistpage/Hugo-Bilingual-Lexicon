@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Formants"
 
 categories: ['']
 
 tags: ['Formants']
 
-arwords: 'المعالم'
+arabic: 'المعالم'
 
 arexps: []
 

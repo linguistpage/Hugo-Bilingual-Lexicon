@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Polarity"
 
 categories: ['']
 
 tags: ['Text', 'Polarity']
 
-arwords: 'قطبية الكلام'
+arabic: 'قطبية الكلام'
 
 arexps: []
 

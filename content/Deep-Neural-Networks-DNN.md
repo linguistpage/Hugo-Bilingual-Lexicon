@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Deep Neural Networks-DNN"
 
 categories: ['']
 
 tags: ['Deep', 'Neural', 'Networks', 'DNN']
 
-arwords: 'شبكات التعلم العميق'
+arabic: 'شبكات التعلم العميق'
 
 arexps: []
 

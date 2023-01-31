@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Links"
 
 categories: ['']
 
 tags: ['Links']
 
-arwords: 'الوصلات'
+arabic: 'الوصلات'
 
 arexps: []
 

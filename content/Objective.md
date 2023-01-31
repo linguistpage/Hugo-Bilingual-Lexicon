@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Objective"
 
 categories: ['']
 
 tags: ['Objective']
 
-arwords: 'موضوعية'
+arabic: 'موضوعية'
 
 arexps: []
 

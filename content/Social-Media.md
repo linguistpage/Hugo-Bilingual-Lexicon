@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Social Media"
 
 categories: ['']
 
 tags: ['Social', 'Media']
 
-arwords: 'وسائل التواصل الاجتماعي'
+arabic: 'وسائل التواصل الاجتماعي'
 
 arexps: []
 

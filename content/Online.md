@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Online"
 
 categories: ['']
 
 tags: ['Online']
 
-arwords: 'المتصل'
+arabic: 'المتصل'
 
 arexps: []
 

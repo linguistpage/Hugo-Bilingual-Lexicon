@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Divide and Conquer"
 
 categories: ['']
 
 tags: ['Divide', 'and', 'Conquer']
 
-arwords: 'المعالجة بالتجزئة'
-arwords2: 'فرّق واغزُ'
+arabic: 'المعالجة بالتجزئة'
+arabic2: 'فرّق واغزُ'
 
 arexps: []
 

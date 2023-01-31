@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phonetics"
 
 categories: ['']
 
 tags: ['Phonetics']
 
-arwords: 'علم الصوتيات'
+arabic: 'علم الصوتيات'
 
 arexps: []
 

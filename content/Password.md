@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Password"
 
 categories: ['']
 
 tags: ['Password']
 
-arwords: 'كلمة السر'
+arabic: 'كلمة السر'
 
 arexps: []
 

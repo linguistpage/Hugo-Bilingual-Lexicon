@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Human Language Technology-HLT"
 
 categories: ['']
 
 tags: ['Human', 'Language', 'Technology', 'HLT']
 
-arwords: 'تقنيات اللغات البشرية'
+arabic: 'تقنيات اللغات البشرية'
 
 arexps: []
 

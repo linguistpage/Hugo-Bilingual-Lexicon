@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Principal Component Analysis-PCA"
 
 categories: ['']
 
 tags: ['Principal', 'Component', 'Analysis', 'PCA']
 
-arwords: 'تحليل المكون الرئيسي'
+arabic: 'تحليل المكون الرئيسي'
 
 arexps: []
 

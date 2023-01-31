@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Social Power"
 
 categories: ['']
 
 tags: ['Social', 'Power']
 
-arwords: 'قوة اجتماعية'
+arabic: 'قوة اجتماعية'
 
 arexps: []
 

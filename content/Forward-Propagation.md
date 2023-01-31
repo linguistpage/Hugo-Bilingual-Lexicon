@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Forward Propagation"
 
 categories: ['']
 
 tags: ['Forward', 'Propagation']
 
-arwords: 'الانتشار الأمامي'
+arabic: 'الانتشار الأمامي'
 
 arexps: []
 

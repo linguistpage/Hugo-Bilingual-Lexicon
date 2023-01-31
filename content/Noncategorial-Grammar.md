@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Noncategorial Grammar"
 
 categories: ['']
 
 tags: ['Noncategorial', 'Grammar']
 
-arwords: 'القواعد غير الفئوية'
+arabic: 'القواعد غير الفئوية'
 
 arexps: []
 

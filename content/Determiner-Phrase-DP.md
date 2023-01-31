@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Determiner Phrase-DP"
 
 categories: ['']
 
 tags: ['Determiner', 'Phrase', 'DP']
 
-arwords: 'عبارة تحديدية'
+arabic: 'عبارة تحديدية'
 
 arexps: []
 

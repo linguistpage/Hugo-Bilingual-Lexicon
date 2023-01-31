@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Question Answering"
 
 categories: ['']
 
 tags: ['Question', 'Answering']
 
-arwords: 'الإجابة الآلية عن الأسئلة'
+arabic: 'الإجابة الآلية عن الأسئلة'
 
 arexps: []
 

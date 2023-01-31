@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Bioinformatics"
 
 categories: ['']
 
 tags: ['Bioinformatics']
 
-arwords: 'معلوماتية الأحياء'
+arabic: 'معلوماتية الأحياء'
 
 arexps: []
 

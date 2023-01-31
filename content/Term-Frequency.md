@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Term Frequency"
 
 categories: ['']
 
 tags: ['Term', 'Frequency']
 
-arwords: 'تردد المصطلح'
+arabic: 'تردد المصطلح'
 
 arexps: []
 

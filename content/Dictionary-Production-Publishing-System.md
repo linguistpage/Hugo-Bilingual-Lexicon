@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Dictionary Production-Publishing System"
 
 categories: ['']
 
 tags: ['Dictionary', 'english', 'english', 'System']
 
-arwords: 'نظام صناعة المعجم'
+arabic: 'نظام صناعة المعجم'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Discrete"
 
 categories: ['']
 
 tags: ['Discrete']
 
-arwords: 'متقطع'
+arabic: 'متقطع'
 
 arexps: []
 

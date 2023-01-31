@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Vocabulary Space"
 
 categories: ['']
 
 tags: ['Vocabulary', 'Space']
 
-arwords: 'فضاء مفردات'
+arabic: 'فضاء مفردات'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Computer-Aided Language Learning"
 
 categories: ['']
 
 tags: ['Computer', 'Aided', 'Language', 'Learning']
 
-arwords: 'تعلم اللغات بمساعدة الحاسوب'
+arabic: 'تعلم اللغات بمساعدة الحاسوب'
 
 arexps: []
 

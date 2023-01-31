@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Big Data"
 
 categories: ['']
 
 tags: ['Big', 'Data']
 
-arwords: 'البيانات العملاقة'
+arabic: 'البيانات العملاقة'
 
 arexps: []
 

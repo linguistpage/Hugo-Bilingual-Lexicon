@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Mathematical Model"
 
 categories: ['']
 
 tags: ['Mathematical', 'Model']
 
-arwords: 'النموذج الرياضي'
+arabic: 'النموذج الرياضي'
 
 arexps: []
 

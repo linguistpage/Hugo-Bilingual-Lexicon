@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Figurative Meaning"
 
 categories: ['']
 
 tags: ['Figurative', 'Meaning']
 
-arwords: 'المعنى المجازي'
+arabic: 'المعنى المجازي'
 
 arexps: []
 

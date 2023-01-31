@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Laryngograph"
 
 categories: ['']
 
 tags: ['Laryngograph']
 
-arwords: 'جهاز الرسم الحنجري'
-arwords2: 'اللارينجوجراف'
+arabic: 'جهاز الرسم الحنجري'
+arabic2: 'اللارينجوجراف'
 
 arexps: []
 

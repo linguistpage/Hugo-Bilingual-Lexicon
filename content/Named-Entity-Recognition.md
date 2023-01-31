@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Named Entity Recognition"
 
 categories: ['']
 
 tags: ['Named', 'Entity', 'Recognition']
 
-arwords: 'التعرف على أسماء الكائنات'
+arabic: 'التعرف على أسماء الكائنات'
 
 arexps: []
 

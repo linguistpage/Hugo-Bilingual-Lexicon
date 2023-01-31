@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Electrolaryngograph"
 
 categories: ['']
 
 tags: ['Electrolaryngograph']
 
-arwords: 'رسام الحنجرة الإلكتروني'
+arabic: 'رسام الحنجرة الإلكتروني'
 
 arexps: []
 

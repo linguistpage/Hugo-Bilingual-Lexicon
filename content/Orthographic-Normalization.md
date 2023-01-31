@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Orthographic Normalization"
 
 categories: ['']
 
 tags: ['Orthographic', 'Normalization']
 
-arwords: 'تسوية الكلام'
+arabic: 'تسوية الكلام'
 
 arexps: []
 

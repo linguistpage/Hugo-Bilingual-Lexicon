@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Grapheme to Phoneme"
 
 categories: ['']
 
 tags: ['Grapheme', 'to', 'Phoneme']
 
-arwords: 'جرافيم إلى فونيم'
+arabic: 'جرافيم إلى فونيم'
 
 arexps: []
 

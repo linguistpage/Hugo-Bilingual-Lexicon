@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Long Short-Term Memory-LSTM"
 
 categories: ['']
 
 tags: ['Long', 'Short', 'Term', 'Memory', 'LSTM']
 
-arwords: 'الذاكرة قصيرة المدى الطويلة'
+arabic: 'الذاكرة قصيرة المدى الطويلة'
 
 arexps: []
 

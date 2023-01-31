@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Decision Tree"
 
 categories: ['']
 
 tags: ['Decision', 'Tree']
 
-arwords: 'شجرة القرار'
+arabic: 'شجرة القرار'
 
 arexps: []
 

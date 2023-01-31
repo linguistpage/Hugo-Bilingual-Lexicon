@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Polynomial"
 
 categories: ['']
 
 tags: ['Polynomial']
 
-arwords: 'كثيرة الحدود'
+arabic: 'كثيرة الحدود'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "IntelliMetric"
 
 categories: ['']
 
 tags: ['IntelliMetric']
 
-arwords: 'نظام إنتليمتريك'
+arabic: 'نظام إنتليمتريك'
 
 arexps: []
 

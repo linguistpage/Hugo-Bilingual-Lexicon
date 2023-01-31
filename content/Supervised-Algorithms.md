@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Supervised Algorithms"
 
 categories: ['']
 
 tags: ['Supervised', 'Algorithms']
 
-arwords: 'الخوارزميات اﻹشرافية'
+arabic: 'الخوارزميات اﻹشرافية'
 
 arexps: []
 

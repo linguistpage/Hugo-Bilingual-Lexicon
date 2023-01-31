@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Terminal States"
 
 categories: ['']
 
 tags: ['Terminal', 'States']
 
-arwords: 'حالات طرفية'
+arabic: 'حالات طرفية'
 
 arexps: []
 

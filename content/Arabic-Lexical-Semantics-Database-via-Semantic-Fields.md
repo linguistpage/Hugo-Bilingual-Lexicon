@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Lexical Semantics Database via Semantic Fields"
 
 categories: ['']
 
 tags: ['Arabic', 'Lexical', 'Semantics', 'Database', 'via', 'Semantic', 'Fields']
 
-arwords: 'قواعد بيانات الدلالات المعجمية العربية عبر الحقول الدِلالية'
+arabic: 'قواعد بيانات الدلالات المعجمية العربية عبر الحقول الدِلالية'
 
 arexps: []
 

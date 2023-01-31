@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Robot"
 
 categories: ['']
 
 tags: ['Robot']
 
-arwords: 'الإنسان الآلي'
-arwords2: 'الخادم الآلي'
+arabic: 'الإنسان الآلي'
+arabic2: 'الخادم الآلي'
 
 arexps: []
 

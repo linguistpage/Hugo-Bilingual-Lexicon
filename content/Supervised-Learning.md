@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Supervised Learning"
 
 categories: ['']
 
 tags: ['Supervised', 'Learning']
 
-arwords: 'تعلم تحت إشراف'
+arabic: 'تعلم تحت إشراف'
 
 arexps: []
 

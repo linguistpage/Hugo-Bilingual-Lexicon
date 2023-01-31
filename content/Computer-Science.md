@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Computer Science"
 
 categories: ['']
 
 tags: ['Computer', 'Science']
 
-arwords: 'علوم الحاسب'
+arabic: 'علوم الحاسب'
 
 arexps: []
 

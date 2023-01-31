@@ -1,5 +1,5 @@
 ---
-word: "true"
+types: "word"
 
 title: "Affixes"
 
@@ -7,25 +7,11 @@ categories: ['']
 
 tags: ['Affixes']
 
-arwords: 'اللواصق'
+arabic: ['الزوائد', 'اللواصق']
 
-arexps: []
+publishers: ['مقدمة في حوسبة اللغة العربية']
 
-enwords: ['Affixes']
-
-enexps: []
-
-arlexicons: 'ل'
-
-enlexicons: 'A'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

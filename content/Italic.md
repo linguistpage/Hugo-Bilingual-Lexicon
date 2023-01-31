@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Italic"
 
 categories: ['']
 
 tags: ['Italic']
 
-arwords: 'الخط المائل'
+arabic: 'الخط المائل'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Typists‬‬"
 
 categories: ['']
 
 tags: ['Typists‬‬']
 
-arwords: 'ضاربين على لوحات المفاتيح'
+arabic: 'ضاربين على لوحات المفاتيح'
 
 arexps: []
 

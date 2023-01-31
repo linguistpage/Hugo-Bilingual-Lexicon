@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Parts of Sentences"
 
 categories: ['']
 
 tags: ['Parts', 'of', 'Sentences']
 
-arwords: 'أجزاء الجمل'
+arabic: 'أجزاء الجمل'
 
 arexps: []
 

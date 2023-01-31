@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Kymograph"
 
 categories: ['']
 
 tags: ['Kymograph']
 
-arwords: 'الكيموجراف'
+arabic: 'الكيموجراف'
 
 arexps: []
 

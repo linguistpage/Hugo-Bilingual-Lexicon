@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Noun-N"
 
 categories: ['']
 
 tags: ['Noun']
 
-arwords: 'اسم'
+arabic: 'اسم'
 
 arexps: []
 

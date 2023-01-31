@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Low-Level Features"
 
 categories: ['']
 
 tags: ['Low', 'Level', 'Features']
 
-arwords: 'الصورة الخام للبيانات'
+arabic: 'الصورة الخام للبيانات'
 
 arexps: []
 

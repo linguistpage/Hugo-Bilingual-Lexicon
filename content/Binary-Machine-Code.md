@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Binary Machine Code"
 
 categories: ['']
 
 tags: ['Binary', 'Machine', 'Code']
 
-arwords: 'الشفرة الثنائية'
+arabic: 'الشفرة الثنائية'
 
 arexps: []
 

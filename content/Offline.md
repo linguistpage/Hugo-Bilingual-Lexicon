@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Offline"
 
 categories: ['']
 
 tags: ['Offline']
 
-arwords: 'المنفصل'
+arabic: 'المنفصل'
 
 arexps: []
 

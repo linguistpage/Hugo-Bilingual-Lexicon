@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Regression"
 
 categories: ['']
 
 tags: ['Regression']
 
-arwords: 'الارتباط'
+arabic: 'الارتباط'
 
 arexps: []
 

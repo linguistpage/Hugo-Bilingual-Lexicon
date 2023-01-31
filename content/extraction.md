@@ -1,10 +1,12 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Extraction"
 draft: true
 enwords: ""
-arwords: ""
+arabic: ""
 categories : ['']
 tags : ['']
 translators : ['']

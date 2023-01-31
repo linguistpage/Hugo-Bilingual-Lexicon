@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Document Clustering"
 enwords: "Document Clustering"
-arwords: "تجميع الوثائق آليا"
+arabic: "تجميع الوثائق آليا"
 categories : ['Machine Learning', 'Clustering']
 tags : ['Document', 'Clustering']
 translators : ['Tarek Oraby']

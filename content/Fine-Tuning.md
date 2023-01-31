@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Fine-Tuning"
 
 categories: ['']
 
 tags: ['Fine', 'Tuning']
 
-arwords: 'المعايرة الدقيقة'
+arabic: 'المعايرة الدقيقة'
 
 arexps: []
 

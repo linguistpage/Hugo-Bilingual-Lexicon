@@ -1,5 +1,5 @@
 ---
-word: "true"
+types: "word"
 
 title: "Lexical Semantics"
 
@@ -7,25 +7,11 @@ categories: ['']
 
 tags: ['Lexical', 'Semantics']
 
-arwords: 'الدلالات المعجمية'
+arabic: ['الدلالات المعجمية', 'دلالة المفردات']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Lexical Semantics']
-
-enexps: []
-
-arlexicons: 'د'
-
-enlexicons: 'L'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

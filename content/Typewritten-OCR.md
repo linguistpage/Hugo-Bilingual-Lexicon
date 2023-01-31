@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Typewritten OCR"
 
 categories: ['']
 
 tags: ['Typewritten', 'OCR']
 
-arwords: 'التعرف الآلي على الكتابة المطبوعة'
+arabic: 'التعرف الآلي على الكتابة المطبوعة'
 
 arexps: []
 

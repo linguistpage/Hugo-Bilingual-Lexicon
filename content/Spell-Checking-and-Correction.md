@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Spell Checking and Correction"
 
 categories: ['']
 
 tags: ['Spell', 'Checking', 'and', 'Correction']
 
-arwords: 'التدقيق والتصحيح الإملائي'
+arabic: 'التدقيق والتصحيح الإملائي'
 
 arexps: []
 

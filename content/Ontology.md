@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Ontology"
 
 categories: ['']
 
 tags: ['Ontology']
 
-arwords: 'الأنطولوجيا'
+arabic: 'الأنطولوجيا'
 
 arexps: []
 

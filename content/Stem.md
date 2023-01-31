@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Stem"
 
 categories: ['']
 
 tags: ['Stem']
 
-arwords: 'الجذع'
+arabic: 'الجذع'
 
 arexps: []
 

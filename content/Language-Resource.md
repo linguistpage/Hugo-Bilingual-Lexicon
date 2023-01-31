@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Language Resource"
 
 categories: ['']
 
 tags: ['Language', 'Resource']
 
-arwords: 'مَورِد لغوي'
+arabic: 'مَورِد لغوي'
 
 arexps: []
 

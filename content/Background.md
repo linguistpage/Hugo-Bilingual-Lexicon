@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Background"
 draft: true
 categories: ['']
 
 tags: ['Background']
 
-arwords: 'الخلفية'
+arabic: 'الخلفية'
 
 arexps: []
 

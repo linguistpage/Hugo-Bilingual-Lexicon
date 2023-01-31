@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Viterbi"
 
 categories: ['']
 
 tags: ['Viterbi']
 
-arwords: 'خوارزمية فيتيربي'
+arabic: 'خوارزمية فيتيربي'
 
 arexps: []
 

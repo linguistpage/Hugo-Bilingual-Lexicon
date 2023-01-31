@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Quantitative"
 
 categories: ['']
 
 tags: ['Quantitative']
 
-arwords: 'كمي'
+arabic: 'كمي'
 
 arexps: []
 

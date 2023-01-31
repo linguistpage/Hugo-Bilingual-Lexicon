@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Co-Reference Resolution"
 
 categories: ['']
 
 tags: ['Co-Reference', 'Resolution']
 
-arwords: 'الكشف عن الإشارات المشتركة'
+arabic: 'الكشف عن الإشارات المشتركة'
 
 arexps: []
 

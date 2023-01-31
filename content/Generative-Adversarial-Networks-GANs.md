@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Generative Adversarial Networks-GANs"
 
 categories: ['']
 
 tags: ['Generative', 'Adversarial', 'Networks', 'GANs']
 
-arwords: 'شبكات الخصومة التوليدية'
+arabic: 'شبكات الخصومة التوليدية'
 
 arexps: []
 

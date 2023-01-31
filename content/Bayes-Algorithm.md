@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Bayes Algorithm"
 
 categories: ['Statistics', 'Machine Learning']
 
 tags: ['Bayes', 'Algorithm']
 
-arwords: 'خوارزم بايز'
+arabic: 'خوارزم بايز'
 
 arexps: []
 

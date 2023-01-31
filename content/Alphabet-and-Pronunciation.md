@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Alphabet and Pronunciation"
 
 categories: ['']
 
 tags: ['Alphabet', 'and', 'Pronunciation']
 
-arwords: 'الهجاء والنطق'
+arabic: 'الهجاء والنطق'
 
 arexps: []
 

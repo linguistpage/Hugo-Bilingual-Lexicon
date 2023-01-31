@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Internal Segmentation"
 
 categories: ['']
 
 tags: ['Internal', 'Segmentation']
 
-arwords: 'التقطيع الداخلي'
+arabic: 'التقطيع الداخلي'
 
 arexps: []
 

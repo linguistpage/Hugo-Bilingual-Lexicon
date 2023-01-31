@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Document Classification and Clustering"
 
 categories: ['']
 
 tags: ['Document', 'Classification', 'and', 'Clustering']
 
-arwords: 'تصنيف وتجميع الوثائق'
+arabic: 'تصنيف وتجميع الوثائق'
 
 arexps: []
 

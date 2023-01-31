@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Theorems"
 
 categories: ['']
 
 tags: ['Theorems']
 
-arwords: 'مبرهنة'
+arabic: 'مبرهنة'
 
 arexps: []
 

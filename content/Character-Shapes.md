@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Character-Shapes"
 
 categories: ['']
 
 tags: ['Character', 'Shapes']
 
-arwords: 'المحارف'
+arabic: 'المحارف'
 
 arexps: []
 

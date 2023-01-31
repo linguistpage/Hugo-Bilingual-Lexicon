@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Decibel-dB"
 
 categories: ['']
 
 tags: ['Decibel', 'dB']
 
-arwords: 'الديسيبل'
+arabic: 'الديسيبل'
 
 arexps: []
 

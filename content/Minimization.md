@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Minimization"
 
 categories: ['']
 
 tags: ['Minimization']
 
-arwords: 'ضغط'
+arabic: 'ضغط'
 
 arexps: []
 

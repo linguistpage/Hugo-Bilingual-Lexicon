@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "N-gram"
 
 categories: ['']
 
 tags: ['N', 'gram']
 
-arwords: 'النماذج اللغوية للنَّحو اﻹحصائي'
+arabic: 'النماذج اللغوية للنَّحو اﻹحصائي'
 
 arexps: []
 

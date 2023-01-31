@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Functional Meaning"
 
 categories: ['']
 
 tags: ['Functional', 'Meaning']
 
-arwords: 'معنى وظيفي'
+arabic: 'معنى وظيفي'
 
 arexps: []
 

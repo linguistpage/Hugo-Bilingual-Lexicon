@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Formant Frequencies"
 
 categories: ['']
 
 tags: ['Formant', 'Frequencies']
 
-arwords: 'ترددات صفة صوت الكلام'
+arabic: 'ترددات صفة صوت الكلام'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Idea Plagiarism"
 
 categories: ['']
 
 tags: ['Idea', 'Plagiarism']
 
-arwords: 'سرقة اﻷفكار'
+arabic: 'سرقة اﻷفكار'
 
 arexps: []
 

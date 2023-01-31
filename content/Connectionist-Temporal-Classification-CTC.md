@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Connectionist Temporal Classification-CTC"
 
 categories: ['']
 
 tags: ['Connectionist', 'Temporal', 'Classification', 'CTC']
 
-arwords: 'التصنيف الزمني التوصيلي'
+arabic: ['التصنيف الزمني التوصيلي']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Connectionist Temporal Classification-CTC']
-
-enexps: []
-
-arlexicons: 'ص'
-
-enlexicons: 'C'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

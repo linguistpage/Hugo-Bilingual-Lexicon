@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Slant Correction"
 
 categories: ['']
 
 tags: ['Slant', 'Correction']
 
-arwords: 'تعديل الميل'
+arabic: 'تعديل الميل'
 
 arexps: []
 

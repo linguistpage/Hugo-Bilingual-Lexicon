@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Depth First"
 
 categories: ['']
 
 tags: ['Depth', 'First']
 
-arwords: 'العمق أولا'
+arabic: 'العمق أولا'
 
 arexps: []
 

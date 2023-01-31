@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Semantic Ambiguity"
 
 categories: ['']
 
 tags: ['Lexical', 'Semantic', 'Ambiguity']
 
-arwords: 'الالتباس الدلالي المعجمي'
+arabic: 'الالتباس الدلالي المعجمي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Transformational Rule"
 
 categories: ['']
 
 tags: ['Transformational', 'Rule']
 
-arwords: 'قواعد التحويل'
+arabic: 'قواعد التحويل'
 
 arexps: []
 

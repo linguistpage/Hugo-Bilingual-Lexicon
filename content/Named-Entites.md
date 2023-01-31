@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Named Entites"
 
 categories: ['']
 
 tags: ['Named', 'Entites']
 
-arwords: 'أسماء الأعالم والكائنات'
+arabic: 'أسماء الأعالم والكائنات'
 
 arexps: []
 

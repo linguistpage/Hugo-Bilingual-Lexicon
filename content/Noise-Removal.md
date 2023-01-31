@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Noise Removal"
 
 categories: ['']
 
 tags: ['Noise', 'Removal']
 
-arwords: 'إزالة التشويشات'
+arabic: 'إزالة التشويشات'
 
 arexps: []
 

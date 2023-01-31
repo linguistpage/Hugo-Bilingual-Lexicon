@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Image Processing"
 
 categories: ['']
 
 tags: ['Image', 'Processing']
 
-arwords: 'معالجة الصور'
-arwords2: 'تحليل الصور'
+arabic: 'معالجة الصور'
+arabic2: 'تحليل الصور'
 
 arexps: []
 

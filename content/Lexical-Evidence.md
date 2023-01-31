@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Evidence"
 
 categories: ['']
 
 tags: ['Lexical', 'Evidence']
 
-arwords: 'الشواهد المعجمية'
+arabic: 'الشواهد المعجمية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Roots"
 
 categories: ['']
 
 tags: ['Roots']
 
-arwords: 'الجذور'
+arabic: 'الجذور'
 
 arexps: []
 

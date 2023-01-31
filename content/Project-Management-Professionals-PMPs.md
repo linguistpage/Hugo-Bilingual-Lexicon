@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Project Management Professionals-PMPs"
 
 categories: ['']
 
 tags: ['Project', 'Management', 'Professionals', 'PMPs']
 
-arwords: 'محترفي إدارة المشروعات'
+arabic: 'محترفي إدارة المشروعات'
 
 arexps: []
 

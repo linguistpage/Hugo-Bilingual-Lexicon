@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Mel Frequency Cepstral Coefficients-MFCC"
 draft: true
 categories: ['']
 
 tags: ['Mel', 'Frequency', 'Cepstral', 'Coefficients', 'MFCC']
 
-arwords: ''
+arabic: ''
 
 arexps: []
 

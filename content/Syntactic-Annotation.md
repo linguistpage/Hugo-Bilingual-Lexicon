@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic Annotation"
 
 categories: ['']
 
 tags: ['Syntactic', 'Annotation']
 
-arwords: 'العنونة التركيبية'
+arabic: 'العنونة التركيبية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Signal Processing"
 
 categories: ['']
 
 tags: ['Signal', 'Processing']
 
-arwords: 'معالجة الإشارات'
+arabic: 'معالجة الإشارات'
 
 arexps: []
 

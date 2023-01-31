@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Baum-Weltch"
 
 categories: ['']
 
 tags: ['Baum', 'Weltch']
 
-arwords: 'خوارزمية باوم وويلتش'
+arabic: 'خوارزمية باوم وويلتش'
 
 arexps: []
 

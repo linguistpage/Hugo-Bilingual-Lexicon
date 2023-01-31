@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Recursion"
 
 categories: ['']
 
 tags: ['Recursion']
 
-arwords: 'استدعاء ذاتي'
-arwords2: 'تكرار'
+arabic: 'استدعاء ذاتي'
+arabic2: 'تكرار'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Substitution Errors"
 
 categories: ['']
 
 tags: ['Substitution', 'Errors']
 
-arwords: 'أخطاء تبديل'
+arabic: 'أخطاء تبديل'
 
 arexps: []
 

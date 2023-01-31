@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Forward Backward"
 
 categories: ['']
 
 tags: ['Forward', 'Backward']
 
-arwords: 'الخوارزم اﻷماميّ الخلفيّ'
+arabic: 'الخوارزم اﻷماميّ الخلفيّ'
 
 arexps: []
 

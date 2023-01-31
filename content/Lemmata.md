@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lemmata"
 
 categories: ['']
 
 tags: ['Lemmata']
 
-arwords: 'فروع'
+arabic: 'فروع'
 
 arexps: []
 

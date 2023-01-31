@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Electropalatograph"
 
 categories: ['']
 
 tags: ['Electropalatograph']
 
-arwords: 'رسام الحنك الإلكتروني'
+arabic: 'رسام الحنك الإلكتروني'
 
 arexps: []
 

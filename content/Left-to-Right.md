@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Left to Right"
 
 categories: ['']
 
 tags: ['Left', 'to', 'Right']
 
-arwords: 'من اليسار إلى اليمين'
+arabic: 'من اليسار إلى اليمين'
 
 arexps: []
 

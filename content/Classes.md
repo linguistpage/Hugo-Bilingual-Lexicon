@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Classes"
 
 categories: ['']
 
 tags: ['Classes']
 
-arwords: 'الأصناف'
+arabic: 'الأصناف'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Random Access Memory"
 
 categories: ['']
 
 tags: ['Random', 'Access', 'Memory']
 
-arwords: 'ذاكرة الاستدعاء المباشر'
+arabic: 'ذاكرة الاستدعاء المباشر'
 
 arexps: []
 

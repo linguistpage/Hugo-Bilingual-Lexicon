@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Determiner-DET"
 
 categories: ['']
 
 tags: ['Determiner', 'DET']
 
-arwords: 'أداة تعريف'
+arabic: 'أداة تعريف'
 
 arexps: []
 

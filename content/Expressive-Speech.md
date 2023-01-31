@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Expressive Speech"
 
 categories: ['']
 
 tags: ['Expressive', 'Speech']
 
-arwords: 'التعبير في الصوت'
+arabic: 'التعبير في الصوت'
 
 arexps: []
 

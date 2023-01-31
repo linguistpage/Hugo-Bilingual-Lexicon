@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Language Recognition"
 
 categories: ['']
 
 tags: ['Language', 'Recognition']
 
-arwords: 'التعرف على اللغة'
+arabic: 'التعرف على اللغة'
 
 arexps: []
 

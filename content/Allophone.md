@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Allophone"
 
 categories: ['Linguistics']
 
 tags: ['allophone']
 
-arwords: 'بدل صوتي'
+arabic: 'بدل صوتي'
 
 arexps: []
 

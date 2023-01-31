@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "AMIRA"
 
 categories: ['']
 
 tags: ['AMIRA']
 
-arwords: 'حزمة أدوات برمجية (أميرة)'
+arabic: 'حزمة أدوات برمجية (أميرة)'
 
 arexps: []
 

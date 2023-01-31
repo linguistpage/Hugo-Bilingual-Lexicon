@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Miss-Segmentation"
 
 categories: ['']
 
 tags: ['Miss', 'Segmentation']
 
-arwords: 'خطأ في تقطيع أو تقسيم الجمل'
+arabic: 'خطأ في تقطيع أو تقسيم الجمل'
 
 arexps: []
 

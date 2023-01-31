@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Giga Word"
 
 categories: ['']
 
 tags: ['Giga', 'Word']
 
-arwords: 'جيجا وورد'
+arabic: 'جيجا وورد'
 
 arexps: []
 

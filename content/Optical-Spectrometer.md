@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Optical Spectrometer"
 
 categories: ['']
 
 tags: ['Optical', 'Spectrometer']
 
-arwords: 'المطياف البصري'
+arabic: 'المطياف البصري'
 
 arexps: []
 

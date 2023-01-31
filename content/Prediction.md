@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Prediction"
 
 categories: ['']
 
 tags: ['Prediction']
 
-arwords: 'التنبؤ'
+arabic: 'التنبؤ'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Ambiguity"
 
 categories: ['']
 
 tags: ['Ambiguity']
 
-arwords: 'الالتباس'
+arabic: 'الالتباس'
 
 arexps: []
 

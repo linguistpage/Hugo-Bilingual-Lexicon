@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Document Summarization"
 
 categories: ['']
 
 tags: ['Document', 'Summarization']
 
-arwords: 'تلخيص الوثائق'
+arabic: 'تلخيص الوثائق'
 
 arexps: []
 

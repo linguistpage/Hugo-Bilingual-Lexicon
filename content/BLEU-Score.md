@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "BLEU Score"
 
 categories: ['']
 
 tags: ['BLEU', 'Score']
 
-arwords: 'مُقَيِّم بلو'
+arabic: 'مُقَيِّم بلو'
 
 arexps: []
 

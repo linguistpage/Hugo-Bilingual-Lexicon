@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Frequency Information"
 
 categories: ['']
 
 tags: ['Frequency', 'Information']
 
-arwords: 'معلومات التكرار'
+arabic: 'معلومات التكرار'
 
 arexps: []
 

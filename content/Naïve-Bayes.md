@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Naïve Bayes"
 
 categories: ['']
 
 tags: ['Naïve', 'Bayes']
 
-arwords: 'مصنف بايز'
+arabic: 'مصنف بايز'
 
 arexps: []
 

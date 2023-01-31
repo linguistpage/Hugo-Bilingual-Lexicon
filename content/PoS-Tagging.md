@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "PoS Tagging"
 
 categories: ['']
 
 tags: ['PoS', 'Tagging']
 
-arwords: 'عمليات تعيين أقسام الكلام'
+arabic: 'عمليات تعيين أقسام الكلام'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
-scholar: "true"
-business: "true"
 title: "محسن رشوان"
-scategories: "حاسوبي"
-degrees: "Prof. Dr."
-contributions: ["rdi.com" , "sakhr.com"]
-institutions: 'جامعةالقاهرة'
-emails: "Mohsen@Mohsen.com"
-slug: ""
+countries: "مصر"
+categories: ""
+authors: "محسن رشوان"
+degrees: "أ. د."
+emails: "mohsen@mohsen.mohsen"
+institutions: "جامعة القاهرة"
+contributions: ""
+tags: []
+links: ""
+types: "scholar"
 ---
 
 
@@ -15,69 +17,44 @@ slug: ""
 
 ## Lexicon
 
-- Title
-- Arabic Word
-- Arabic Lexicon
-- English Word
-- English Lexicon
-- Citation
-- Tags
-- Categories
-- Word: "true"
-- Slug
+title: ""
+arabic: ""
+araabic2: ""
+citations: ""
+tags: []
+categories: []
+types: "word"
 
 ## Books
 
-- Title
-- Authors
-- Categories
-- Tags
-- Publishing House
-- Year
-- Language
-- Book: "true"
-- Slug
+title: ""
+authors: ""
+categories: ""
+publishers: ""
+types: "book"
 
 
 ## Scholars
 
-- Title
-- Nationality
-- Categories
-- Degree
-- Contributions
-- Institutions
-- Emails
-- Links
-- Scholar: "true"
-- Business Man: "true"
-- Slug
+title: ""
+countries: ""
+categories: ""
+authors: ""
+degrees: ""
+emails: ""
+institutions: ""
+contributions: ""
+tags: []
+links: ""
+types: "scholar"
+
 
 ## Companies
 
-- Country
-- Field
-- Category
-- Tags
-- Website
-- Company: "true"
-- Slug: ""
+title: ""
+countries: ""
+categories: ""
+websites: ""
+tags: []
+types: "company"
 
-## Initiatives
-
-- Country
-- Field
-- Category
-- Website
-- Initiative: "true"
-- Slug: ""
-
-## Datasets
-
-- Languages: ["",""]
-- Links
-- Citations
-- Categories
-- Tags
-- Dataset: "true"
-- Slug: ""

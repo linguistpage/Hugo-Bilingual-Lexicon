@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Relative Voltage"
 
 categories: ['']
 
 tags: ['Relative', 'Voltage']
 
-arwords: 'الجهد النسبي'
+arabic: 'الجهد النسبي'
 
 arexps: []
 

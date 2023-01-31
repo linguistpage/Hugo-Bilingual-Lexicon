@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Turing Test"
 
 categories: ['']
 
 tags: ['Turing', 'Test']
 
-arwords: 'اختبار تيورنغ'
+arabic: 'اختبار تيورنغ'
 
 arexps: []
 

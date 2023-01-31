@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Corpus-Based Machine Learning"
 
 categories: ['']
 
 tags: ['Corpus', 'Based', 'Machine', 'Learning']
 
-arwords: 'التعلم على أساس المدونات'
+arabic: 'التعلم على أساس المدونات'
 
 arexps: []
 

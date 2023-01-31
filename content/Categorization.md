@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Categorization"
 
 categories: ['']
 
 tags: ['Categorization']
 
-arwords: 'التصنيف'
+arabic: 'التصنيف'
 
 arexps: []
 

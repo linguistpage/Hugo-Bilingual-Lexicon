@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Scanners"
 
 categories: ['']
 
 tags: ['Scanners']
 
-arwords: 'الماسحات'
+arabic: 'الماسحات'
 
 arexps: []
 

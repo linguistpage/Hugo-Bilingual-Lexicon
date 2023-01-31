@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Autoencoders"
 
 categories: ['']
 
 tags: ['Autoencoders']
 
-arwords: 'شبكة التشفير الآلي'
+arabic: 'شبكة التشفير الآلي'
 
 arexps: []
 

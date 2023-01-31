@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Distributed Processing"
 
 categories: ['']
 
 tags: ['Distributed', 'Processing']
 
-arwords: 'حوسبة موزّعة'
+arabic: 'حوسبة موزّعة'
 
 arexps: []
 

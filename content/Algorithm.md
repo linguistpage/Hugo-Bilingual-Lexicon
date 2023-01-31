@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Algorithm"
 
 categories: ['']
 
 tags: ['Algorithm']
 
-arwords: 'الخوارزم'
+arabic: 'الخوارزم'
 
 arexps: []
 

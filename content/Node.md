@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Node"
 
 categories: ['']
 
 tags: ['Node']
 
-arwords: 'عقدة'
+arabic: 'عقدة'
 
 arexps: []
 

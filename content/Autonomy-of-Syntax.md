@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Autonomy of Syntax"
 
 categories: ['']
 
 tags: ['Autonomy', 'of', 'Syntax']
 
-arwords: 'استقلالية النحو'
+arabic: 'استقلالية النحو'
 
 arexps: []
 

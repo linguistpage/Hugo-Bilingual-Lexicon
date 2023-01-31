@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Pitch"
 
 categories: ['']
 
 tags: ['Pitch']
 
-arwords: 'النغمة الصوتية'
+arabic: 'النغمة الصوتية'
 
 arexps: []
 

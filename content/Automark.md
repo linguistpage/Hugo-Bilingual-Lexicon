@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Automark"
 
 categories: ['']
 
 tags: ['automark']
 
-arwords: 'التقييم اﻵلي'
-arwords2: 'تسجيل الدرجات آليا'
+arabic: 'التقييم اﻵلي'
+arabic2: 'تسجيل الدرجات آليا'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Data-Warehouses"
 
 categories: ['']
 
 tags: ['Data', 'Warehouses']
 
-arwords: 'مستودعات البيانات'
+arabic: 'مستودعات البيانات'
 
 arexps: []
 

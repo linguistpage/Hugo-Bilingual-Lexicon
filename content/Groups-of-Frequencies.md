@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Groups of Frequencies"
 
 categories: ['']
 
 tags: ['Groups', 'of', 'Frequencies']
 
-arwords: 'مجموعة الترددات'
+arabic: 'مجموعة الترددات'
 
 arexps: []
 

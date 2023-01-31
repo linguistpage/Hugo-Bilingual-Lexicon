@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Linguistic Corpora"
 
 categories: ['']
 
 tags: ['Linguistic', 'Corpora']
 
-arwords: 'المدونات اللغوية'
+arabic: 'المدونات اللغوية'
 
 arexps: []
 

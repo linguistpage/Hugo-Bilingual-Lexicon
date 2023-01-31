@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Document Frequency"
 
 categories: ['']
 
 tags: ['Document', 'Frequency']
 
-arwords: 'تردد الوثيقة'
+arabic: 'تردد الوثيقة'
 
 arexps: []
 

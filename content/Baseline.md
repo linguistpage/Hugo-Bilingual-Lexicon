@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Baseline"
 
 categories: ['']
 
 tags: ['Baseline']
 
-arwords: 'سطر الكتابة المعياري'
+arabic: 'سطر الكتابة المعياري'
 
 arexps: []
 

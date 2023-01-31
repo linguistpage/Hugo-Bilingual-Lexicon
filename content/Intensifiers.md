@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Intensifiers"
 
 categories: ['']
 
 tags: ['Intensifiers']
 
-arwords: 'كلمات تقوية'
+arabic: 'كلمات تقوية'
 
 arexps: []
 

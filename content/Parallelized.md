@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Parallelized"
 
 categories: ['']
 
 tags: ['Parallelized']
 
-arwords: 'متوازي'
+arabic: 'متوازي'
 
 arexps: []
 

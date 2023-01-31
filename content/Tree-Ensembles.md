@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tree Ensembles"
 
 categories: ['']
 
 tags: ['Tree', 'Ensembles']
 
-arwords: 'أشجار القرار'
+arabic: 'أشجار القرار'
 
 arexps: []
 

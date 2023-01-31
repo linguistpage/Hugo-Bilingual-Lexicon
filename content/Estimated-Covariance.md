@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Estimated Covariance"
 
 categories: ['']
 
 tags: ['Estimated', 'Covariance']
 
-arwords: 'مصفوفة التباين التقريبي'
+arabic: 'مصفوفة التباين التقريبي'
 
 arexps: []
 

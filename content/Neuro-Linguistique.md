@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Neuro Linguistique"
 
 categories: ['']
 
 tags: ['Neuro', 'Linguistique']
 
-arwords: 'علم اللغة العصبي'
+arabic: 'علم اللغة العصبي'
 
 arexps: []
 

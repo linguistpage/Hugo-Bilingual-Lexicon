@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Random Forests"
 
 categories: ['']
 
 tags: ['Random', 'Forests']
 
-arwords: 'الغابات العشوائية'
+arabic: 'الغابات العشوائية'
 
 arexps: []
 

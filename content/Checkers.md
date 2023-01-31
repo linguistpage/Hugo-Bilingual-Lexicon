@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Checkers"
 
 categories: ['']
 
 tags: ['Checkers']
 
-arwords: 'الضامة'
-arwords2: 'الدامة'
+arabic: 'الضامة'
+arabic2: 'الدامة'
 
 arexps: []
 

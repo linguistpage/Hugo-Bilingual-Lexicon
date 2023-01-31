@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pointwise Mutual Information"
 
 categories: ['']
 
 tags: ['Pointwise', 'Mutual', 'Information']
 
-arwords: 'تقنية المعلومات المتبادلة بين كلمات الجملتين'
+arabic: 'تقنية المعلومات المتبادلة بين كلمات الجملتين'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Hidden Markov Models-HMM"
 
 categories: ['']
 
 tags: ['Hidden', 'Markov', 'Models', 'HMM']
 
-arwords: 'نماذج ماركوف المخفيّة'
+arabic: 'نماذج ماركوف المخفيّة'
 
 arexps: []
 

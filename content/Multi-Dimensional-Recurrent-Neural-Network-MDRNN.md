@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multi-Dimensional Recurrent Neural Network-MDRNN"
 
 categories: ['']
 
 tags: ['Multi', 'Dimensional', 'Recurrent', 'Neural', 'Network', 'MDRNN']
 
-arwords: 'شبكات عصبية تكرارية متعددة الأبعاد'
+arabic: 'شبكات عصبية تكرارية متعددة الأبعاد'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Linguistic Data Consortium-LDC"
 
 categories: ['']
 
 tags: ['Linguistic', 'Data', 'Consortium', 'LDC']
 
-arwords: 'اتحاد البيانات اللغوية'
+arabic: 'اتحاد البيانات اللغوية'
 
 arexps: []
 

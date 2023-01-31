@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multi-Class"
 
 categories: ['']
 
 tags: ['Multi', 'Class']
 
-arwords: 'متعددة الفئات'
+arabic: 'متعددة الفئات'
 
 arexps: []
 

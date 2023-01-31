@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Feedback Loops"
 
 categories: ['']
 
 tags: ['Feedback', 'Loops']
 
-arwords: 'روابط تغذية استرجاعية'
+arabic: 'روابط تغذية استرجاعية'
 
 arexps: []
 

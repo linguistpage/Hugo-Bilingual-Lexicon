@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Parallel Processing"
 
 categories: ['']
 
 tags: ['Parallel', 'Processing']
 
-arwords: 'الحوسبة على التوازي'
-arwords2: 'حوسبة متوازية'
+arabic: 'الحوسبة على التوازي'
+arabic2: 'حوسبة متوازية'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Character Segmentation"
 
 categories: ['']
 
 tags: ['Character', 'Segmentation']
 
-arwords: 'تقطيع صور النصوص إلى محارفها'
+arabic: 'تقطيع صور النصوص إلى محارفها'
 
 arexps: []
 

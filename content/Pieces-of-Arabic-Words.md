@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Pieces of Arabic Words"
 
 categories: ['']
 
 tags: ['Pieces', 'of', 'Arabic', 'Words']
 
-arwords: 'قطع من الكلمات العربية'
+arabic: 'قطع من الكلمات العربية'
 
 arexps: []
 

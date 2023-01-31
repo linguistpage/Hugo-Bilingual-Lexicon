@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tone"
 
 categories: ['']
 
 tags: ['Tone']
 
-arwords: 'التنغيم'
+arabic: 'التنغيم'
 
 arexps: []
 

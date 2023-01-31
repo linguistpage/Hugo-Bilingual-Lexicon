@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Labeled"
 
 categories: ['']
 
 tags: ['Labeled']
 
-arwords: 'موسمة'
+arabic: 'موسمة'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Syntactic Analyzer"
 
 categories: ['']
 
 tags: ['Syntactic', 'Analyzer']
 
-arwords: 'المحلل التركيبي'
+arabic: 'المحلل التركيبي'
 
 arexps: []
 

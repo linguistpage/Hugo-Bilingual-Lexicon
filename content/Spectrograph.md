@@ -1,13 +1,15 @@
 ---
+types: "word"
+
 title: "Spectrograph"
 
 categories: ['']
 
 tags: ['Spectrograph']
 
-arwords: 'مطياف'
-arwords2: 'الإسبيكتروجراف'
-arwords3: 'تحليل طيفي'
+arabic: 'مطياف'
+arabic2: 'الإسبيكتروجراف'
+arabic3: 'تحليل طيفي'
 
 arexps: []
 

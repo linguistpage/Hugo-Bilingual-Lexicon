@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Nasal Cavity"
 
 categories: ['']
 
 tags: ['Nasal', 'Cavity']
 
-arwords: 'التجويف لأنفي'
+arabic: 'التجويف لأنفي'
 
 arexps: []
 

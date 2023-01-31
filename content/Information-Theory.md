@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Information Theory"
 
 categories: ['']
 
 tags: ['Information', 'Theory']
 
-arwords: 'نظرية الاتصال المعلوماتي'
+arabic: 'نظرية الاتصال المعلوماتي'
 
 arexps: []
 

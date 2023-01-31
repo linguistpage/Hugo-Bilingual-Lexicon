@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Artificial Neuron"
 
 categories: ['']
 
 tags: ['Artificial', 'Neuron']
 
-arwords: 'عصوبنات اصطناعية'
+arabic: 'عصوبنات اصطناعية'
 
 arexps: []
 

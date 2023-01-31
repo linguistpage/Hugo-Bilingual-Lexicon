@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Query"
 
 categories: ['']
 
 tags: ['Query']
 
-arwords: 'طلب البحث'
+arabic: 'طلب البحث'
 
 arexps: []
 

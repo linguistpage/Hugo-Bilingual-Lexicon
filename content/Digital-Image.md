@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Digital Image"
 
 categories: ['']
 
 tags: ['Digital', 'Image']
 
-arwords: 'صورة رقمية'
+arabic: 'صورة رقمية'
 
 arexps: []
 

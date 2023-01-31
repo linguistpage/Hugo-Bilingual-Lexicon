@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Likelihood Ratio"
 
 categories: ['']
 
 tags: ['Likelihood', 'Ratio']
 
-arwords: 'نسبة اﻷرجحيَّة'
+arabic: 'نسبة اﻷرجحيَّة'
 
 arexps: []
 

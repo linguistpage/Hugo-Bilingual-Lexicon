@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Alpha-Beta"
 
 categories: ['']
 
 tags: ['Alpha', 'Beta']
 
-arwords: 'ألفا-بيتا'
+arabic: 'ألفا-بيتا'
 
 arexps: []
 

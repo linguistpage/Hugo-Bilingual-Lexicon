@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Typewritter OCR"
 enwords: "TypeWritten Optical Character Recognition"
-arwords: "التعرف الآلي على الكلام المطبوع"
+arabic: "التعرف الآلي على الكلام المطبوع"
 categories : ['OCR', 'Information Retrieval']
 tags : ['typewritten','OCR','optical','character','recognition']
 translators : ['Tarek Oraby']

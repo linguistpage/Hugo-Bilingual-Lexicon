@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "The Arab League Educational Cultural and Scientific Organization-ALECSO"
 
 categories: ['']
 
 tags: ['The', 'Arab', 'League', 'Educational', 'Cultural', 'and', 'Scientific', 'Organization', 'ALECSO']
 
-arwords: 'المنظمة العربية للتربية والثقافة والعلوم (ألسكو)'
+arabic: 'المنظمة العربية للتربية والثقافة والعلوم (ألسكو)'
 
 arexps: []
 

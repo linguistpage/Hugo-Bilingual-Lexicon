@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Collins Parser"
 
 categories: ['']
 
 tags: ['Collins', 'Parser']
 
-arwords: 'محلل كولينز'
+arabic: 'محلل كولينز'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Neural Networks-NN"
 
 categories: ['']
 
 tags: ['Neural', 'Networks']
 
-arwords: 'شبكات عصبية'
+arabic: 'شبكات عصبية'
 
 arexps: []
 

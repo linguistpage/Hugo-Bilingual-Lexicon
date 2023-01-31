@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Short Vowels"
 
 categories: ['']
 
 tags: ['Short', 'Vowels']
 
-arwords: 'الحركات القصيرة'
+arabic: 'الحركات القصيرة'
 
 arexps: []
 

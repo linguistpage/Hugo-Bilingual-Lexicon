@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Binary Representation"
 
 categories: ['']
 
 tags: ['Binary', 'Representation']
 
-arwords: 'التمثيل الثنائي'
+arabic: 'التمثيل الثنائي'
 
 arexps: []
 

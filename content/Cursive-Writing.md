@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Cursive Writing"
 
 categories: ['']
 
 tags: ['Cursive', 'Writing']
 
-arwords: 'الكتابة الموصولة'
+arabic: 'الكتابة الموصولة'
 
 arexps: []
 

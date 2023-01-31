@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Time and Frequency Domain"
 
 categories: ['']
 
 tags: ['Time', 'and', 'Frequency', 'Domain']
 
-arwords: 'مجال الزمن والتردد'
+arabic: 'مجال الزمن والتردد'
 
 arexps: []
 

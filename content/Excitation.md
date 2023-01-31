@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Excitation"
 
 categories: ['']
 
 tags: ['Excitation']
 
-arwords: 'الاستثارة'
+arabic: 'الاستثارة'
 
 arexps: []
 

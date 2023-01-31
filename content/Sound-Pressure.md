@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sound Pressure"
 
 categories: ['']
 
 tags: ['Sound', 'Pressure']
 
-arwords: 'ضغط الصوت'
+arabic: 'ضغط الصوت'
 
 arexps: []
 

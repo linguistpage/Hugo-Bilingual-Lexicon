@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Speech Recognition"
 
 categories: ['']
 
 tags: ['Speech', 'Recognition']
 
-arwords: 'التعرف على مفردات الكلام المنطوق'
-arwords2: 'التعرف الآلي على الكلام'
+arabic: 'التعرف على مفردات الكلام المنطوق'
+arabic2: 'التعرف الآلي على الكلام'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Dictionary Writing System"
 
 categories: ['']
 
 tags: ['Dictionary', 'Writing', 'System']
 
-arwords: 'نظام التحرير المعجمي'
+arabic: 'نظام التحرير المعجمي'
 
 arexps: []
 

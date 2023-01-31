@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Verb-V"
 
 categories: ['']
 
 tags: ['Verb']
 
-arwords: 'فعل'
+arabic: 'فعل'
 
 arexps: []
 

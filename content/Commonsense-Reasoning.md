@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Commonsense Reasoning"
 
 categories: ['']
 
 tags: ['Commonsense', 'Reasoning']
 
-arwords: 'التحليل الفطري'
+arabic: 'التحليل الفطري'
 
 arexps: []
 

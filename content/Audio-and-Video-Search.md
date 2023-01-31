@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Audio and Video Search"
 
 categories: ['']
 
 tags: ['Audio', 'and', 'Video', 'Search']
 
-arwords: 'البحث في الصوتيات والمرئيات'
+arabic: 'البحث في الصوتيات والمرئيات'
 
 arexps: []
 

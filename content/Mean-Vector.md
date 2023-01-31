@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Mean Vector"
 
 categories: ['']
 
 tags: ['Mean', 'Vector']
 
-arwords: 'متجه المتوسط'
+arabic: 'متجه المتوسط'
 
 arexps: []
 

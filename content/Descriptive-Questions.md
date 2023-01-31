@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Descriptive Questions"
 
 categories: ['']
 
 tags: ['Descriptive', 'Questions']
 
-arwords: 'أسئلة وصفية'
+arabic: 'أسئلة وصفية'
 
 arexps: []
 

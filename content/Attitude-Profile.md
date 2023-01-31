@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Attitude Profile"
 
 categories: ['']
 
 tags: ['Attitude', 'Profile']
 
-arwords: 'سجل الانطباعات'
+arabic: 'سجل الانطباعات'
 
 arexps: []
 

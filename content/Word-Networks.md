@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Word Networks"
 
 categories: ['']
 
 tags: ['Word', 'Networks']
 
-arwords: 'شبكات الكلمات'
+arabic: 'شبكات الكلمات'
 
 arexps: []
 

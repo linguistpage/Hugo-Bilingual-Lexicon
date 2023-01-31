@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speaker Variability"
 
 categories: ['']
 
 tags: ['Speaker', 'Variability']
 
-arwords: 'الأداء الشخصي'
+arabic: 'الأداء الشخصي'
 
 arexps: []
 

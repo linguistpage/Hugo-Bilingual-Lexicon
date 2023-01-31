@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speaker Independent"
 
 categories: ['']
 
 tags: ['Speaker', 'Independent']
 
-arwords: 'غير التابعة للمتحدث'
+arabic: 'غير التابعة للمتحدث'
 
 arexps: []
 

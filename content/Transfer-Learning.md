@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Transfer Learning"
 
 categories: ['']
 
 tags: ['Transfer', 'Learning']
 
-arwords: 'نقل التعلم'
+arabic: 'نقل التعلم'
 
 arexps: []
 

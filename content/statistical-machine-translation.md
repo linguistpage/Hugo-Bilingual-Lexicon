@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Statistical Machine Translation"
 enwords: "Statistical Machine Translation"
-arwords: "الترجمة الآلية الإحصائية"
+arabic: "الترجمة الآلية الإحصائية"
 categories : ['Translation', 'Machine Translation', 'Statistics']
 tags : ['']
 translators : ['']

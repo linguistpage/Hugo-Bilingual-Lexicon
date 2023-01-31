@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phono-Grapheme Analyzer"
 
 categories: ['']
 
 tags: ['Phono', 'Grapheme', 'Analyzer']
 
-arwords: 'المحلل الصوتي الكتابي'
+arabic: 'المحلل الصوتي الكتابي'
 
 arexps: []
 

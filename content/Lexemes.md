@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexemes"
 
 categories: ['']
 
 tags: ['Lexemes']
 
-arwords: 'الوحدات المعجمية'
+arabic: 'الوحدات المعجمية'
 
 arexps: []
 

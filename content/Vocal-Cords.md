@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Vocal Cords"
 
 categories: ['']
 
 tags: ['Vocal', 'Cords']
 
-arwords: 'الرقيقتين الصوتيتين'
+arabic: 'الرقيقتين الصوتيتين'
 
 arexps: []
 

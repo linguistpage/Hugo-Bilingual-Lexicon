@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Confusion Network"
 
 categories: ['']
 
 tags: ['Confusion', 'Network']
 
-arwords: 'شبكة الاختلاط'
+arabic: 'شبكة الاختلاط'
 
 arexps: []
 

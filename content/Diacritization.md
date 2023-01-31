@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Diacritization"
 
 categories: ['']
 
 tags: ['Diacritization']
 
-arwords: 'التشكيل الآلي'
+arabic: 'التشكيل الآلي'
 
 arexps: []
 

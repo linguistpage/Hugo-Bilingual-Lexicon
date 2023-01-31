@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "AL-ISRA Database"
 
 categories: ['']
 
 tags: ['AL-ISRA', 'Database']
 
-arwords: 'قاعدة بيانات الإسراء'
+arabic: 'قاعدة بيانات الإسراء'
 
 arexps: []
 

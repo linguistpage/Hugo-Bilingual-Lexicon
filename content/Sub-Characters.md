@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sub-Characters"
 
 categories: ['']
 
 tags: ['Sub', 'Characters']
 
-arwords: 'تحت المحرف'
+arabic: 'تحت المحرف'
 
 arexps: []
 

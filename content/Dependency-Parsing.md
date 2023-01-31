@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Dependency Parsing"
 
 categories: ['']
 
 tags: ['Dependency', 'Parsing']
 
-arwords: 'الإعراب'
+arabic: 'الإعراب'
 
 arexps: []
 

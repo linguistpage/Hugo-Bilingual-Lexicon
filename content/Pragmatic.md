@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Pragmatic"
 
 categories: ['']
 
 tags: ['Pragmatic']
 
-arwords: 'التداولي'
-arwords2: 'المغزى السياقي للكلام'
+arabic: 'التداولي'
+arabic2: 'المغزى السياقي للكلام'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Scatter Plot"
 
 categories: ['']
 
 tags: ['Scatter', 'Plot']
 
-arwords: 'مخطط التشتت'
+arabic: 'مخطط التشتت'
 
 arexps: []
 

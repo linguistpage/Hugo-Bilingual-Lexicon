@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Continuous"
 
 categories: ['']
 
 tags: ['Continuous']
 
-arwords: 'مستمر'
+arabic: 'مستمر'
 
 arexps: []
 

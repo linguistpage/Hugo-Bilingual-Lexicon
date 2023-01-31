@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Document Management Systems-DMS"
 
 categories: ['']
 
 tags: ['Document', 'Management', 'Systems', 'DMS']
 
-arwords: 'نُظُم إدارة الوثائق'
+arabic: 'نُظُم إدارة الوثائق'
 
 arexps: []
 

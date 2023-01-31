@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Automatic Handwriting Recognition"
 
 categories: ['']
 
 tags: ['Automatic', 'Handwriting', 'Recognition']
 
-arwords: 'التعرف الآلي على الكتابة'
+arabic: 'التعرف الآلي على الكتابة'
 
 arexps: []
 

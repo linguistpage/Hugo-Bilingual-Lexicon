@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Metaphor"
 
 categories: ['']
 
 tags: ['Metaphor']
 
-arwords: 'المجاز'
+arabic: 'المجاز'
 
 arexps: []
 

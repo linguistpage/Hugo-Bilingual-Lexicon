@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Postprocesing"
 
 categories: ['']
 
 tags: ['Postprocesing']
 
-arwords: 'المعالجة اللاحقة'
+arabic: 'المعالجة اللاحقة'
 
 arexps: []
 

@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phoneme"
 
 categories: ['']
 
 tags: ['Phoneme']
 
-arwords: 'وحدة التحليل الصوتي'
-arwords2: 'الفونيم'
+arabic: 'وحدة التحليل الصوتي'
+arabic2: 'الفونيم'
 
 arexps: []
 

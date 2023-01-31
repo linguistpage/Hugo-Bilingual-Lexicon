@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Fundamental Frequency"
 
 categories: ['']
 
 tags: ['Fundamental', 'Frequency']
 
-arwords: 'التردد الأساسي'
+arabic: 'التردد الأساسي'
 
 arexps: []
 

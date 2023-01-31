@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sentiment Analysis"
 
 categories: ['']
 
 tags: ['Sentiment', 'Analysis']
 
-arwords: 'تحليل المشاعر'
+arabic: 'تحليل المشاعر'
 
 arexps: []
 

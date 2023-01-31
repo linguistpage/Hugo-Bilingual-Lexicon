@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Project Essay Grade-PEG"
 
 categories: ['']
 
 tags: ['Project', 'Essay', 'Grade', 'PEG']
 
-arwords: 'مشروع تصحيح المقال'
+arabic: 'مشروع تصحيح المقال'
 
 arexps: []
 

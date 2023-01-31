@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Recognition and Classification"
 
 categories: ['']
 
 tags: ['Recognition', 'and', 'Classification']
 
-arwords: 'التعرف والتصنيف'
+arabic: 'التعرف والتصنيف'
 
 arexps: []
 

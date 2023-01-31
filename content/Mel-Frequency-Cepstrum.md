@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Mel-Frequency Cepstrum"
 
 categories: ['']
 
 tags: ['Mel', 'Frequency', 'Cepstrum']
 
-arwords: ''
+arabic: ''
 
 arexps: []
 

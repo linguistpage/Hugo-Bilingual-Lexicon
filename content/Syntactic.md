@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic"
 
 categories: ['']
 
 tags: ['Syntactic']
 
-arwords: 'النحوي'
+arabic: 'النحوي'
 
 arexps: []
 

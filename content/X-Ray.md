@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "X-Ray"
 
 categories: ['']
 
 tags: ['X', 'ray']
 
-arwords: 'أشعة إكس'
-arwords2: 'الأشعة السينية'
+arabic: 'أشعة إكس'
+arabic2: 'الأشعة السينية'
 
 arexps: []
 

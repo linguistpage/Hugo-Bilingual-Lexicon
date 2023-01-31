@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tablets"
 
 categories: ['']
 
 tags: ['Tablets']
 
-arwords: 'لوحات لمس'
+arabic: 'لوحات لمس'
 
 arexps: []
 

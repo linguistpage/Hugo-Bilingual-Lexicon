@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Isolated Words"
 
 categories: ['']
 
 tags: ['Isolated', 'Words']
 
-arwords: 'الكلمات المعزولة'
+arabic: 'الكلمات المعزولة'
 
 arexps: []
 

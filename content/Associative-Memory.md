@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Associative Memory"
 
 categories: ['']
 
 tags: ['Associative', 'Memory']
 
-arwords: 'الذاكرة الارتباطية'
+arabic: 'الذاكرة الارتباطية'
 
 arexps: []
 

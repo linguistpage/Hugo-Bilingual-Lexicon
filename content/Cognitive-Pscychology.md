@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Cognitive Pscychology"
 
 categories: ['']
 
 tags: ['Cognitive', 'Pscychology']
 
-arwords: 'علم النفس الإدراكي'
+arabic: 'علم النفس الإدراكي'
 
 arexps: []
 

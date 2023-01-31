@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tree Search"
 
 categories: ['']
 
 tags: ['Tree', 'Search']
 
-arwords: 'البحث الشجري'
+arabic: 'البحث الشجري'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "States"
 
 categories: ['']
 
 tags: ['States']
 
-arwords: 'حالات'
+arabic: 'حالات'
 
 arexps: []
 

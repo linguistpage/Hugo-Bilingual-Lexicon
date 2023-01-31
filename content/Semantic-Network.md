@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Semantic Network"
 
 categories: ['']
 
 tags: ['Semantic', 'Network']
 
-arwords: 'الشبكة الدِلالية'
+arabic: 'الشبكة الدِلالية'
 
 arexps: []
 

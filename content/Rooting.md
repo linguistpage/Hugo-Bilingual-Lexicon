@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Rooting"
 
 categories: ['']
 
 tags: ['Rooting']
 
-arwords: 'التجذير'
+arabic: 'التجذير'
 
 arexps: []
 

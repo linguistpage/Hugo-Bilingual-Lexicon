@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Arabic Diacritics"
 
 categories: ['']
 
 tags: ['Arabic', 'Diacritics']
 
-arwords: 'علامات الضبط العربية'
+arabic: 'علامات الضبط العربية'
 
 arexps: []
 

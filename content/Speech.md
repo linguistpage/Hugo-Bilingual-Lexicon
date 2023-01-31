@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speech"
 
 categories: ['']
 
 tags: ['Speech']
 
-arwords: 'المنطوق'
+arabic: 'المنطوق'
 
 arexps: []
 

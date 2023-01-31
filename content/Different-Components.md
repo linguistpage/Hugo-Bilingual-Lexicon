@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Different Components"
 
 categories: ['']
 
 tags: ['Different', 'Components']
 
-arwords: 'المكونات المختلفة والمتفردة'
+arabic: 'المكونات المختلفة والمتفردة'
 
 arexps: []
 

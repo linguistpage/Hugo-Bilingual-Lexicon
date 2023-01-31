@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Literal Meaning"
 
 categories: ['']
 
 tags: ['Literal', 'Meaning']
 
-arwords: 'المعنى الحقيقي'
+arabic: 'المعنى الحقيقي'
 
 arexps: []
 

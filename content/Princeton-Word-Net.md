@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Princeton Word Net"
 
 categories: ['']
 
 tags: ['Princeton', 'Word', 'Net']
 
-arwords: 'شبكة كلمات اللغة الإنجليزية'
+arabic: 'شبكة كلمات اللغة الإنجليزية'
 
 arexps: []
 

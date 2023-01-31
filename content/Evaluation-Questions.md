@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Evaluation Questions"
 
 categories: ['']
 
 tags: ['Evaluation', 'Questions']
 
-arwords: 'أسئلة تقييم'
+arabic: 'أسئلة تقييم'
 
 arexps: []
 

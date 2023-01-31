@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Automatic Speech Recognition-AASR"
 
 categories: ['']
 
 tags: ['Arabic', 'Automatic', 'Speech', 'Recognition', 'AASR']
 
-arwords: 'التعرف الآلي على الكلام العربي'
+arabic: 'التعرف الآلي على الكلام العربي'
 
 arexps: []
 

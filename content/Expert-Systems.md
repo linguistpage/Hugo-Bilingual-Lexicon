@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Expert Systems"
 
 categories: ['']
 
 tags: ['Expert', 'Systems']
 
-arwords: 'النظم الخبيرة'
+arabic: 'النظم الخبيرة'
 
 arexps: []
 

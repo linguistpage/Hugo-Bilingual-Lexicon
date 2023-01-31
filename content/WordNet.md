@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "WordNet"
 
 categories: ['NLP','Corpus Linguistics']
 
 tags: ['wordnet']
 
-arwords: 'شبكة الكلمات ووردنت'
+arabic: 'شبكة الكلمات ووردنت'
 
 arexps: []
 

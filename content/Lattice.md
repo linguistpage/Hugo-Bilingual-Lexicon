@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lattice"
 
 categories: ['']
 
 tags: ['Lattice']
 
-arwords: 'تشبيكة'
+arabic: 'تشبيكة'
 
 arexps: []
 

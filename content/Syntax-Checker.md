@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Syntax Checker"
 
 categories: ['']
 
 tags: ['Syntax', 'Checker']
 
-arwords: 'المدقق النحوي'
+arabic: 'المدقق النحوي'
 
 arexps: []
 

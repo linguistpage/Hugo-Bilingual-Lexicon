@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Radial Basis Function"
 
 categories: ['']
 
 tags: ['Radial', 'Basis', 'Function']
 
-arwords: 'الشعاع الأساسي'
+arabic: 'الشعاع الأساسي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Linear Predictive Code-LPC"
 
 categories: ['']
 
 tags: ['Linear', 'Predictive', 'Code', 'LPC']
 
-arwords: 'الترميز التوقعي الخطي'
+arabic: 'الترميز التوقعي الخطي'
 
 arexps: []
 

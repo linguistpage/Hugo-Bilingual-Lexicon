@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Structured Problems with Solvable Models"
 
 categories: ['']
 
 tags: ['Structured', 'Problems', 'with', 'Solvable', 'Models']
 
-arwords: 'مسائل مهيكلة توجَد حلول لنماذجها الرياضية'
+arabic: 'مسائل مهيكلة توجَد حلول لنماذجها الرياضية'
 
 arexps: []
 

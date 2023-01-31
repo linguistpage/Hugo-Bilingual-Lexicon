@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Audio Translation"
 
 categories: ['']
 
 tags: ['Audio', 'Translation']
 
-arwords: 'الترجمة الصوتية'
+arabic: 'الترجمة الصوتية'
 
 arexps: []
 

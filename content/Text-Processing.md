@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Processing"
 
 categories: ['']
 
 tags: ['Text', 'Processing']
 
-arwords: 'معالجة النصوص'
+arabic: 'معالجة النصوص'
 
 arexps: []
 

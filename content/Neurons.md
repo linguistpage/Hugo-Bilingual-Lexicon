@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Neurons"
 
 categories: ['']
 
 tags: ['Neurons']
 
-arwords: 'الوحدات العصبونية'
+arabic: 'الوحدات العصبونية'
 
 arexps: []
 

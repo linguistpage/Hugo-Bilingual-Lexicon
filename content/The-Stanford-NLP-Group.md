@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "The Stanford NLP Group"
 
 categories: ['']
 
 tags: ['The', 'Stanford', 'NLP', 'Group']
 
-arwords: 'فريق البحث في معالجة اللغات الطبيعية بجامعة ستانفورد'
+arabic: 'فريق البحث في معالجة اللغات الطبيعية بجامعة ستانفورد'
 
 arexps: []
 

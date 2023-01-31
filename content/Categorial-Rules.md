@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Categorial Rules"
 
 categories: ['']
 
 tags: ['Categorial', 'Rules']
 
-arwords: 'قواعد تكوين الجملة على أساس الفئة'
+arabic: 'قواعد تكوين الجملة على أساس الفئة'
 
 arexps: []
 

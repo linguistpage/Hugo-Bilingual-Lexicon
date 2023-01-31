@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Affix"
 
 categories: ['']
 
 tags: ['Affix']
 
-arwords: 'الزائدة'
+arabic: 'الزائدة'
 
 arexps: []
 

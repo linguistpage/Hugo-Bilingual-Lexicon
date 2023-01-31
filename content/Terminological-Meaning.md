@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Terminological Meaning"
 
 categories: ['']
 
 tags: ['Terminological', 'Meaning']
 
-arwords: 'معنى مصطلحي'
+arabic: 'معنى مصطلحي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexicon"
 
 categories: ['']
 
 tags: ['Lexicon']
 
-arwords: 'المعجم'
+arabic: 'المعجم'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Stemming and Lemmatization"
 
 categories: ['']
 
 tags: ['Stemming', 'and', 'Lemmatization']
 
-arwords: 'التجذير والتجذيع'
+arabic: 'التجذير والتجذيع'
 
 arexps: []
 

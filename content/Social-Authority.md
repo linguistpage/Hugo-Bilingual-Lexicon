@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Social Authority"
 
 categories: ['']
 
 tags: ['Social', 'Authority']
 
-arwords: 'سلطة على الآخرين'
+arabic: 'سلطة على الآخرين'
 
 arexps: []
 

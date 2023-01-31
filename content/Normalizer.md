@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Normalizer"
 
 categories: ['']
 
 tags: ['Normalizer']
 
-arwords: 'مُمهِّد النص'
+arabic: 'مُمهِّد النص'
 
 arexps: []
 

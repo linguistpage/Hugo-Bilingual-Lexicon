@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Translation Plagiarism"
 
 categories: ['']
 
 tags: ['Translation', 'Plagiarism']
 
-arwords: 'الاحتيال عن طريق الترجمة'
+arabic: 'الاحتيال عن طريق الترجمة'
 
 arexps: []
 

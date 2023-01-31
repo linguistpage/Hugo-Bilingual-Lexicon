@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Autocorrelation Technique"
 
 categories: ['']
 
 tags: ['Autocorrelation', 'Technique']
 
-arwords: 'تقنية الارتباط التلقائي'
+arabic: 'تقنية الارتباط التلقائي'
 
 arexps: []
 

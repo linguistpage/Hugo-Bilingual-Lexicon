@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Mining"
 
 categories: ['']
 
 tags: ['Text', 'Mining']
 
-arwords: 'التنقيب المعلوماتي في النصوص'
+arabic: 'التنقيب المعلوماتي في النصوص'
 
 arexps: []
 

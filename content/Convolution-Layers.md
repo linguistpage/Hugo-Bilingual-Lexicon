@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Convolution Layers"
 
 categories: ['']
 
 tags: ['Convolution', 'Layers']
 
-arwords: 'الطبقات الالتفافية'
+arabic: 'الطبقات الالتفافية'
 
 arexps: []
 

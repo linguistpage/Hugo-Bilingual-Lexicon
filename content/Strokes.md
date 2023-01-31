@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Strokes"
 
 categories: ['']
 
 tags: ['Strokes']
 
-arwords: 'الضربات المتصلة بالقلم'
+arabic: 'الضربات المتصلة بالقلم'
 
 arexps: []
 

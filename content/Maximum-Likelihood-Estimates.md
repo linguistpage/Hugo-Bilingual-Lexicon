@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Maximum Likelihood Estimates"
 
 categories: ['']
 
 tags: ['Maximum', 'Likelihood', 'Estimates']
 
-arwords: 'احتمال الأرجحية القصوى'
+arabic: 'احتمال الأرجحية القصوى'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Duration"
 
 categories: ['']
 
 tags: ['Duration']
 
-arwords: 'فترة'
-arwords2: 'المدى الزمني'
+arabic: 'فترة'
+arabic2: 'المدى الزمني'
 
 arexps: []
 

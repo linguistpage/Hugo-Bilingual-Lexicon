@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Symbolic Integrals"
 
 categories: ['']
 
 tags: ['Symbolic', 'Integrals']
 
-arwords: 'التكاملات بالرموز'
+arabic: 'التكاملات بالرموز'
 
 arexps: []
 

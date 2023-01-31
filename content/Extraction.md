@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Extraction"
 
 categories: ['']
 
 tags: ['Extraction']
 
-arwords: 'الاستخلاص'
+arabic: 'الاستخلاص'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Text Classification"
 
 categories: ['']
 
 tags: ['Text', 'Classification']
 
-arwords: 'تصنيف النصوص'
+arabic: 'تصنيف النصوص'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Models"
 
 categories: ['']
 
 tags: ['Models']
 
-arwords: 'نماذج'
+arabic: 'نماذج'
 
 arexps: []
 

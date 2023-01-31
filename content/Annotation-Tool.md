@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Annotation Tool"
 
 categories: ['']
 
 tags: ['Annotation', 'Tool']
 
-arwords: 'أداة عنونة'
+arabic: 'أداة عنونة'
 
 arexps: []
 

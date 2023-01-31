@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Output"
 
 categories: ['']
 
 tags: ['Output']
 
-arwords: 'الخرج'
+arabic: 'الخرج'
 
 arexps: []
 

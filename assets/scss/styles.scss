@@ -149,7 +149,7 @@ header {
     margin: 0;
 }
 
-nav {}
+
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -306,23 +306,6 @@ input#search {
     text-align: left;
 }
 
-/**
-button#clear-search {
-  all: unset;
-  position: absolute;
-  right: 4px;
-  top: 5px;
-  height: 30px;
-  width: 30px;
-  color: #888;
-  cursor: pointer;
-  transition: color 180ms ease-in-out;
-  display: none;
-}
-button#clear-search:hover {
-  color: #333;
-}
-**/
 
 .mainlist {
     padding-bottom: 3px;

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Statistical Models"
 
 categories: ['']
 
 tags: ['Statistical', 'Models']
 
-arwords: 'نماذج إحصائية'
+arabic: 'نماذج إحصائية'
 
 arexps: []
 

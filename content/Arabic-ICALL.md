@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "ICALL"
 enwords: "International Conference on Arabic Language and Literature"
-arwords: "المؤتمر الدولي للغة العربية وآدابها"
+arabic: "المؤتمر الدولي للغة العربية وآدابها"
 categories: "General"
 enlexicons: "I"
 arlexicons: "ء"

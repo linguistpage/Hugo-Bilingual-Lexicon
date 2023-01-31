@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Cobuild English Dictionary"
 
 categories: ['']
 
 tags: ['Cobuild', 'English', 'Dictionary']
 
-arwords: 'معجم كوبيلد الإنجليزي التعليمي'
+arabic: 'معجم كوبيلد الإنجليزي التعليمي'
 
 arexps: []
 

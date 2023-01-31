@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speech-to-Speech Translation"
 
 categories: ['']
 
 tags: ['Speech', 'to', 'Speech', 'Translation']
 
-arwords: 'الترجمة الشفهية الآلية'
+arabic: 'الترجمة الشفهية الآلية'
 
 arexps: []
 

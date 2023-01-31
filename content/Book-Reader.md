@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Book Reader"
 
 categories: ['']
 
 tags: ['Book', 'Reader']
 
-arwords: 'قارئ الكتاب'
+arabic: 'قارئ الكتاب'
 
 arexps: []
 

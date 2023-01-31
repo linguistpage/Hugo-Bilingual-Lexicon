@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Advanced Information Retrieval Systems"
 
 categories: ['']
 
 tags: ['Advanced', 'Information', 'Retrieval', 'Systems']
 
-arwords: 'الأنظمة المتقدمة لاسترجاع المعلومات'
+arabic: 'الأنظمة المتقدمة لاسترجاع المعلومات'
 
 arexps: []
 

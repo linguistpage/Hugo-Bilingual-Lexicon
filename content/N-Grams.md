@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "N-Grams"
 
 categories: ['']
 
 tags: ['N-Grams']
 
-arwords: 'الورودات الأقرب'
+arabic: 'الورودات الأقرب'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Maximal Projection"
 
 categories: ['']
 
 tags: ['Maximal', 'Projection']
 
-arwords: 'الإسقاط الأقصى'
+arabic: 'الإسقاط الأقصى'
 
 arexps: []
 

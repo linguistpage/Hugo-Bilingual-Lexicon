@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Acoustic Data"
 
 categories: ['الصوتيات','الفونولوجيا']
 
 tags: ['acoustic', 'data']
 
-arwords: 'البيانات الصوتية'
+arabic: 'البيانات الصوتية'
 
 enwords: ['Acoustic Data']
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Preprocessing"
 
 categories: ['']
 
 tags: ['Preprocessing']
 
-arwords: 'تجهيز ابتدائي'
-arwords2: 'المعالجة المسبقة'
+arabic: 'تجهيز ابتدائي'
+arabic2: 'المعالجة المسبقة'
 
 arexps: []
 

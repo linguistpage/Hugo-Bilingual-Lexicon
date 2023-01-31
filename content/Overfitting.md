@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Overfitting"
 
 categories: ['']
 
 tags: ['Overfitting']
 
-arwords: 'الضبط الزائد'
+arabic: 'الضبط الزائد'
 
 arexps: []
 

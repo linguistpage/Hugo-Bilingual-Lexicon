@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Recognition"
 
 categories: ['']
 
 tags: ['Recognition']
 
-arwords: 'التعرف الآلي على اﻷنماط'
+arabic: 'التعرف الآلي على اﻷنماط'
 
 arexps: []
 

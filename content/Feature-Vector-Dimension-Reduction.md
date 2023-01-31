@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Feature Vector Dimension Reduction"
 
 categories: ['']
 
 tags: ['Feature', 'Vector', 'Dimension', 'Reduction']
 
-arwords: 'تقليل أبعاد متجه الخصائص'
+arabic: 'تقليل أبعاد متجه الخصائص'
 
 arexps: []
 

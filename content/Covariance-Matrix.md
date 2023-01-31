@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Covariance Matrix"
 
 categories: ['']
 
 tags: ['Covariance', 'Matrix']
 
-arwords: 'مصفوفة التَّبايُن'
+arabic: 'مصفوفة التَّبايُن'
 
 arexps: []
 

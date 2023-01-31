@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Initial State"
 
 categories: ['']
 
 tags: ['Initial', 'State']
 
-arwords: 'حالة ابتدائية'
+arabic: 'حالة ابتدائية'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Spectrogram"
 
 categories: ['']
 
 tags: ['Spectrogram']
 
-arwords: 'الصورة الطيفية'
+arabic: 'الصورة الطيفية'
 
 arexps: []
 

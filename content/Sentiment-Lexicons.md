@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sentiment Lexicons"
 
 categories: ['']
 
 tags: ['Sentiment', 'Lexicons']
 
-arwords: 'معاجم المشاعر'
+arabic: 'معاجم المشاعر'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Sakhr Software-Arabic Language Technology"
 
 categories: ['']
 
 tags: ['Sakhr', 'Software', 'Arabic', 'Language', 'Technology']
 
-arwords: 'شركة صخر'
+arabic: 'شركة صخر'
 
 arexps: []
 

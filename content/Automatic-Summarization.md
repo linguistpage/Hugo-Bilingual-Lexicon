@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Automatic Summarization"
 
 categories: ['']
 
 tags: ['Automatic', 'Summarization']
 
-arwords: 'التلخيص الآلي'
+arabic: 'التلخيص الآلي'
 
 arexps: []
 

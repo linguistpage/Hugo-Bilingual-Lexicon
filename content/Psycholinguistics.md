@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Psycholinguistics"
 
 categories: ['']
 
 tags: ['psycholinguistics']
 
-arwords: 'علم اللغة النفسي'
-arwords2: 'اللغويات النفسية'
+arabic: 'علم اللغة النفسي'
+arabic2: 'اللغويات النفسية'
 
 arexps: []
 

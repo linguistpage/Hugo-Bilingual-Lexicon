@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Partial Diacritization"
 
 categories: ['']
 
 tags: ['Partial', 'Diacritization']
 
-arwords: 'التشكيل الجزئي'
+arabic: 'التشكيل الجزئي'
 
 arexps: []
 

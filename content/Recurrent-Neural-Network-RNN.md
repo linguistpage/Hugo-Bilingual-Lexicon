@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Recurrent Neural Network-RNN"
 
 categories: ['']
 
 tags: ['Recurrent', 'Neural', 'Network', 'RNN']
 
-arwords: 'الشبكات العصبية المتكررة'
+arabic: 'الشبكات العصبية المتكررة'
 
 arexps: []
 

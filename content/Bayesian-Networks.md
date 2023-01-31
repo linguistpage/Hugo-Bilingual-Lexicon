@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Bayesian Networks"
 
 categories: ['']
 
 tags: ['Bayesian', 'Networks']
 
-arwords: 'الشبكات البايزية'
+arabic: 'الشبكات البايزية'
 
 arexps: []
 

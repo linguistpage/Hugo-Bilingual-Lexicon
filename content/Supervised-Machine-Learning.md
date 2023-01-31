@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Supervised Machine Learning"
 
 categories: ['']
 
 tags: ['Supervised', 'Machine', 'Learning']
 
-arwords: 'التعلم الحاسوبي الموجَّه'
+arabic: 'التعلم الحاسوبي الموجَّه'
 
 arexps: []
 

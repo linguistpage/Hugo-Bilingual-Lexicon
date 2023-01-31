@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Authoring"
 
 categories: ['']
 
 tags: ['Authoring']
 
-arwords: 'التأليف'
+arabic: 'التأليف'
 
 arexps: []
 

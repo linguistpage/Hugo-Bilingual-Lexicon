@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Interactive Voice Response System-IVR"
 
 categories: ['']
 
 tags: ['Interactive', 'Voice', 'Response', 'System', 'IVR']
 
-arwords: 'أنظمة الاستجابة الصوتية التفاعلية'
+arabic: 'أنظمة الاستجابة الصوتية التفاعلية'
 
 arexps: []
 

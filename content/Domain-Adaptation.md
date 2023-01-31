@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Domain Adaptation"
 
 categories: ['']
 
 tags: ['Domain', 'Adaptation']
 
-arwords: 'مواءمة المجال'
+arabic: ['مواءمة المجال', 'التكييف على المجال']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Domain Adaptation']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'D'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

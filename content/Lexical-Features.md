@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Lexical Features"
 
 categories: ['']
 
 tags: ['Lexical', 'Features']
 
-arwords: 'خصائص لفظية'
+arabic: 'خصائص لفظية'
 
 arexps: []
 

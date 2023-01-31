@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Taxonomy"
 
 categories: ['']
 
 tags: ['Taxonomy']
 
-arwords: 'التصنيف الهرمي'
+arabic: 'التصنيف الهرمي'
 
 arexps: []
 

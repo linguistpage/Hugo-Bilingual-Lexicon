@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Observations"
 
 categories: ['']
 
 tags: ['Observations']
 
-arwords: 'الملاحظات'
+arabic: 'الملاحظات'
 
 arexps: []
 

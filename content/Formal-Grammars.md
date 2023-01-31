@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Formal Grammars"
 
 categories: ['']
 
 tags: ['Formal', 'Grammars']
 
-arwords: 'النحو الرياضي'
+arabic: 'النحو الرياضي'
 
 arexps: []
 

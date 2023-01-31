@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Insertion Rule"
 
 categories: ['']
 
 tags: ['Lexical', 'Insertion', 'Rule']
 
-arwords: 'قاعدة لإدراج المفردات'
+arabic: 'قاعدة لإدراج المفردات'
 
 arexps: []
 

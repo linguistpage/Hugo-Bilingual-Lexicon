@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pronunciation Probabilities"
 
 categories: ['']
 
 tags: ['Pronunciation', 'Probabilities']
 
-arwords: 'احتمالات النطق'
+arabic: 'احتمالات النطق'
 
 arexps: []
 

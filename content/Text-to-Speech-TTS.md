@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Text to Speech-TTS"
 
 categories: ['']
 
 tags: ['Text', 'to', 'Speech', 'TTS']
 
-arwords: 'نُظُم تحويل النَّصّ إلى كلام'
-arwords2: 'تحويل النص المكتوب إلى منطوق'
+arabic: 'نُظُم تحويل النَّصّ إلى كلام'
+arabic2: 'تحويل النص المكتوب إلى منطوق'
 
 arexps: []
 

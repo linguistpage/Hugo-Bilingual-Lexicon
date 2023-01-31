@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Deterministic Parsing"
 
 categories: ['']
 
 tags: ['Deterministic', 'Parsing']
 
-arwords: 'تحليل محدد'
+arabic: 'تحليل محدد'
 
 arexps: []
 

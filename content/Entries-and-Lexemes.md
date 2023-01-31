@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Entries and Lexemes"
 
 categories: ['']
 
 tags: ['Entries', 'and', 'Lexemes']
 
-arwords: 'المدخل والوحدات المعجمية'
+arabic: 'المدخل والوحدات المعجمية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Sliding Window"
 
 categories: ['']
 
 tags: ['Sliding', 'Window']
 
-arwords: 'نافذة منزلقة'
+arabic: 'نافذة منزلقة'
 
 arexps: []
 

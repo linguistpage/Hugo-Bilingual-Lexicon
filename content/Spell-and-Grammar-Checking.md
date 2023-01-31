@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Spell and Grammar Checking"
 
 categories: ['']
 
 tags: ['Spell', 'and', 'Grammar', 'Checking']
 
-arwords: 'التدقيق الإملائي'
+arabic: 'التدقيق الإملائي'
 
 arexps: []
 

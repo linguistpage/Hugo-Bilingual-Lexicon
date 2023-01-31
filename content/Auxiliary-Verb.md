@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Auxiliary Verb"
 
 categories: ['']
 
 tags: ['Auxiliary', 'Verb']
 
-arwords: 'فعل مساعد'
+arabic: 'فعل مساعد'
 
 arexps: []
 

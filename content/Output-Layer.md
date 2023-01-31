@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Output Layer"
 
 categories: ['']
 
 tags: ['Output', 'Layer']
 
-arwords: 'طبقات الخرج'
+arabic: 'طبقات الخرج'
 
 arexps: []
 

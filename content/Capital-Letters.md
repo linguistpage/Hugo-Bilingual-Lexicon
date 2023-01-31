@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Capital Letters"
 
 categories: ['']
 
 tags: ['Capital', 'Letters']
 
-arwords: 'حروف كبيرة في الرسم'
+arabic: 'حروف كبيرة في الرسم'
 
 arexps: []
 

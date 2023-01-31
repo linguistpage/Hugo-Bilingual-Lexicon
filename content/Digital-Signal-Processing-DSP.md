@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Digital Signal Processing-DSP"
 
 categories: ['']
 
 tags: ['Digital', 'Signal', 'Processing', 'DSP']
 
-arwords: 'معالجة الإشارات الرقمية'
+arabic: 'معالجة الإشارات الرقمية'
 
 arexps: []
 

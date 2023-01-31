@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Machine Learning"
 
 categories: ['']
 
 tags: ['Machine', 'Learning']
 
-arwords: 'التعلم الحاسوبي'
+arabic: 'التعلم الحاسوبي'
 
 arexps: []
 

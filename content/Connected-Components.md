@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Connected Components"
 
 categories: ['']
 
 tags: ['Connected', 'Components']
 
-arwords: 'المكونات المتصلة'
+arabic: 'المكونات المتصلة'
 
 arexps: []
 

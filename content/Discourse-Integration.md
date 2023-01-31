@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Discourse Integration"
 
 categories: ['']
 
 tags: ['Discourse', 'Integration']
 
-arwords: 'الترابط الخطابي'
+arabic: 'الترابط الخطابي'
 
 arexps: []
 

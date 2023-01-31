@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Hidden Markov Model ToolKit-HTK"
 
 categories: ['']
 
 tags: ['Hidden', 'Markov', 'Model', 'ToolKit', 'HTK']
 
-arwords: 'أدوات نماذج ماركوف المخفيّة'
+arabic: 'أدوات نماذج ماركوف المخفيّة'
 
 arexps: []
 

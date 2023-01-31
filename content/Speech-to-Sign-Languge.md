@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speech-to-Sign-Languge"
 
 categories: ['']
 
 tags: ['Speech', 'to', 'Sign', 'Languge']
 
-arwords: 'تحويل الكلام إلى لغة الإشارة'
+arabic: 'تحويل الكلام إلى لغة الإشارة'
 
 arexps: []
 

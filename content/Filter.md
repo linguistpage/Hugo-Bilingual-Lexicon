@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Filter"
 
 categories: ['']
 
 tags: ['Filter']
 
-arwords: 'مرشِّح'
+arabic: 'مرشِّح'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Grammatical Functions"
 
 categories: ['']
 
 tags: ['Grammatical', 'Functions']
 
-arwords: 'المعاني الوظيفية'
+arabic: 'المعاني الوظيفية'
 
 arexps: []
 

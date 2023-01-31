@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "OCR Handwriting"
 
 categories: ['']
 
 tags: ['OCR', 'Handwriting']
 
-arwords: 'التعرف الآلي على الكتابة المخطوطة'
+arabic: 'التعرف الآلي على الكتابة المخطوطة'
 
 arexps: []
 

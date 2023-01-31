@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Transliterated Words"
 
 categories: ['']
 
 tags: ['Transliterated', 'Words']
 
-arwords: 'كلمات أجنبية مكتوبة باللغة العربية'
+arabic: 'كلمات أجنبية مكتوبة باللغة العربية'
 
 arexps: []
 

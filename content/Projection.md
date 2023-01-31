@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Projection"
 
 categories: ['']
 
 tags: ['Projection']
 
-arwords: 'إسقاط'
+arabic: 'إسقاط'
 
 arexps: []
 

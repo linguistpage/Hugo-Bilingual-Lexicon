@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Statistics"
 
 categories: ['']
 
 tags: ['Statistics']
 
-arwords: 'علم الإحصاء'
+arabic: 'علم الإحصاء'
 
 arexps: []
 

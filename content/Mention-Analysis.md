@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Mention Analysis"
 
 categories: ['']
 
 tags: ['Mention', 'Analysis']
 
-arwords: 'تحليل الإلماحات'
+arabic: 'تحليل الإلماحات'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Classification"
 
 categories: ['']
 
 tags: ['Classification']
 
-arwords: 'تصنيف'
-arwords2: 'التنسيب'
+arabic: 'تصنيف'
+arabic2: 'التنسيب'
 
 arexps: []
 

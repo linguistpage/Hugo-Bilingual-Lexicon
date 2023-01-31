@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Training and Modelling"
 
 categories: ['']
 
 tags: ['Training', 'and', 'Modelling']
 
-arwords: 'التدريب والنمذجة'
+arabic: 'التدريب والنمذجة'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Random Walks"
 
 categories: ['']
 
 tags: ['Random', 'Walks']
 
-arwords: 'التنقل العشوائي'
+arabic: 'التنقل العشوائي'
 
 arexps: []
 

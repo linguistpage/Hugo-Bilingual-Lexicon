@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Sentence-S"
 
 categories: ['']
 
 tags: ['Sentence']
 
-arwords: 'الجملة'
+arabic: 'الجملة'
 
 arexps: []
 

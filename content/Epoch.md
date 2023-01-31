@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Epoch"
 
 categories: ['']
 
 tags: ['Epoch']
 
-arwords: 'دورة'
+arabic: 'دورة'
 
 arexps: []
 

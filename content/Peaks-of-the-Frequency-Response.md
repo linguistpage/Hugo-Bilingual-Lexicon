@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Peaks of the Frequency Response"
 
 categories: ['']
 
 tags: ['Peaks', 'of', 'the', 'Frequency', 'Response']
 
-arwords: 'القيم العظمى للترددات'
+arabic: 'القيم العظمى للترددات'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Mel-Frequency Warping"
 
 categories: ['']
 
 tags: ['Mel', 'Frequency', 'Warping']
 
-arwords: ''
+arabic: ''
 
 arexps: []
 

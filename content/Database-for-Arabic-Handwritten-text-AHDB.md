@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Database for Arabic Handwritten text-AHDB"
 
 categories: ['']
 
 tags: ['Database', 'for', 'Arabic', 'Handwritten', 'text', 'AHDB']
 
-arwords: 'قاعدة بيانات النص العربي المكتوب بخط اليد'
+arabic: 'قاعدة بيانات النص العربي المكتوب بخط اليد'
 
 arexps: []
 

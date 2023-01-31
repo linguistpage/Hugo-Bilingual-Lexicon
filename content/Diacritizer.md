@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Diacritizer"
 
 categories: ['']
 
 tags: ['Diacritizer']
 
-arwords: 'المُشكِّل الآلي'
+arabic: 'المُشكِّل الآلي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Anaphora Disambiguation"
 
 categories: ['']
 
 tags: ['Anaphora', 'Disambiguation']
 
-arwords: 'فك التباس المشترَك اللفظي'
+arabic: 'فك التباس المشترَك اللفظي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Bayes Theorem"
 
 categories: ['']
 
 tags: ['Bayes', 'Theorem']
 
-arwords: 'نظرية بايز الاحتمالية'
+arabic: 'نظرية بايز الاحتمالية'
 
 arexps: []
 

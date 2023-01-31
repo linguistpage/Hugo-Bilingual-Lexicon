@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Support Vector Machines"
 
 categories: ['']
 
 tags: ['Support', 'Vector', 'Machines']
 
-arwords: 'آلات متجهات الدعم'
+arabic: 'آلات متجهات الدعم'
 
 arexps: []
 

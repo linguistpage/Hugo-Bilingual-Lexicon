@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Decoder"
 
 categories: ['']
 
 tags: ['Decoder']
 
-arwords: 'فاكّ الشَّفرة'
+arabic: 'فاكّ الشَّفرة'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
+types: "word"
+
 title: "Noun Phrase-NP"
 
 categories: ['']
 
 tags: ['noun', 'phrase', 'np']
 
-arwords: 'عبارة'
-arwords2: 'مركب اسمي'
-arwords3: 'جملة اسمية'
+arabic: 'عبارة'
+arabic2: 'مركب اسمي'
+arabic3: 'جملة اسمية'
 
 arexps: []
 

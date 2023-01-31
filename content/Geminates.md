@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Geminates"
 
 categories: ['']
 
 tags: ['Geminates']
 
-arwords: 'الصوامت المضعفة'
+arabic: 'الصوامت المضعفة'
 
 arexps: []
 

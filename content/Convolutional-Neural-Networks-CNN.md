@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Convolutional Neural Networks-CNN"
 
 categories: ['']
 
 tags: ['Convolutional', 'Neural', 'Networks', 'CNN']
 
-arwords: 'الشبكات العصبية الالتفافية'
+arabic: ['الشبكات العصبية الالتفافية', 'الشبكات العصبية الترشيحية']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Convolutional Neural Networks-CNN']
-
-enexps: []
-
-arlexicons: 'ش'
-
-enlexicons: 'C'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

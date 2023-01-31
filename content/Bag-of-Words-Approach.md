@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Bag of Words Approach"
 
 categories: ['NLP']
 
 tags: ['bag', 'of', 'Words', 'Approach']
 
-arwords: 'منهجية حقيبة الكلمات'
+arabic: 'منهجية حقيبة الكلمات'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Segment Units"
 
 categories: ['']
 
 tags: ['Segment', 'Units']
 
-arwords: 'مقاطع صوتية'
+arabic: 'مقاطع صوتية'
 
 arexps: []
 

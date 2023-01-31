@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Maximize the Probability"
 
 categories: ['']
 
 tags: ['Maximize', 'the', 'Probability']
 
-arwords: 'تعظيم الاحتمالية'
+arabic: 'تعظيم الاحتمالية'
 
 arexps: []
 

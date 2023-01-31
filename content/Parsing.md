@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Parsing"
 
 categories: ['']
 
 tags: ['Parsing']
 
-arwords: 'التجزئة'
+arabic: ['التجزئة', 'تكوين الجملة']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Parsing']
-
-enexps: []
-
-arlexicons: 'ج'
-
-enlexicons: 'P'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'العربية والذكاء الاصطناعي'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

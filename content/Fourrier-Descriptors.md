@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Fourrier Descriptors"
 
 categories: ['']
 
 tags: ['Fourrier', 'Descriptors']
 
-arwords: 'توصيفات فورير'
+arabic: 'توصيفات فورير'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Automated Essay Scoring-AES"
 
 categories: ['']
 
 tags: ['Automated', 'Essay', 'Scoring', 'AES']
 
-arwords: 'تقييم المقال آليًّا'
+arabic: 'تقييم المقال آليًّا'
 
 arexps: []
 

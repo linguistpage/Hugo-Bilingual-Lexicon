@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Lexical"
 
 categories: ['']
 
 tags: ['Lexical']
 
-arwords: 'المعجمي'
+arabic: 'المعجمي'
 
 arexps: []
 

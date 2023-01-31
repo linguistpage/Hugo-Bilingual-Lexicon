@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Qatar Computing Research Institute-QCRI"
 
 categories: ['']
 
 tags: ['Qatar', 'Computing', 'Research', 'Institute', 'QCRI']
 
-arwords: 'معهد قطر لبحوث الحوسبة'
+arabic: 'معهد قطر لبحوث الحوسبة'
 
 arexps: []
 

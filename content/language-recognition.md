@@ -1,9 +1,11 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Language Recognition"
 enwords: "Language Recognition"
-arwords: "التعرف الآلي على اللغة"
+arabic: "التعرف الآلي على اللغة"
 categories : ['Human Language Technologies']
 tags : ['Language','Recognition']
 translators : ['Tarek Oraby']

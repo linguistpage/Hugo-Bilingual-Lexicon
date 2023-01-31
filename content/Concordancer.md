@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Concordancer"
 
 categories: ['']
 
 tags: ['Concordancer']
 
-arwords: 'الكشاف السياقي'
+arabic: 'الكشاف السياقي'
 
 arexps: []
 

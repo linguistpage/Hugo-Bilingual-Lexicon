@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Semantic"
 
 categories: ['']
 
 tags: ['Semantic']
 
-arwords: 'الدِلالي'
+arabic: 'الدِلالي'
 
 arexps: []
 

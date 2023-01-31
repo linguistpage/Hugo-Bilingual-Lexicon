@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Non-Trivial"
 
 categories: ['']
 
 tags: ['Non', 'Trivial']
 
-arwords: 'غير تافهة'
+arabic: 'غير تافهة'
 
 arexps: []
 

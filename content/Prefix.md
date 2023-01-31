@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Prefix"
 
 categories: ['']
 
 tags: ['Prefix']
 
-arwords: 'سابقة'
+arabic: 'سابقة'
 
 arexps: []
 

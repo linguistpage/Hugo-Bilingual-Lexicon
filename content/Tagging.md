@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tagging"
 
 categories: ['']
 
 tags: ['Tagging']
 
-arwords: 'التوسيم'
+arabic: 'التوسيم'
 
 arexps: []
 

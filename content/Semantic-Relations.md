@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Semantic Relations"
 
 categories: ['']
 
 tags: ['Semantic', 'Relations']
 
-arwords: 'العلاقات الدلالية'
+arabic: 'العلاقات الدلالية'
 
 arexps: []
 

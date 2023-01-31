@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Multi-Task Learning"
 
 categories: ['']
 
 tags: ['Multi', 'Task', 'Learning']
 
-arwords: 'التعلم المتزامن للمهام المختلفة'
+arabic: 'التعلم المتزامن للمهام المختلفة'
 
 arexps: []
 

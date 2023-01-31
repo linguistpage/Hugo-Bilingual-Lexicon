@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Saturation"
 
 categories: ['']
 
 tags: ['Saturation']
 
-arwords: 'التشبع'
+arabic: 'التشبع'
 
 arexps: []
 

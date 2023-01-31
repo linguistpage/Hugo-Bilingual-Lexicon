@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Treebank Arabic"
 
 categories: ['']
 
 tags: ['Treebank', 'Arabic']
 
-arwords: 'البنك النحوي العربي'
+arabic: 'البنك النحوي العربي'
 
 arexps: []
 

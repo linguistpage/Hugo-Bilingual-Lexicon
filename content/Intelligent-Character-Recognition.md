@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Intelligent Character Recognition"
 
 categories: ['']
 
 tags: ['Intelligent', 'Character', 'Recognition']
 
-arwords: 'التعرف الآني على الحروف'
+arabic: 'التعرف الآني على الحروف'
 
 arexps: []
 

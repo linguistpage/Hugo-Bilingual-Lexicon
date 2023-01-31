@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Synonyms"
 
 categories: ['']
 
 tags: ['Synonyms']
 
-arwords: 'مترادفات'
+arabic: 'مترادفات'
 
 arexps: []
 

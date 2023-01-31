@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Observational Adequacy"
 
 categories: ['']
 
 tags: ['Observational', 'Adequacy']
 
-arwords: 'معيار كفاءة الرصد'
+arabic: 'معيار كفاءة الرصد'
 
 arexps: []
 

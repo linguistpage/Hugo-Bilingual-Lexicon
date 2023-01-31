@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Intensification"
 
 categories: ['']
 
 tags: ['Intensification']
 
-arwords: 'التقوية'
+arabic: 'التقوية'
 
 arexps: []
 

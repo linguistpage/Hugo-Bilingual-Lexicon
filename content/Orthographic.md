@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Orthographic"
 
 categories: ['']
 
 tags: ['Orthographic']
 
-arwords: 'المرسوم'
+arabic: 'المرسوم'
 
 arexps: []
 

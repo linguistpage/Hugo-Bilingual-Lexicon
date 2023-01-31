@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Arabic Sentiment Analyzer"
 
 categories: ['']
 
 tags: ['Arabic', 'Sentiment', 'Analyzer']
 
-arwords: 'نظام تحليل المشاعر العربية'
+arabic: 'نظام تحليل المشاعر العربية'
 
 arexps: []
 

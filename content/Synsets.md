@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Synsets"
 
 categories: ['']
 
 tags: ['Synsets']
 
-arwords: 'مفاهيم'
+arabic: 'مفاهيم'
 
 arexps: []
 

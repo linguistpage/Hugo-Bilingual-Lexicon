@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Dendral"
 
 categories: ['']
 
 tags: ['Dendral']
 
-arwords: 'نظام دندرال'
+arabic: 'نظام دندرال'
 
 arexps: []
 

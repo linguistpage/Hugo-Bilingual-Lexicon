@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Explicit Segmentation"
 
 categories: ['']
 
 tags: ['Explicit', 'Segmentation']
 
-arwords: 'التقطيع الصريح'
+arabic: 'التقطيع الصريح'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Document Classification"
 
 categories: ['']
 
 tags: ['Document', 'Classification']
 
-arwords: 'تصنيف الوثائق آليا'
+arabic: 'تصنيف الوثائق آليا'
 
 arexps: []
 

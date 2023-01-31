@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Tamper"
 
 categories: ['']
 
 tags: ['Tamper']
 
-arwords: 'نوع الصوت'
+arabic: 'نوع الصوت'
 
 arexps: []
 

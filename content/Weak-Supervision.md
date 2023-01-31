@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Weak Supervision"
 
 categories: ['']
 
 tags: ['Weak', 'Supervision']
 
-arwords: 'إشراف ضعيف'
+arabic: 'إشراف ضعيف'
 
 arexps: []
 

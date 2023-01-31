@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Deterministic"
 
 categories: ['']
 
 tags: ['Deterministic']
 
-arwords: 'قطعية'
-arwords2: 'تحديدية'
+arabic: 'قطعية'
+arabic2: 'تحديدية'
 
 arexps: []
 

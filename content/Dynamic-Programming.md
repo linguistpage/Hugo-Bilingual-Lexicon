@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Dynamic Programming"
 
 categories: ['']
 
 tags: ['Dynamic', 'Programming']
 
-arwords: 'برمجة حركية'
-arwords2: 'برمجة ديناميكية'
+arabic: 'برمجة حركية'
+arabic2: 'برمجة ديناميكية'
 
 arexps: []
 

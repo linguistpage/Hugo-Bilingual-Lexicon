@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Scanner"
 
 categories: ['']
 
 tags: ['Scanner']
 
-arwords: 'الماسح الضوئي'
+arabic: 'الماسح الضوئي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Character N-Grams"
 
 categories: ['']
 
 tags: ['Character', 'N-Grams']
 
-arwords: 'مجموعات الحروف المتوالية'
+arabic: 'مجموعات الحروف المتوالية'
 
 arexps: []
 

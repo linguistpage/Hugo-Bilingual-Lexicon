@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Architecture"
 
 categories: ['']
 
 tags: ['Architecture']
 
-arwords: 'معمار'
-arwords2: 'بنية'
+arabic: 'معمار'
+arabic2: 'بنية'
 
 arexps: []
 

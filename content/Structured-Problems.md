@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Structured Problems"
 
 categories: ['']
 
 tags: ['Structured', 'Problems']
 
-arwords: 'مسائل مهيكلة'
+arabic: 'مسائل مهيكلة'
 
 arexps: []
 

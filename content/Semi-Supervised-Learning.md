@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Semi-Supervised Learning"
 
 categories: ['']
 
 tags: ['Semi', 'Supervised', 'Learning']
 
-arwords: 'التعلم الآلي شبه الموجه'
+arabic: 'التعلم الآلي شبه الموجه'
 
 arexps: []
 

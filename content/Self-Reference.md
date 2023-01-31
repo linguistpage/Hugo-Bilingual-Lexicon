@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Self Reference"
 
 categories: ['']
 
 tags: ['Self', 'Reference']
 
-arwords: 'الإحالة الذاتية'
+arabic: 'الإحالة الذاتية'
 
 arexps: []
 

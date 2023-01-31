@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Subcategorisation Frame"
 
 categories: ['']
 
 tags: ['Subcategorisation', 'Frame']
 
-arwords: 'الإطار النحوي'
+arabic: 'الإطار النحوي'
 
 arexps: []
 

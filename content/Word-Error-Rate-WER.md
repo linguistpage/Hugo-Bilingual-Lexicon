@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Word Error Rate-WER"
 
 categories: ['']
 
 tags: ['Word', 'Error', 'Rate', 'WER']
 
-arwords: 'معدل خطأ للكلمات'
+arabic: 'معدل خطأ للكلمات'
 
 arexps: []
 

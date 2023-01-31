@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Thesaurus"
 
 categories: ['']
 
 tags: ['Thesaurus']
 
-arwords: 'مَكنَز'
-arwords2: 'القاموس الموسوعي للمفردات'
+arabic: 'مَكنَز'
+arabic2: 'القاموس الموسوعي للمفردات'
 
 arexps: []
 

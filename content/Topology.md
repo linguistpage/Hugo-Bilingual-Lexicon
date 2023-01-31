@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Topology"
 
 categories: ['']
 
 tags: ['Topology']
 
-arwords: 'طوبولوجيا'
+arabic: 'طوبولوجيا'
 
 arexps: []
 

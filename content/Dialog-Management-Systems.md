@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Dialog Management Systems"
 
 categories: ['']
 
 tags: ['Dialog', 'Management', 'Systems']
 
-arwords: 'أنظمة إدارة الحوار'
+arabic: 'أنظمة إدارة الحوار'
 
 arexps: []
 

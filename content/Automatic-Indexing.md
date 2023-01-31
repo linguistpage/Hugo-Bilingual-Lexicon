@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Automatic Indexing"
 
 categories: ['']
 
 tags: ['Automatic', 'Indexing']
 
-arwords: 'الفهرسة الآلية'
+arabic: 'الفهرسة الآلية'
 
 arexps: []
 

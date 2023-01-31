@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Transitions"
 
 categories: ['']
 
 tags: ['Transitions']
 
-arwords: 'انتقالات'
+arabic: 'انتقالات'
 
 arexps: []
 

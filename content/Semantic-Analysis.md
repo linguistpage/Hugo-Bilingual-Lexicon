@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Semantic Analysis"
 
 categories: ['']
 
 tags: ['Semantic', 'Analysis']
 
-arwords: 'التحليل الدِّلالي'
+arabic: 'التحليل الدِّلالي'
 
 arexps: []
 

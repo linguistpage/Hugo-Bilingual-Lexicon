@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Non-Native Speakers"
 
 categories: ['']
 
 tags: ['Non', 'Native', 'Speakers']
 
-arwords: 'غير ناطقي اللغة اﻷصلية'
+arabic: 'غير ناطقي اللغة اﻷصلية'
 
 arexps: []
 

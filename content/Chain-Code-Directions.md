@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Chain-Code Directions"
 
 categories: ['']
 
 tags: ['Chain', 'Code', 'Directions']
 
-arwords: 'ترميزات اتجاهات السلسلة'
+arabic: 'ترميزات اتجاهات السلسلة'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Tokenization"
 
 categories: ['']
 
 tags: ['tokenization']
 
-arwords: 'تقطيع النصوص'
-arwords: 'تقطيع الكلام إلى وحدات نصية'
+arabic: 'تقطيع النصوص'
+arabic: 'تقطيع الكلام إلى وحدات نصية'
 
 arexps: []
 

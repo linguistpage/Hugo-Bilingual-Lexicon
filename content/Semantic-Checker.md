@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Semantic Checker"
 
 categories: ['']
 
 tags: ['Semantic', 'Checker']
 
-arwords: 'المدقق الدلالي'
+arabic: 'المدقق الدلالي'
 
 arexps: []
 

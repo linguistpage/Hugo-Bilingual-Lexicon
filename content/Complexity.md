@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Complexity"
 
 categories: ['']
 
 tags: ['Complexity']
 
-arwords: 'صعوبة'
+arabic: 'صعوبة'
 
 arexps: []
 

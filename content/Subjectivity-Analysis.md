@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Subjectivity Analysis"
 
 categories: ['']
 
 tags: ['Subjectivity', 'Analysis']
 
-arwords: 'تحليل موضوعية الكلام'
+arabic: 'تحليل موضوعية الكلام'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Statistical Machine Translation"
 
 categories: ['']
 
 tags: ['Statistical', 'Machine', 'Translation']
 
-arwords: 'الترجمة الآلية الإحصائية'
+arabic: 'الترجمة الآلية الإحصائية'
 
 arexps: []
 

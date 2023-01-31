@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Inputs Sequence"
 
 categories: ['']
 
 tags: ['Inputs', 'Sequence']
 
-arwords: 'تسلسل المدخلات'
+arabic: 'تسلسل المدخلات'
 
 arexps: []
 

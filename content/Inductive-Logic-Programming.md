@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Inductive Logic Programming"
 
 categories: ['']
 
 tags: ['Inductive', 'Logic', 'Programming']
 
-arwords: 'البرمجة المنطقية الاستقرائية'
+arabic: 'البرمجة المنطقية الاستقرائية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Interactive Analyzer-IAN"
 
 categories: ['']
 
 tags: ['Interactive', 'Analyzer', 'IAN']
 
-arwords: 'المحلل النحوي التفاعلي'
+arabic: 'المحلل النحوي التفاعلي'
 
 arexps: []
 

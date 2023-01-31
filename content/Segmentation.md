@@ -1,15 +1,17 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Segmentation"
 
 categories: ['']
 
 tags: ['Segmentation']
 
-arwords:  'التقسيم'
+arabic:  'التقسيم'
 
-arwords2: 'التقطيع'
+arabic2: 'التقطيع'
 
 arexps: []
 

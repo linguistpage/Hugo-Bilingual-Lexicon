@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Logic Programming"
 
 categories: ['']
 
 tags: ['Logic', 'Programming']
 
-arwords: 'البرمجة عبر المنطق'
+arabic: 'البرمجة عبر المنطق'
 
 arexps: []
 

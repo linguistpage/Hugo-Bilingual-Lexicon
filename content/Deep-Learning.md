@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Deep Learning"
 
 categories: ['']
 
 tags: ['Deep', 'Learning']
 
-arwords: 'التعلم العميق'
+arabic: 'التعلم العميق'
 
 arexps: []
 

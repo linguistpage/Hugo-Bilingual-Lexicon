@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Semantic Orientation"
 
 categories: ['']
 
 tags: ['Semantic', 'Orientation']
 
-arwords: 'الانحياز المعنوي'
+arabic: 'الانحياز المعنوي'
 
 arexps: []
 

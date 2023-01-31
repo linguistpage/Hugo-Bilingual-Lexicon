@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Training"
 
 categories: ['']
 
 tags: ['Training']
 
-arwords: 'التدريب'
-arwords2: 'تدريب النظام'
+arabic: 'التدريب'
+arabic2: 'تدريب النظام'
 
 arexps: []
 

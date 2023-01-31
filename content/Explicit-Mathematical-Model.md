@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Explicit Mathematical Model"
 
 categories: ['']
 
 tags: ['Explicit', 'Mathematical', 'Model']
 
-arwords: 'نموذج رياضي صريح'
+arabic: 'نموذج رياضي صريح'
 
 arexps: []
 

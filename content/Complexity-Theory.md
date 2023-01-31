@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Complexity Theory"
 
 categories: ['']
 
 tags: ['Complexity', 'Theory']
 
-arwords: 'نظرية تعيين الصعوبة'
+arabic: 'نظرية تعيين الصعوبة'
 
 arexps: []
 

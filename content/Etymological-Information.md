@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Etymological Information"
 
 categories: ['']
 
 tags: ['Etymological', 'Information']
 
-arwords: 'المعلومات التأثيلية'
+arabic: 'المعلومات التأثيلية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Formant"
 
 categories: ['']
 
 tags: ['Formant']
 
-arwords: 'منسق'
+arabic: 'منسق'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Morphology"
 
 categories: ['']
 
 tags: ['Morphology']
 
-arwords: 'النسق الصرفي'
+arabic: 'النسق الصرفي'
 
 arexps: []
 

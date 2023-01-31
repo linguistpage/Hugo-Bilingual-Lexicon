@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "The Engineering Company for Digital Systems Development-RDI"
 
 categories: ['']
 
 tags: ['The', 'Engineering', 'Company', 'for', 'Digital', 'Systems', 'Development', 'RDI']
 
-arwords: 'الشركة الهندسية لتطوير النظم الرقمية (آر دي آي)'
+arabic: 'الشركة الهندسية لتطوير النظم الرقمية (آر دي آي)'
 
 arexps: []
 

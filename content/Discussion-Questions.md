@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Discussion Questions"
 
 categories: ['']
 
 tags: ['Discussion', 'Questions']
 
-arwords: 'أسئلة مناقشة'
+arabic: 'أسئلة مناقشة'
 
 arexps: []
 

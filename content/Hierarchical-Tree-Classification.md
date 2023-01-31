@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hierarchical Tree Classification"
 
 categories: ['']
 
 tags: ['Hierarchical', 'Tree', 'Classification']
 
-arwords: 'التصنيف الشجري الهرمي'
+arabic: 'التصنيف الشجري الهرمي'
 
 arexps: []
 

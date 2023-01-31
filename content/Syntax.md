@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntax"
 
 categories: ['']
 
 tags: ['Syntax']
 
-arwords: 'النحو'
+arabic: 'النحو'
 
 arexps: []
 

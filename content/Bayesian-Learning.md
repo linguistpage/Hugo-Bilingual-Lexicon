@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Bayesian Learning"
 
 categories: ['']
 
 tags: ['Bayesian', 'Learning']
 
-arwords: 'تعلم باييس الاحتمالي'
+arabic: 'تعلم باييس الاحتمالي'
 
 arexps: []
 

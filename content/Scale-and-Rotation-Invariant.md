@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Scale and Rotation Invariant"
 
 categories: ['']
 
 tags: ['Scale', 'and', 'Rotation', 'Invariant']
 
-arwords: 'حجم الكتابة وقليل من الميل والالتفاف'
+arabic: 'حجم الكتابة وقليل من الميل والالتفاف'
 
 arexps: []
 

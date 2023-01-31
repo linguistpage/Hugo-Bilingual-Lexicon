@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Universal Networking Language"
 
 categories: ['']
 
 tags: ['Universal', 'Networking', 'Language']
 
-arwords: 'لغة الشبكات الدلالية الحاسوبية العالمية'
+arabic: 'لغة الشبكات الدلالية الحاسوبية العالمية'
 
 arexps: []
 

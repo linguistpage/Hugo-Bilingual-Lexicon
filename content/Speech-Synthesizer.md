@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speech Synthesizer"
 
 categories: ['']
 
 tags: ['Speech', 'Synthesizer']
 
-arwords: 'ناطق الكلام'
+arabic: 'ناطق الكلام'
 
 arexps: []
 

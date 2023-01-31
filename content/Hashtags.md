@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hashtags"
 
 categories: ['']
 
 tags: ['Hashtags']
 
-arwords: 'وسوم تصنيفية'
+arabic: 'وسوم تصنيفية'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Invariant Moments"
 
 categories: ['']
 
 tags: ['Invariant', 'Moments']
 
-arwords: 'العُزُوم القياسية اللامتغيرة'
+arabic: 'العُزُوم القياسية اللامتغيرة'
 
 arexps: []
 

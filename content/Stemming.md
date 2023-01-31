@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Stemming"
 
 categories: ['']
 
 tags: ['Stemming']
 
-arwords: 'التجذيع'
+arabic: 'التجذيع'
 
 arexps: []
 

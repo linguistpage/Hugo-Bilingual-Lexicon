@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Humanoid"
 
 categories: ['']
 
 tags: ['Humanoid']
 
-arwords: 'شبيه البشر'
+arabic: 'شبيه البشر'
 
 arexps: []
 

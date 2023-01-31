@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Crude Digital Word"
 
 categories: ['']
 
 tags: ['Crude', 'Digital', 'Word']
 
-arwords: 'الكلمة الرقمية الخام'
+arabic: 'الكلمة الرقمية الخام'
 
 arexps: []
 

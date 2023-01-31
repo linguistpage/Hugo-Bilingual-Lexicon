@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Machine Learning Algorithms"
 
 categories: ['']
 
 tags: ['Machine', 'Learning', 'Algorithms']
 
-arwords: 'خوارزمات التعلم الآلي'
+arabic: 'خوارزمات التعلم الآلي'
 
 arexps: []
 

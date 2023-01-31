@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Non-Euclidean Geomerty"
 
 categories: ['']
 
 tags: ['Non', 'Euclidean', 'Geomerty']
 
-arwords: 'الهندسة اللا إقليدية'
+arabic: 'الهندسة اللا إقليدية'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Scalable"
 
 categories: ['']
 
 tags: ['Scalable']
 
-arwords: 'قابل للتوسع'
+arabic: 'قابل للتوسع'
 
 arexps: []
 

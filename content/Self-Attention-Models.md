@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Self-Attention Models"
 
 categories: ['']
 
 tags: ['Self', 'Attention', 'Models']
 
-arwords: 'النماذج المنتبهة لنفسها'
+arabic: 'النماذج المنتبهة لنفسها'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Inter-Class Variability"
 
 categories: ['']
 
 tags: ['Inter', 'Class', 'Variability']
 
-arwords: 'الفروق بين الحروف المتعددة'
+arabic: 'الفروق بين الحروف المتعددة'
 
 arexps: []
 

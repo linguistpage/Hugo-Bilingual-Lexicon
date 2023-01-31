@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Extractive Summarization"
 
 categories: ['']
 
 tags: ['Extractive', 'Summarization']
 
-arwords: 'التلخيص الاقتباسي'
+arabic: 'التلخيص الاقتباسي'
 
 arexps: []
 

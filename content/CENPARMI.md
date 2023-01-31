@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "CENPARMI"
 
 categories: ['']
 
 tags: ['CENPARMI']
 
-arwords: 'قاعدة بيانات لسندات مصرفية عربية'
+arabic: 'قاعدة بيانات لسندات مصرفية عربية'
 
 arexps: []
 

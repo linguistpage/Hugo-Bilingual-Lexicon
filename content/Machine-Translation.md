@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Machine Translation"
 
 categories: ['']
 
 tags: ['Machine', 'Translation']
 
-arwords: 'الترجمة الآلية'
+arabic: 'الترجمة الآلية'
 
 arexps: []
 

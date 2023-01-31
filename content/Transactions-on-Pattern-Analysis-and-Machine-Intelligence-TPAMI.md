@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Transactions on Pattern Analysis and Machine Intelligence-TPAMI"
 
 categories: ['']
 
 tags: ['Transactions', 'on', 'Pattern', 'Analysis', 'and', 'Machine', 'Intelligence', 'TPAMI']
 
-arwords: 'رسائل تحليل الأنماط والذكاء الآلي'
+arabic: 'رسائل تحليل الأنماط والذكاء الآلي'
 
 arexps: []
 

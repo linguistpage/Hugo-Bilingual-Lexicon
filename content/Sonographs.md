@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sonographs"
 
 categories: ['']
 
 tags: ['Sonographs']
 
-arwords: 'الصورة الصوتية'
+arabic: 'الصورة الصوتية'
 
 arexps: []
 

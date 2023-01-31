@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Natural Languages"
 
 categories: ['']
 
 tags: ['Natural', 'Languages']
 
-arwords: 'اللغات الطبيعية'
+arabic: 'اللغات الطبيعية'
 
 arexps: []
 

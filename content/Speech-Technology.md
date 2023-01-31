@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speech Technology"
 
 categories: ['']
 
 tags: ['Speech', 'Technology']
 
-arwords: 'تقنيات الكلام البشري'
+arabic: 'تقنيات الكلام البشري'
 
 arexps: []
 

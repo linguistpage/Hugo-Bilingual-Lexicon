@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "dB Sound Pressure LeveldBspl"
 
 categories: ['']
 
 tags: ['dB', 'Sound', 'Pressure', 'LeveldBspl']
 
-arwords: 'ديسيبل ضغط الصوت'
+arabic: 'ديسيبل ضغط الصوت'
 
 arexps: []
 

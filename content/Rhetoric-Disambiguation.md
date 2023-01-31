@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Rhetoric Disambiguation"
 
 categories: ['']
 
 tags: ['Rhetoric', 'Disambiguation']
 
-arwords: 'فك الالتباس البلاغي'
+arabic: 'فك الالتباس البلاغي'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Perspectivism"
 
 categories: ['']
 
 tags: ['Perspectivism']
 
-arwords: 'تعدد الآراء'
+arabic: 'تعدد الآراء'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Lexicons"
 
 categories: ['']
 
 tags: ['Lexicons']
 
-arwords: 'معاجم'
+arabic: 'معاجم'
 
 arexps: []
 

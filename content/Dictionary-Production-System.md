@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Dictionary Production System"
 
 categories: ['']
 
 tags: ['Dictionary', 'Production', 'System']
 
-arwords: 'نظام صناعة المعجم'
+arabic: 'نظام صناعة المعجم'
 
 arexps: []
 

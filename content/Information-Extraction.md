@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Information Extraction"
 
 categories: ['']
 
 tags: ['Information', 'Extraction']
 
-arwords: 'استخراج المعلومات'
+arabic: 'استخراج المعلومات'
 
 arexps: []
 

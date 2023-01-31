@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Digital Signals"
 
 categories: ['']
 
 tags: ['Digital', 'Signals']
 
-arwords: 'إشارات رقمية'
+arabic: 'إشارات رقمية'
 
 arexps: []
 

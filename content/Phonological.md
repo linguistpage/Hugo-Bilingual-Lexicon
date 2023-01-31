@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Phonological"
 
 categories: ['']
 
 tags: ['Phonological']
 
-arwords: 'المنطوق'
+arabic: 'المنطوق'
 
 arexps: []
 

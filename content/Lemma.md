@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Lemma"
 
 categories: ['']
 
 tags: ['Lemma']
 
-arwords: 'الفرع'
+arabic: 'الفرع'
 
 arexps: []
 

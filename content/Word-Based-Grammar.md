@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Word Based Grammar"
 
 categories: ['']
 
 tags: ['Word', 'Based', 'Grammar']
 
-arwords: 'قواعد تبنى على الكلمة'
+arabic: 'قواعد تبنى على الكلمة'
 
 arexps: []
 

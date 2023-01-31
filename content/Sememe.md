@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Sememe"
 
 categories: ['']
 
 tags: ['Sememe']
 
-arwords: 'السيميم'
+arabic: 'السيميم'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Qualitative"
 
 categories: ['']
 
 tags: ['Qualitative']
 
-arwords: 'كيفي'
+arabic: 'كيفي'
 
 arexps: []
 

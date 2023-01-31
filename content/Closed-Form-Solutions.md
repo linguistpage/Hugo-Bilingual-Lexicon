@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Closed-Form Solutions"
 
 categories: ['']
 
 tags: ['Closed', 'Form', 'Solutions']
 
-arwords: 'حلول رياضية بقوانين مُحكَمة'
+arabic: 'حلول رياضية بقوانين مُحكَمة'
 
 arexps: []
 

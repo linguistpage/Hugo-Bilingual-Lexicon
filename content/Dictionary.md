@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Dictionary"
 
 categories: ['']
 
 tags: ['Dictionary']
 
-arwords: 'المعجم'
+arabic: 'المعجم'
 
 arexps: []
 

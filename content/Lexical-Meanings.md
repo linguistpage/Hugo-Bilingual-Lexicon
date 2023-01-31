@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Meanings"
 
 categories: ['']
 
 tags: ['Lexical', 'Meanings']
 
-arwords: 'المعاني المعجمية'
+arabic: 'المعاني المعجمية'
 
 arexps: []
 

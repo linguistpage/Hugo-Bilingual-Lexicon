@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Nondeterministic Parsing"
 
 categories: ['']
 
 tags: ['Nondeterministic', 'Parsing']
 
-arwords: 'تحليل غير محدد'
+arabic: 'تحليل غير محدد'
 
 arexps: []
 

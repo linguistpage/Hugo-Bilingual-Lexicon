@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Text Similarity Approach"
 
 categories: ['']
 
 tags: ['Text', 'Similarity', 'Approach']
 
-arwords: 'قياس تشابه النص'
+arabic: 'قياس تشابه النص'
 
 arexps: []
 

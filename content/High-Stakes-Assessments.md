@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "High Stakes Assessments"
 
 categories: ['']
 
 tags: ['High', 'Stakes', 'Assessments']
 
-arwords: 'تقييمات عالية المخاطر'
+arabic: 'تقييمات عالية المخاطر'
 
 arexps: []
 

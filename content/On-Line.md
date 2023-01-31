@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "On-Line"
 
 categories: ['']
 
 tags: ['On', 'Line']
 
-arwords: 'كتابة آنية'
+arabic: 'كتابة آنية'
 
 arexps: []
 

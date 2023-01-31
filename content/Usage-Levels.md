@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Usage Levels"
 
 categories: ['']
 
 tags: ['Usage', 'Levels']
 
-arwords: 'مستويات الاستعمال'
+arabic: 'مستويات الاستعمال'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Phrase Marker P-marker"
 
 categories: ['']
 
 tags: ['Phrase', 'Marker', 'P-marker']
 
-arwords: 'الوسم العباري'
+arabic: 'الوسم العباري'
 
 arexps: []
 

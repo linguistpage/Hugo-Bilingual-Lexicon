@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Semantics"
 
 categories: ['']
 
 tags: ['Semantics']
 
-arwords: 'علم المعاني'
-arwords2: 'علم الدلالة'
+arabic: 'علم المعاني'
+arabic2: 'علم الدلالة'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Sound Frequency"
 
 categories: ['']
 
 tags: ['Sound', 'Frequency']
 
-arwords: 'تردد الصوت'
+arabic: 'تردد الصوت'
 
 arexps: []
 

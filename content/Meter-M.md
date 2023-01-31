@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Meter-M"
 
 categories: ['']
 
 tags: ['Meter']
 
-arwords: 'متر'
+arabic: 'متر'
 
 arexps: []
 

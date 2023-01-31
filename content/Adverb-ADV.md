@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Adverb-ADV"
 
 categories: ['']
 
 tags: ['Adverb', 'ADV']
 
-arwords: 'حال'
+arabic: 'حال'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Stochastic"
 
 categories: ['']
 
 tags: ['Stochastic']
 
-arwords: 'عشوائية'
+arabic: 'عشوائية'
 
 arexps: []
 

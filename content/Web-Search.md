@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Web Search"
 
 categories: ['']
 
 tags: ['Web', 'Search']
 
-arwords: 'محركات البحث في الوثائق الشبكية'
+arabic: 'محركات البحث في الوثائق الشبكية'
 
 arexps: []
 

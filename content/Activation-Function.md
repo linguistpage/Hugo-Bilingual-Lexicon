@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Activation Function"
 
 categories: ['']
 
 tags: ['Activation', 'Function']
 
-arwords: 'التنشيط'
+arabic: 'التنشيط'
 
 arexps: []
 

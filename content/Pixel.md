@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Pixel"
 
 categories: ['']
 
 tags: ['Pixel']
 
-arwords: 'العناصر الصورية'
+arabic: 'العناصر الصورية'
 
 arexps: []
 

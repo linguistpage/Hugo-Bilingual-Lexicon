@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Approaches"
 
 categories: ['']
 
 tags: ['Approaches']
 
-arwords: 'مقاربات'
+arabic: 'مقاربات'
 
 arexps: []
 

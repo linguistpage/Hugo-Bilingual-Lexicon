@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Personal Computer-PC"
 
 categories: ['']
 
 tags: ['Personal', 'Computer', 'PC']
 
-arwords: 'الحاسب الشخصي'
+arabic: 'الحاسب الشخصي'
 
 arexps: []
 

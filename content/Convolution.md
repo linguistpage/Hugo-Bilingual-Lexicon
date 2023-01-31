@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Convolution"
 
 categories: ['']
 
 tags: ['Convolution']
 
-arwords: 'الالتفاف'
+arabic: 'الالتفاف'
 
 arexps: []
 

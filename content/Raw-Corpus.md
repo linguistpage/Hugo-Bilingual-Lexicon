@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Raw Corpus"
 
 categories: ['']
 
 tags: ['Raw', 'Corpus']
 
-arwords: 'مدونة خام'
+arabic: 'مدونة خام'
 
 arexps: []
 

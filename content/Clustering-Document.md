@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Clustering Document"
 
 categories: ['']
 
 tags: ['Clustering', 'Document']
 
-arwords: 'تجميع الوثائق الآلي'
+arabic: 'تجميع الوثائق الآلي'
 
 arexps: []
 

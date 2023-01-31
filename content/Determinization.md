@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Determinization"
 
 categories: ['']
 
 tags: ['Determinization']
 
-arwords: 'تحديد'
+arabic: 'تحديد'
 
 arexps: []
 

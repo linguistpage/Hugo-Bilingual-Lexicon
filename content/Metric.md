@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Metric"
 
 categories: ['']
 
 tags: ['Metric']
 
-arwords: 'قياس'
+arabic: 'قياس'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Word"
 
 categories: ['']
 
 tags: ['Word']
 
-arwords: 'كلمة'
+arabic: 'كلمة'
 
 arexps: []
 

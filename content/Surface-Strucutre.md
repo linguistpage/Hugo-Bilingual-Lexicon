@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Surface Strucutre"
 
 categories: ['']
 
 tags: ['Surface', 'Strucutre']
 
-arwords: 'البنية السطحية'
+arabic: 'البنية السطحية'
 
 arexps: []
 

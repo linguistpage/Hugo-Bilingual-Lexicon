@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Under-Segmentaion"
 
 categories: ['']
 
 tags: ['Under', 'Segmentaion']
 
-arwords: 'تقطيع الأسطر كلها دون دمج مكونات عدة أسطر سويا'
+arabic: 'تقطيع الأسطر كلها دون دمج مكونات عدة أسطر سويا'
 
 arexps: []
 

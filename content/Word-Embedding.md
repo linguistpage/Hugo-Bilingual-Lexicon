@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Word Embedding"
 
 categories: ['']
 
 tags: ['Word', 'Embedding']
 
-arwords: 'تمثيل معنوي للكلمات'
+arabic: 'تمثيل معنوي للكلمات'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Pooled Wisdom"
 
 categories: ['']
 
 tags: ['Pooled', 'Wisdom']
 
-arwords: 'الحكمة الجمعية'
+arabic: 'الحكمة الجمعية'
 
 arexps: []
 

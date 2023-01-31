@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Domain-Domain"
 
 categories: ['']
 
 tags: ['Domain', 'Domain']
 
-arwords: 'مجال محدد'
+arabic: 'مجال محدد'
 
 arexps: []
 

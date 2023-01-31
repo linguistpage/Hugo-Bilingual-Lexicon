@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Support Vector Machine"
 
 categories: ['']
 
 tags: ['Support', 'Vector', 'Machine']
 
-arwords: 'آليات المتجهات الدَّاعمة'
+arabic: 'آليات المتجهات الدَّاعمة'
 
 arexps: []
 

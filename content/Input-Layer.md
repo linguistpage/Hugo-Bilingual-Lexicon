@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Input Layer"
 
 categories: ['']
 
 tags: ['Input', 'Layer']
 
-arwords: 'طبقة الإدخال'
+arabic: 'طبقة الإدخال'
 
 arexps: []
 

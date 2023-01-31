@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Syn-Set"
 
 categories: ['']
 
 tags: ['Syn', 'Set']
 
-arwords: 'فئة المترادفات'
+arabic: 'فئة المترادفات'
 
 arexps: []
 

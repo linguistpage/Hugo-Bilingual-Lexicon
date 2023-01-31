@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Arabic Word Net"
 
 categories: ['']
 
 tags: ['Arabic', 'Word', 'Net']
 
-arwords: 'شبكة الكلمات العربية'
+arabic: 'شبكة الكلمات العربية'
 
 arexps: []
 

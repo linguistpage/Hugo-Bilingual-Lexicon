@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Speech Audio Indexer"
 
 categories: ['']
 
 tags: ['Speech', 'Audio', 'Indexer']
 
-arwords: 'البحث الصوتي الآلي'
+arabic: 'البحث الصوتي الآلي'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Adaptation"
 
 categories: ['']
 
 tags: ['adaptation']
 
-arwords: 'التكيّف'
+arabic: 'التكيّف'
 
 arexps: []
 

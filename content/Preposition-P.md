@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Preposition-P"
 
 categories: ['']
 
 tags: ['Preposition']
 
-arwords: 'حرف'
+arabic: 'حرف'
 
 arexps: []
 

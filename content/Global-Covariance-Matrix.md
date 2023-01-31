@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Global Covariance Matrix"
 
 categories: ['']
 
 tags: ['Global', 'Covariance', 'Matrix']
 
-arwords: 'مصفوفة التباين العامة'
+arabic: 'مصفوفة التباين العامة'
 
 arexps: []
 

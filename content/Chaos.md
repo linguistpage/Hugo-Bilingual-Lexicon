@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Chaos"
 
 categories: ['']
 
 tags: ['Chaos']
 
-arwords: 'نظرية الشَّواش'
+arabic: 'نظرية الشَّواش'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Historical Information"
 
 categories: ['']
 
 tags: ['Historical', 'Information']
 
-arwords: 'المعلومات التاريخية'
+arabic: 'المعلومات التاريخية'
 
 arexps: []
 

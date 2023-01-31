@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Ontological"
 
 categories: ['']
 
 tags: ['Ontological']
 
-arwords: 'الأنطولوجي'
+arabic: 'الأنطولوجي'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "English English"
 
 categories: ['']
 
 tags: ['english', 'english']
 
-arwords: 'المستوى اللغوي'
-arwords2: 'الطبقة اللسانية'
+arabic: 'المستوى اللغوي'
+arabic2: 'الطبقة اللسانية'
 
 arexps: []
 

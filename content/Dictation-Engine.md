@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Dictation Engine"
 
 categories: ['']
 
 tags: ['Dictation', 'Engine']
 
-arwords: 'أنظمة الإملاء'
+arabic: 'أنظمة الإملاء'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Singleton"
 
 categories: ['']
 
 tags: ['Singleton']
 
-arwords: 'احتمال حدوث حدث'
+arabic: 'احتمال حدوث حدث'
 
 arexps: []
 

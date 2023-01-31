@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "K-Nearest Neighbor-KNN"
 
 categories: ['']
 
 tags: ['K', 'Nearest', 'Neighbor', 'KNN']
 
-arwords: 'مصنف الجار الأقرب'
+arabic: 'مصنف الجار الأقرب'
 
 arexps: []
 

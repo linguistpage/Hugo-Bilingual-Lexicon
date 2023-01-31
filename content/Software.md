@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Software"
 
 categories: ['']
 
 tags: ['Software']
 
-arwords: 'البرمجيات'
+arabic: 'البرمجيات'
 
 arexps: []
 

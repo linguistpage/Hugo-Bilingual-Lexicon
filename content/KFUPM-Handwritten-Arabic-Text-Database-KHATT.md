@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "KFUPM Handwritten Arabic Text Database-KHATT"
 
 categories: ['']
 
 tags: ['KFUPM', 'Handwritten', 'Arabic', 'Text', 'Database', 'KHATT']
 
-arwords: 'قاعدة بيانات خط'
+arabic: 'قاعدة بيانات خط'
 
 arexps: []
 

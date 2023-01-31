@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Lexical Etymology"
 
 categories: ['']
 
 tags: ['Lexical', 'Etymology']
 
-arwords: 'التأثيل المعجمي'
+arabic: 'التأثيل المعجمي'
 
 arexps: []
 

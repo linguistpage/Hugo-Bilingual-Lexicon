@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Adjective Phrase-JP"
 
 categories: ['']
 
 tags: ['Adjective', 'Phrase', 'JP']
 
-arwords: 'مركب وصفي'
+arabic: 'مركب وصفي'
 
 arexps: []
 

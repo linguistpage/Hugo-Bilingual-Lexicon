@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Specifier-SPEC"
 
 categories: ['']
 
 tags: ['Specifier', 'SPEC']
 
-arwords: 'المخصص النحوي'
+arabic: 'المخصص النحوي'
 
 arexps: []
 

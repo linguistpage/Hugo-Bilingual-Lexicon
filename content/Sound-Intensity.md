@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Sound Intensity"
 
 categories: ['']
 
 tags: ['Sound', 'Intensity']
 
-arwords: 'شدة الصوت'
+arabic: 'شدة الصوت'
 
 arexps: []
 

@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Hybrid Approach"
 
 categories: ['']
 
 tags: ['Hybrid', 'Approach']
 
-arwords: 'المقاربة الهجينة'
+arabic: 'المقاربة الهجينة'
 
 arexps: []
 

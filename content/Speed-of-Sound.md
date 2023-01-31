@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speed of Sound"
 
 categories: ['']
 
 tags: ['Speed', 'of', 'Sound']
 
-arwords: 'سرعة الصوت'
+arabic: 'سرعة الصوت'
 
 arexps: []
 

@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Hidden Semi Markov Models"
 
 categories: ['']
 
 tags: ['Hidden', 'Semi', 'Markov', 'Models']
 
-arwords: 'نماذج شبه-ماركوف المخفِيَّة'
+arabic: 'نماذج شبه-ماركوف المخفِيَّة'
 
 arexps: []
 

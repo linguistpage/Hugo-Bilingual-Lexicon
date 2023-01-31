@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Insertion Errors"
 
 categories: ['']
 
 tags: ['Insertion', 'Errors']
 
-arwords: 'أخطاء إدراج'
+arabic: 'أخطاء إدراج'
 
 arexps: []
 

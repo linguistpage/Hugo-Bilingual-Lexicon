@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Beam Width"
 
 categories: ['']
 
 tags: ['Beam', 'Width']
 
-arwords: 'نطاق الشعاع'
+arabic: 'نطاق الشعاع'
 
 arexps: []
 

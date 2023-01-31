@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Implicit Segmentation"
 
 categories: ['']
 
 tags: ['Implicit', 'Segmentation']
 
-arwords: 'التقطيع الضمني'
+arabic: 'التقطيع الضمني'
 
 arexps: []
 

@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Backpropagation"
 
 categories: ['']
 
 tags: ['Backpropagation']
 
-arwords: 'الانتشار الارتدادي'
-arwords2: 'الانتشار الخلفي'
+arabic: 'الانتشار الارتدادي'
+arabic2: 'الانتشار الخلفي'
 
 arexps: []
 

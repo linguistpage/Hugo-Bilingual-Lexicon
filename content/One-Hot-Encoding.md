@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "One-Hot Encoding"
 
 categories: ['']
 
 tags: ['One', 'Hot', 'Encoding']
 
-arwords: ''
+arabic: ''
 
 arexps: []
 

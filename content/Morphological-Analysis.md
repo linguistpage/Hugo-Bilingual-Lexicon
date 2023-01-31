@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Morphological Analysis"
 
 categories: ['']
 
 tags: ['Morphological', 'Analysis']
 
-arwords: 'التحليل الصرفي'
+arabic: 'التحليل الصرفي'
 
 arexps: []
 

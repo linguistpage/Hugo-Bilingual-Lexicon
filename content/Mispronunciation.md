@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Mispronunciation"
 
 categories: ['']
 
 tags: ['Mispronunciation']
 
-arwords: 'أخطاء النطق'
+arabic: 'أخطاء النطق'
 
 arexps: []
 

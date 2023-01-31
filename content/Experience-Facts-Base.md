@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Experience Facts Base"
 
 categories: ['']
 
 tags: ['Experience', 'Facts', 'Base']
 
-arwords: 'قاعدة حقائق الخبرة'
+arabic: 'قاعدة حقائق الخبرة'
 
 arexps: []
 

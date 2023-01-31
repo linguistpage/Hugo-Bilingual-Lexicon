@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Consonants and Semi Consonants"
 
 categories: ['']
 
 tags: ['Consonants', 'and', 'Semi', 'Consonants']
 
-arwords: 'الصوامت وأشباه الصوامت'
+arabic: 'الصوامت وأشباه الصوامت'
 
 arexps: []
 

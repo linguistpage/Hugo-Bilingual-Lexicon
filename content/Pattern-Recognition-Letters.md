@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Pattern Recognition Letters"
 
 categories: ['']
 
 tags: ['Pattern', 'Recognition', 'Letters']
 
-arwords: 'رسائل التعرف على الأنماط'
+arabic: 'رسائل التعرف على الأنماط'
 
 arexps: []
 

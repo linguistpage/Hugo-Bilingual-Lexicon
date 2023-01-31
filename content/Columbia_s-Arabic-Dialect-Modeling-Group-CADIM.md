@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Columbia Arabic Dialect Modeling Group-CADIM"
 
 categories: ['']
 
 tags: ['Columbia', 'Arabic', 'Dialect', 'Modeling', 'Group', 'CADIM']
 
-arwords: 'مجموعة كولومبيا لنمذجة اللهجات العربية'
+arabic: 'مجموعة كولومبيا لنمذجة اللهجات العربية'
 
 arexps: []
 

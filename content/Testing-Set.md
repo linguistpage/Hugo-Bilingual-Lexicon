@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Testing Set"
 
 categories: ['']
 
 tags: ['Testing', 'Set']
 
-arwords: 'مجموعة الاختبار'
+arabic: 'مجموعة الاختبار'
 
 arexps: []
 

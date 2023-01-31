@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Speech Processing"
 
 categories: ['']
 
 tags: ['Speech', 'Processing']
 
-arwords: 'معالجة الكلام المنطوق'
+arabic: 'معالجة الكلام المنطوق'
 
 arexps: []
 

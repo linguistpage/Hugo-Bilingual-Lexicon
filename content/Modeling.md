@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Modeling"
 
 categories: ['']
 
 tags: ['Modeling']
 
-arwords: 'النمذجة'
+arabic: 'النمذجة'
 
 arexps: []
 

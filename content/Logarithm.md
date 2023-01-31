@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Logarithm"
 
 categories: ['']
 
 tags: ['Logarithm']
 
-arwords: 'لوغاريتم'
+arabic: 'لوغاريتم'
 
 arexps: []
 

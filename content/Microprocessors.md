@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Microprocessors"
 
 categories: ['']
 
 tags: ['Microprocessors']
 
-arwords: 'المعالجات الدقيقة'
+arabic: 'المعالجات الدقيقة'
 
 arexps: []
 

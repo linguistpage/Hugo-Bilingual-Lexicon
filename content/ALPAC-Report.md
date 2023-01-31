@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "ALPAC Report"
 
 categories: ['Machine Translation']
 
 tags: ['alpac', 'report']
 
-arwords: 'تقرير اللجنة الاستشارية للمعالجة التلقائية للغات'
+arabic: 'تقرير اللجنة الاستشارية للمعالجة التلقائية للغات'
 
 arexps: ""
 

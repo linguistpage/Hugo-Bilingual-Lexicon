@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Shallow Parsing"
 
 categories: ['']
 
 tags: ['Shallow', 'Parsing']
 
-arwords: 'الإعراب السطحي'
+arabic: 'الإعراب السطحي'
 
 arexps: []
 

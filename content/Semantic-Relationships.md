@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Semantic Relationships"
 
 categories: ['']
 
 tags: ['Semantic', 'Relationships']
 
-arwords: 'العلاقات المعنوية'
+arabic: 'العلاقات المعنوية'
 
 arexps: []
 

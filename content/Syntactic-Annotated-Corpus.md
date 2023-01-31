@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic Annotated Corpus"
 
 categories: ['']
 
 tags: ['Syntactic', 'Annotated', 'Corpus']
 
-arwords: 'المدونات اللغوية الموسمة تركيبيا'
+arabic: 'المدونات اللغوية الموسمة تركيبيا'
 
 arexps: []
 

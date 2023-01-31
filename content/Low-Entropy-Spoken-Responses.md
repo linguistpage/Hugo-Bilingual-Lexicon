@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Low Entropy Spoken Responses"
 
 categories: ['']
 
 tags: ['Low', 'Entropy', 'Spoken', 'Responses']
 
-arwords: 'اﻹجابات المنطوقة بفوضى منخفضة'
+arabic: 'اﻹجابات المنطوقة بفوضى منخفضة'
 
 arexps: []
 

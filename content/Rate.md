@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Rate"
 
 categories: ['']
 
 tags: ['Rate']
 
-arwords: 'السرعة'
+arabic: 'السرعة'
 
 arexps: []
 

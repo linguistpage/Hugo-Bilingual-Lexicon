@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Frames"
 
 categories: ['']
 
 tags: ['Frames']
 
-arwords: 'أطر زمنية'
+arabic: 'أطر زمنية'
 
 arexps: []
 

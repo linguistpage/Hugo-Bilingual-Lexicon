@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Morphological"
 
 categories: ['']
 
 tags: ['Morphological']
 
-arwords: 'الصرفي'
+arabic: 'الصرفي'
 
 arexps: []
 

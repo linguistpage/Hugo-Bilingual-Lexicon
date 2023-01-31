@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Features"
 
 categories: ['']
 
 tags: ['Features']
 
-arwords: 'ملامح'
+arabic: 'ملامح'
 
 arexps: []
 

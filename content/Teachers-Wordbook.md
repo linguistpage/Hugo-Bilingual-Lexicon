@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Teacher's Wordbook"
 
 categories: ['']
 
 tags: ["Teacher's", 'Wordbook']
 
-arwords: 'قائمة المفردات للمعلمين'
+arabic: 'قائمة المفردات للمعلمين'
 
 arexps: []
 

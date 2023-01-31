@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Subject Separation"
 
 categories: ['']
 
 tags: ['Subject', 'Separation']
 
-arwords: 'الفصل بين الموضوعات'
+arabic: 'الفصل بين الموضوعات'
 
 arexps: []
 

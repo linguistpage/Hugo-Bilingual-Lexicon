@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Corpora"
 
 categories: ['']
 
 tags: ['Corpora']
 
-arwords: 'مدونات لغوية'
+arabic: 'مدونات لغوية'
 
 arexps: []
 

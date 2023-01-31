@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Word Sense Disambiguation-WSD"
 
 categories: ['']
 
 tags: ['Word', 'Sense', 'Disambiguation', 'WSD']
 
-arwords: 'فك الالتباس الدِّلالي للكلمة'
+arabic: 'فك الالتباس الدِّلالي للكلمة'
 
 arexps: []
 

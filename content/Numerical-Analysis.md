@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Numerical Analysis"
 
 categories: ['']
 
 tags: ['Numerical', 'Analysis']
 
-arwords: 'التحليل العددي'
+arabic: 'التحليل العددي'
 
 arexps: []
 

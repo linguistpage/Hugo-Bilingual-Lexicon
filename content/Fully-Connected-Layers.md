@@ -1,31 +1,17 @@
 ---
+types: "word"
+
 title: "Fully Connected Layers"
 
 categories: ['']
 
 tags: ['Fully', 'Connected', 'Layers']
 
-arwords: 'طبقات الاتصال الكامل'
+arabic: ['طبقات الاتصال الكامل', 'الطبقات تامة الاتصال']
 
-arexps: []
+publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 
-enwords: ['Fully Connected Layers']
-
-enexps: []
-
-arlexicons: 'ط'
-
-enlexicons: 'F'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

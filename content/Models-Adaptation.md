@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Models Adaptation"
 
 categories: ['']
 
 tags: ['Models', 'Adaptation']
 
-arwords: 'تكييف وتحويل النماذج'
+arabic: 'تكييف وتحويل النماذج'
 
 arexps: []
 

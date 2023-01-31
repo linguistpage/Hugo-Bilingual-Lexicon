@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "High-Level Languages"
 
 categories: ['']
 
 tags: ['High', 'Level', 'Languages']
 
-arwords: 'لغات عالية المستوى'
+arabic: 'لغات عالية المستوى'
 
 arexps: []
 

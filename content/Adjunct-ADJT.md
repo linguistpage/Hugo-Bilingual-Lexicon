@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Adjunct-ADJT"
 
 categories: ['']
 
 tags: ['Adjunct', 'ADJT']
 
-arwords: 'الملحق'
+arabic: 'الملحق'
 
 arexps: []
 

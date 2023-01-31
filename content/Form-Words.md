@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Form Words"
 
 categories: ['']
 
 tags: ['Form', 'Words']
 
-arwords: 'الكلمات الصورية'
+arabic: 'الكلمات الصورية'
 
 arexps: []
 

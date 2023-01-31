@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Parts-of-Speech Tagging"
 
 categories: ['']
 
 tags: ['Parts', 'of', 'Speech', 'Tagging']
 
-arwords: 'تعيين أقسام الكلام'
-arwords2: 'تصنيف أقسام الكلام'
+arabic: 'تعيين أقسام الكلام'
+arabic2: 'تصنيف أقسام الكلام'
 
 arexps: []
 

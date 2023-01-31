@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Vertical Projection"
 
 categories: ['']
 
 tags: ['Vertical', 'Projection']
 
-arwords: 'إسقاطات رأسية'
+arabic: 'إسقاطات رأسية'
 
 arexps: []
 

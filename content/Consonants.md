@@ -1,12 +1,14 @@
 ---
+types: "word"
+
 title: "Consonants"
 
 categories: ['']
 
 tags: ['Consonants']
 
-arwords: 'مقاطع ساكنة'
-arwords2: 'حروف ساكنة'
+arabic: 'مقاطع ساكنة'
+arabic2: 'حروف ساكنة'
 
 arexps: []
 

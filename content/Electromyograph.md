@@ -1,14 +1,16 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Electromyograph"
 
 categories: ['']
 
 tags: ['Electromyograph']
 
-arwords: 'مجهار العضلات'
-arwords2: 'الإليكتروميوجراف'
+arabic: 'مجهار العضلات'
+arabic2: 'الإليكتروميوجراف'
 
 arexps: []
 

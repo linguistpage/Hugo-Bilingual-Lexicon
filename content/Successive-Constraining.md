@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Successive Constraining"
 
 categories: ['']
 
 tags: ['Successive', 'Constraining']
 
-arwords: 'التقييد المتعاقب'
+arabic: 'التقييد المتعاقب'
 
 arexps: []
 

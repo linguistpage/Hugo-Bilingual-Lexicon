@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Vectors"
 
 categories: ['']
 
 tags: ['Vectors']
 
-arwords: 'متّجَهات'
+arabic: 'متّجَهات'
 
 arexps: []
 

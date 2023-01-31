@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Statistical Analysis"
 
 categories: ['']
 
 tags: ['Statistical', 'Analysis']
 
-arwords: 'التحليل الإحصائي'
+arabic: 'التحليل الإحصائي'
 
 arexps: []
 

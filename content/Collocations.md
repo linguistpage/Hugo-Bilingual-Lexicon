@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Collocations"
 
 categories: ['']
 
 tags: ['Collocations']
 
-arwords: 'المتلازمات اللفظية'
+arabic: 'المتلازمات اللفظية'
 
 arexps: []
 

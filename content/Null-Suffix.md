@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Null Suffix"
 
 categories: ['']
 
 tags: ['Null', 'Suffix']
 
-arwords: 'لاحقة فارغة'
+arabic: 'لاحقة فارغة'
 
 arexps: []
 

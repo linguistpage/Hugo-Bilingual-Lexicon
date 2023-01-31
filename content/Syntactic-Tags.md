@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Syntactic Tags"
 
 categories: ['']
 
 tags: ['Syntactic', 'Tags']
 
-arwords: 'الوسوم التركيبية'
+arabic: 'الوسوم التركيبية'
 
 arexps: []
 

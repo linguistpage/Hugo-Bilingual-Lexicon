@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Validation"
 
 categories: ['']
 
 tags: ['Validation']
 
-arwords: 'تحقق'
+arabic: 'تحقق'
 
 arexps: []
 

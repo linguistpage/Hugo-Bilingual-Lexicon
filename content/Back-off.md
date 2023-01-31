@@ -1,13 +1,15 @@
 ---
 word: "true"
 
+types: "word"
+
 title: "Back-off"
 
 categories: ['']
 
 tags: ['back', 'off']
 
-arwords: 'التراجع'
+arabic: 'التراجع'
 
 arexps: []
 

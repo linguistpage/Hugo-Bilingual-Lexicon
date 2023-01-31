@@ -1,11 +1,13 @@
 ---
+types: "word"
+
 title: "Learning Phase"
 
 categories: ['']
 
 tags: ['Learning', 'Phase']
 
-arwords: 'طور التعلم'
+arabic: 'طور التعلم'
 
 arexps: []
 
