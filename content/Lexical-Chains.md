@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Lexical Chains"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Lexical', 'Chains']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التسلسل المعجمي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

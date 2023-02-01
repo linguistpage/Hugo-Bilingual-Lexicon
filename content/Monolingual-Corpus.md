@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Monolingual Corpus"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Monolingual', 'Corpus']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['مدونة أحادية اللغة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Feedback Relevance"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Feedback', 'Relevance']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['إثراء بذات الصلة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

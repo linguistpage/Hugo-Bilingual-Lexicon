@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Discourse Structure"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['discourse', 'structure']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['تركيب الخطاب', 'بنية الخطاب']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

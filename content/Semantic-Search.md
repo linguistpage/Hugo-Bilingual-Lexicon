@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Semantic Search"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Semantic', 'Search']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['البحث الدلالي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

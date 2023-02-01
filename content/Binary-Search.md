@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Binary Search"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Binary', 'Search']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['بحث ثنائي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

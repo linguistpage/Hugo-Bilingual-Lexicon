@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Adhesion"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Adhesion']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الالتصاق']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

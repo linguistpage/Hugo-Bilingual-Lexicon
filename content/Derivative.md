@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Derivative"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Derivative']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['المشتق', 'مشتقة اللفظ']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

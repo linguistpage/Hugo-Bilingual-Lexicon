@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Production Rules"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Production', 'Rules']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['قواعد الإنتاج']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Word Sequence Model"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Word', 'Sequence', 'Model']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['نموذج تسلسل الكلمات']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

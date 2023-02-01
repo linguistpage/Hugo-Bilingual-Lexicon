@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Bootstrapping"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Bootstrapping']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التمهيد']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

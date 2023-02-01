@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Hierarchical Clustering"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Hierarchical', 'Clustering']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التجميع الهرمي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

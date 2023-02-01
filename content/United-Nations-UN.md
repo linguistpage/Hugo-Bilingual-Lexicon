@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "United Nations-UN"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['United', 'Nations', 'UN']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الأمم المتحدة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

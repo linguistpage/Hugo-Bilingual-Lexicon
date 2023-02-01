@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Maximum Entropy"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Maximum', 'Entropy']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الفوضى القصوى']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

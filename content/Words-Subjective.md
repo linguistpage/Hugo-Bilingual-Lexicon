@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Words Subjective"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Words', 'Subjective']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الكلمات التقديرية']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

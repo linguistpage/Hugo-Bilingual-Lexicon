@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Uni-Gram"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Uni-Gram']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['النحو الأحادي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

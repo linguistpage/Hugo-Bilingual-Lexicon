@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Stop Words"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Stop', 'Words']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الكلمات المستبعدة', 'كلمات الوقف']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

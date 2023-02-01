@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Transfer Approach"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Transfer', 'Approach']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['منهج الترجمة التحويلي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

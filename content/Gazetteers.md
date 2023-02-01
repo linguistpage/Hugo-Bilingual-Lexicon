@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Gazetteers"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Gazetteers']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['قواعد بيانات متخصصة للكائنات الاسمية']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

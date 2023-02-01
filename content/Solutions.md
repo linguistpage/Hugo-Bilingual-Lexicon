@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Solutions"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Solutions']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الحلول']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

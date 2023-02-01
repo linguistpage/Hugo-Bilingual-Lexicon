@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Lower Case"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Lower', 'Case']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['حروف صغيرة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

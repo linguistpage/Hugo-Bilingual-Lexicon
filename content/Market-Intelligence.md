@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Market Intelligence"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Market', 'Intelligence']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['استخبارات السوق']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

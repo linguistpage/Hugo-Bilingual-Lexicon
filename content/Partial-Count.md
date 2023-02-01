@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Partial Count"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Partial', 'Count']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['عد جزئي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

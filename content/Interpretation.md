@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Interpretation"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Interpretation']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التفسير']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

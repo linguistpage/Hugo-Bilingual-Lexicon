@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Normalize"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Normalize']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['تطبيع']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

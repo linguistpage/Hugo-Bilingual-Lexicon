@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Identification Module"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Identification', 'Module']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['برنامج التعرف']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

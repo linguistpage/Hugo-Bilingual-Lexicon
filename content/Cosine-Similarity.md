@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Cosine Similarity"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Cosine', 'Similarity']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['تشابه جيب التمام']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

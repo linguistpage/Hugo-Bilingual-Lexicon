@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Generation"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Generation']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['توليد الملخص']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

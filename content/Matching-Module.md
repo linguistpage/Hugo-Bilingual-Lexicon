@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Matching Module"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Matching', 'Module']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['برنامج التطابق']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

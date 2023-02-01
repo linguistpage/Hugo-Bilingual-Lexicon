@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Viterbi Algorithm"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Viterbi', 'Algorithm']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['خوارزم فيتربي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

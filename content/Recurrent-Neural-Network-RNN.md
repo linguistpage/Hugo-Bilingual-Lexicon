@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Recurrent Neural Network-RNN"
 
 categories: ['']
 
 tags: ['Recurrent', 'Neural', 'Network', 'RNN']
 
-arabic: 'الشبكات العصبية المتكررة'
+arabic: ['الشبكات العصبية المتكررة', 'شبكة عصبية متتالية']
 
-arexps: []
+publishers: ['المعالجة اﻵلية للنصوص العربية']
 
-enwords: ['Recurrent Neural Network-RNN']
-
-enexps: []
-
-arlexicons: 'ش'
-
-enlexicons: 'R'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

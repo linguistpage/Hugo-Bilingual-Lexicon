@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Views Summarization"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Views', 'Summarization']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['تلخيص وجهات النظر المختلفة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

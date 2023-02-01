@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Precision Average Mean-PAM"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Precision', 'Average', 'Mean', 'PAM']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['متوسط الدقة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

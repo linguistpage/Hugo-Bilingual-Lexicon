@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Topic Identification"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Topic', 'Identification']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التعرف على موضوع النص']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

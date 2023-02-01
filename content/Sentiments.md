@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Sentiments"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Sentiments']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['معلومات المشاعر']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

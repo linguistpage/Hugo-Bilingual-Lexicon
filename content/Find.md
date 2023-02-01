@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Find"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Find']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['التحري']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

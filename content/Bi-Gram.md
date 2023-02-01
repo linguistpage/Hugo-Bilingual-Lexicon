@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Bi-Gram"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Bi-Gram']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['النحو الثنائي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

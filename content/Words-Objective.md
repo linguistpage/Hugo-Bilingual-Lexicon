@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Words Objective"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Words', 'Objective']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['الكلمات الموضوعية']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Bilingual Corpus"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Bilingual', 'Corpus']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['مدونة ثنائية اللغة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

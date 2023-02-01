@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Direct Approach"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Direct', 'Approach']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['منهج الترجمة المباشرة']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Starting Symbol"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Starting', 'Symbol']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['رمز غير نهائي ابتدائي']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 

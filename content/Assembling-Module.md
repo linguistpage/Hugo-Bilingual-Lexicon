@@ -1,11 +1,11 @@
 ---
-title: "Recall"
+title: "Assembling Module"
 
 categories: ['']
 
-tags: ['Recall']
+tags: ['Assembling', 'Module']
 
-arabic: ['الاستدعاء', 'الاسترجاع']
+arabic: ['برنامج تجميع العبارات']
 
 publishers: ['المعالجة اﻵلية للنصوص العربية']
 
