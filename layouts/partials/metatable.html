@@ -13,9 +13,9 @@
       </tr>
             <tr>
         <th scope="row">المعنى العربي</th>
-        <td>{{- $arwords := .Language.Params.Taxonomies.arword | default "arwords" }}{{- range ($.GetTerms $arwords) }}
-          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
-          {{- end }}
+        <td>
+          <li class="table-list"><a href="">{{.Params.arabic }}</a></li>
+
         </td>
       </tr>
         {{ if .Params.arwords2 }}
