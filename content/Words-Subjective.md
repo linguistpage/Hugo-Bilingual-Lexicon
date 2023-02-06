@@ -1,7 +1,7 @@
 ---
 title: "Words Subjective"
 
-categories: ['']
+categories: ['اللسانيات']
 
 tags: ['Words', 'Subjective']
 

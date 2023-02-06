@@ -6,9 +6,9 @@
     <tbody >
       <tr>
         <th scope="row">الأصل الإنجليزي</th>
-        <td>{{- $enwords := .Language.Params.Taxonomies.enword | default "enwords" }}{{- range ($.GetTerms $enwords) }}
-          <li class="table-list"><a href="">{{ .LinkTitle }}</a></li>
-          {{- end }}
+        <td>
+          <li class="table-list"><a href="">{{ .Title }}</a></li>
+
         </td>
       </tr>
             <tr>
@@ -27,7 +27,7 @@
         </td>
       </tr>
       {{ end }}
-      <tr>
+<!--      <tr>
         <th scope="row">الباب المعجمي الإنجليزي</th>
         <td>{{- $enlexicons := .Language.Params.Taxonomies.enlexicon | default "enlexicons" }}{{- range ($.GetTerms $enlexicons) }}
           <li class="table-list"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
@@ -42,6 +42,8 @@
           {{- end }}
         </td>
       </tr>
+      
+      -->
       <tr>
         <th scope="row">قسم</th>
         <td>{{- $categories := .Language.Params.Taxonomies.category | default "categories" }}{{- range ($.GetTerms $categories) }}
