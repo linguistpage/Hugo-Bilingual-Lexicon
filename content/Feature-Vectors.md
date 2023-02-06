@@ -1,33 +1,15 @@
 ---
-word: "true"
-
-types: "word"
-
 title: "Feature Vectors"
 
 categories: ['']
 
 tags: ['Feature', 'Vectors']
 
-arabic: 'مُتَّجهات السِّمات'
+arabic: ['مُتَّجهات الميزات', 'مُتَّجهات السِّمات']
 
-arexps: []
+publishers: ['تطبيقات أساسية في المعالجة الآلية للغة العربية']
 
-enwords: ['Feature Vectors']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'F'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['X']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

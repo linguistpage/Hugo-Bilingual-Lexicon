@@ -1,33 +1,15 @@
 ---
-word: "true"
-
-types: "word"
-
 title: "Pattern Recognition"
 
 categories: ['']
 
 tags: ['Pattern', 'Recognition']
 
-arabic: 'التعرف الآلي على اﻷنماط'
+arabic: ['التعرف الآلي على اﻷنماط', 'تمييز اﻷنماط']
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Pattern Recognition']
-
-enexps: []
-
-arlexicons: 'ع'
-
-enlexicons: 'P'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['X']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

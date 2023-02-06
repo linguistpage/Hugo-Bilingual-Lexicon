@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Epoch"
 
 categories: ['']
 
 tags: ['Epoch']
 
-arabic: 'دورة'
+arabic: ['الدورة', 'الحقبة', 'الفترة']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Epoch']
-
-enexps: []
-
-arlexicons: 'د'
-
-enlexicons: 'E'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

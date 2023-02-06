@@ -1,33 +1,15 @@
 ---
-word: "true"
-
-types: "word"
-
 title: "Text Mining"
 
 categories: ['']
 
 tags: ['Text', 'Mining']
 
-arabic: 'التنقيب المعلوماتي في النصوص'
+arabic: ['التنقيب المعلوماتي في النصوص', 'التنقيب عن النص']
 
-arexps: []
+publishers: ['تطبيقات أساسية في المعالجة الآلية للغة العربية']
 
-enwords: ['Text Mining']
-
-enexps: []
-
-arlexicons: 'ن'
-
-enlexicons: 'T'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['X']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

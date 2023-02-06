@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Metric"
 
 categories: ['']
 
 tags: ['Metric']
 
-arabic: 'قياس'
+arabic: ['قياس', 'مقياس']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Metric']
-
-enexps: []
-
-arlexicons: 'ق'
-
-enlexicons: 'M'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

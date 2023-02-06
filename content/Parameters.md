@@ -1,13 +1,11 @@
 ---
-types: "word"
-
 title: "Parameters"
 
 categories: ['']
 
 tags: ['Parameters']
 
-arabic: ['مدخلات']
+arabic: ['مدخلات', 'المعلمات']
 
 publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 

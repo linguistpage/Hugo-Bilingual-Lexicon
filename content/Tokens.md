@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Tokens"
 
 categories: ['']
 
 tags: ['Tokens']
 
-arabic: 'وحدات نصية'
+arabic: ['وحدات نصية', 'وحدات لفظية', 'الرموز المميزة']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Tokens']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'T'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

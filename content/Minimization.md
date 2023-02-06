@@ -1,33 +1,15 @@
 ---
-word: "true"
-
-types: "word"
-
 title: "Minimization"
 
 categories: ['']
 
 tags: ['Minimization']
 
-arabic: 'ضغط'
+arabic: ['الضغط', 'التصغير']
 
-arexps: []
+publishers: ['تطبيقات أساسية في المعالجة الآلية للغة العربية']
 
-enwords: ['Minimization']
-
-enexps: []
-
-arlexicons: 'ض'
-
-enlexicons: 'M'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['X']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

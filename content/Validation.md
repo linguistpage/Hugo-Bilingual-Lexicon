@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Validation"
 
 categories: ['']
 
 tags: ['Validation']
 
-arabic: 'تحقق'
+arabic: 'التحقق من الصحة'
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Validation']
-
-enexps: []
-
-arlexicons: 'ح'
-
-enlexicons: 'V'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

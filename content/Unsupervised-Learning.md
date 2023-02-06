@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Unsupervised Learning"
 
 categories: ['']
 
 tags: ['Unsupervised', 'Learning']
 
-arabic: 'التعلم دون إشراف'
+arabic: ['التعلم دون إشراف', 'التعلم غير الخاضع للإشراف']
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Unsupervised Learning']
-
-enexps: []
-
-arlexicons: 'ع'
-
-enlexicons: 'U'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

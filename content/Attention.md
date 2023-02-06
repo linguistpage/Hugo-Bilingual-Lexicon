@@ -1,13 +1,11 @@
 ---
-types: "word"
-
 title: "Attention"
 
 categories: ['']
 
 tags: ['Attention']
 
-arabic: ['التركيز']
+arabic: ['التركيز', 'الانتباه']
 
 publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 

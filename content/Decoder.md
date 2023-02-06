@@ -1,33 +1,15 @@
 ---
-word: "true"
-
-types: "word"
-
 title: "Decoder"
 
 categories: ['']
 
 tags: ['Decoder']
 
-arabic: 'فاكّ الشَّفرة'
+arabic: ['فاكّ الشَّفرة', 'مفكك الشَّفرة']
 
-arexps: []
+publishers: ['تطبيقات أساسية في المعالجة الآلية للغة العربية']
 
-enwords: ['Decoder']
-
-enexps: []
-
-arlexicons: 'ف'
-
-enlexicons: 'D'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['X']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+types: "word"
 
 slug: ""
 ---

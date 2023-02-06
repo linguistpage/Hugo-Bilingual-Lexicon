@@ -1,13 +1,11 @@
 ---
-types: "word"
-
 title: "Fully Connected Layers"
 
 categories: ['']
 
 tags: ['Fully', 'Connected', 'Layers']
 
-arabic: ['طبقات الاتصال الكامل', 'الطبقات تامة الاتصال']
+arabic: ['طبقات الاتصال الكامل', 'الطبقات تامة الاتصال', 'الطبقة المتصلة بالكامل']
 
 publishers: ['خوارزميات الذكاء الاصطناعي في تحليل النص العربي']
 

@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Generator"
 
 categories: ['']
 
 tags: ['Generator']
 
-arabic: 'المولدة'
+arabic: ['المولد']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Generator']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'G'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

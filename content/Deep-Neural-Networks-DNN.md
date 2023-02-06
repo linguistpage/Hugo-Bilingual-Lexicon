@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Deep Neural Networks-DNN"
 
 categories: ['']
 
 tags: ['Deep', 'Neural', 'Networks', 'DNN']
 
-arabic: 'شبكات التعلم العميق'
+arabic: ['شبكات التعلم العميق', 'شبكة عصبية عميقة']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Deep Neural Networks-DNN']
-
-enexps: []
-
-arlexicons: 'ش'
-
-enlexicons: 'D'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

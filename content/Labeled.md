@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Labeled"
 
 categories: ['']
 
 tags: ['Labeled']
 
-arabic: 'موسمة'
+arabic: ['موسمة', 'مصنفة']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Labeled']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'L'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

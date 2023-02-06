@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Fine-Tuning"
 
 categories: ['']
 
 tags: ['Fine', 'Tuning']
 
-arabic: 'المعايرة الدقيقة'
+arabic: ['المعايرة الدقيقة', 'الضبط الدقيق']
 
-arexps: []
+publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
 
-enwords: ['Fine-Tuning']
-
-enexps: []
-
-arlexicons: 'ع'
-
-enlexicons: 'F'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

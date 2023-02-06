@@ -1,34 +1,15 @@
 ---
-types: "word"
-
 title: "Training"
 
 categories: ['']
 
 tags: ['Training']
 
-arabic: 'التدريب'
-arabic2: 'تدريب النظام'
+arabic: ['التدريب', 'تدريب النظام', 'نهج تدريبي']
 
-arexps: []
+publishers: ['تطبيقات أساسية في المعالجة الآلية للغة العربية']
 
-enwords: ['Training']
-
-enexps: []
-
-arlexicons: 'د'
-
-enlexicons: 'T'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات أساسية في المعالجة الآلية للغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

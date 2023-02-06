@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Neurons"
 
 categories: ['']
 
 tags: ['Neurons']
 
-arabic: 'الوحدات العصبونية'
+arabic: ['الوحدات العصبونية', 'الخلايا العصبية']
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Neurons']
-
-enexps: []
-
-arlexicons: 'و'
-
-enlexicons: 'N'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

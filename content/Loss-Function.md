@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Loss Function"
 
 categories: ['']
 
 tags: ['Loss', 'Function']
 
-arabic: 'دالة خسارة'
+arabic: ['دالة الخطأ', 'دالة الخسارة']
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Loss Function']
-
-enexps: []
-
-arlexicons: 'د'
-
-enlexicons: 'L'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---

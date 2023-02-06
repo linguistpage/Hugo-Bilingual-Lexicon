@@ -1,33 +1,15 @@
 ---
-types: "word"
-
 title: "Classes"
 
 categories: ['']
 
 tags: ['Classes']
 
-arabic: 'الأصناف'
+arabic: ['الأصناف', 'الفئات']
 
-arexps: []
+publishers: ['معجم مصطلحات التعلم الآلي والتعلم العميق وعلم البيانات']
 
-enwords: ['Classes']
-
-enexps: []
-
-arlexicons: 'ص'
-
-enlexicons: 'C'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
-word: "true"
+types: "word"
 
 slug: ""
 ---
