@@ -3,31 +3,16 @@ word: "true"
 
 types: "word"
 
-title: "Typewritten OCR"
-
-categories: ['']
-
-tags: ['Typewritten', 'OCR']
-
-arabic: 'التعرف الآلي على الكتابة المطبوعة'
-
-arexps: []
-
-enwords: ['Typewritten OCR']
-
-enexps: []
-
-arlexicons: 'ع'
-
-enlexicons: 'T'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
+title: "Typewritter OCR"
+enwords: "TypeWritten Optical Character Recognition"
+arabic: "التعرف الآلي على الكلام المطبوع"
+categories : ['OCR', 'Information Retrieval']
+tags : ['typewritten','OCR','optical','character','recognition']
+translators : ['Tarek Oraby']
+arlexicons : ['ع']
+enlexicons : ['T']
+authors : ['Tarek Oraby']
+citations: ['N/A']
+sources: "N/A"
 slug: ""
 ---

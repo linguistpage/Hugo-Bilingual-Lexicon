@@ -4,30 +4,15 @@ word: "true"
 types: "word"
 
 title: "Language Recognition"
-
-categories: ['']
-
-tags: ['Language', 'Recognition']
-
-arabic: 'التعرف على اللغة'
-
-arexps: []
-
-enwords: ['Language Recognition']
-
-enexps: []
-
-arlexicons: 'ع'
-
-enlexicons: 'L'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
+enwords: "Language Recognition"
+arabic: "التعرف الآلي على اللغة"
+categories : ['Human Language Technologies']
+tags : ['Language','Recognition']
+translators : ['Tarek Oraby']
+arlexicons : ['ع']
+enlexicons : ['L']
+authors : ['Tarek Oraby']
+citations: ['N/A']
+sources: "N/A"
 slug: ""
 ---

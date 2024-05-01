@@ -4,30 +4,15 @@ word: "true"
 types: "word"
 
 title: "Statistical Machine Translation"
-
-categories: ['']
-
-tags: ['Statistical', 'Machine', 'Translation']
-
-arabic: 'الترجمة الآلية الإحصائية'
-
-arexps: []
-
-enwords: ['Statistical Machine Translation']
-
-enexps: []
-
-arlexicons: 'ت'
-
-enlexicons: 'S'
-
-authors: ['Ruqayya Roshdy']
-
-translators: ['']
-
-citations: 'مقدمة في حوسبة اللغة العربية'
-
-sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
-
+enwords: "Statistical Machine Translation"
+arabic: "الترجمة الآلية الإحصائية"
+categories : ['Translation', 'Machine Translation', 'Statistics']
+tags : ['']
+translators : ['']
+arlexicons : ['ت']
+enlexicons : ['s']
+authors : ['Tarek Oraby']
+citations: ['N/A']
+sources: "N/A"
 slug: ""
 ---

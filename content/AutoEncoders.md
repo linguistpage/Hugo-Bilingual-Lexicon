@@ -1,15 +1,33 @@
 ---
-title: "AutoEncoders"
+types: "word"
+
+title: "Autoencoders"
 
 categories: ['']
 
 tags: ['Autoencoders']
 
-arabic: ['شبكة التشفير الآلي', 'المشفر التلقائي']
+arabic: 'شبكة التشفير الآلي'
 
-publishers: ['تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية']
+arexps: []
 
-types: "word"
+enwords: ['Autoencoders']
+
+enexps: []
+
+arlexicons: 'ش'
+
+enlexicons: 'A'
+
+authors: ['Ruqayya Roshdy']
+
+translators: ['']
+
+citations: 'تطبيقات الذكاء الاصطناعي في خدمة اللغة العربية'
+
+sources: 'مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية'
+
+word: "true"
 
 slug: ""
 ---
