@@ -15,8 +15,14 @@ slug: ""
 ---
 
 
-'''python
 
+---
+title: "TF-IDF on Arabic Text"
+date: 2024-06-16
+draft: false
+---
+
+```python
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import normalize
@@ -66,5 +72,3 @@ tfidf_matrix = normalize(tfidf_matrix, norm='l2')
 df = pd.DataFrame(tfidf_matrix.toarray(), columns=vectorizer.get_feature_names_out())
 
 print(df)
-
-'''
